@@ -86,8 +86,12 @@ class ReportBuilder:
             leading=14
         ))
 
+    def _make_anchor_id(self, category: str) -> str:
+        """Create a safe anchor ID from category name."""
+        return category.replace(" ", "_").replace("'", "").replace("&", "and")
+
     def _build_glossary(self, categorized_articles: dict) -> list:
-        """Build a glossary/navigation section at the top of the report."""
+        """Build a glossary/navigation section with internal links to each category."""
         elements = []
 
         glossary_title = Paragraph(
@@ -96,13 +100,15 @@ class ReportBuilder:
         elements.append(glossary_title)
         elements.append(Spacer(1, 0.2 * inch))
 
-        # Build category summary with article counts
+        # Build category summary with internal anchor links
         for category, articles in categorized_articles.items():
             count = len(articles)
             if count == 0:
                 continue
+            anchor_id = self._make_anchor_id(category)
             bullet = Paragraph(
-                f'<b>{category}</b> — {count} article{"s" if count != 1 else ""}',
+                f'<a href="#{anchor_id}" color="#003366">'
+                f'<b>{category}</b></a> — {count} article{"s" if count != 1 else ""}',
                 self.styles["Normal"]
             )
             elements.append(bullet)
@@ -189,9 +195,13 @@ class ReportBuilder:
         if not articles:
             return elements
 
-        # Category divider page
+        # Category divider page with anchor for internal navigation
+        anchor_id = self._make_anchor_id(category)
         elements.append(Spacer(1, 2 * inch))
-        elements.append(Paragraph(category, self.styles["CategoryHeader"]))
+        elements.append(Paragraph(
+            f'<a name="{anchor_id}"/><b>{category}</b>',
+            self.styles["CategoryHeader"]
+        ))
         elements.append(Spacer(1, 0.5 * inch))
         elements.append(PageBreak())
 

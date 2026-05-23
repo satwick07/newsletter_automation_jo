@@ -2,10 +2,23 @@ name: NSE Daily Newsletter
 
 on:
   schedule:
-    # 6:30 AM IST = 1:00 AM UTC
+    # 6:30 AM IST = 1:00 AM UTC (1st Cut)
     - cron: '0 1 * * 1-5'
+    # 8:00 AM IST = 2:30 AM UTC (Morning Brief)
+    - cron: '30 2 * * 1-5'
+    # 9:00 AM IST = 3:30 AM UTC (Final Cut)
+    - cron: '30 3 * * 1-5'
   workflow_dispatch:
-    # Allow manual trigger
+    inputs:
+      mode:
+        description: 'Run mode'
+        required: true
+        default: 'first-cut'
+        type: choice
+        options:
+          - first-cut
+          - morning-brief
+          - final-cut
 
 permissions:
   contents: write
@@ -37,8 +50,28 @@ jobs:
           echo "TELEGRAM_BOT_TOKEN=${{ secrets.TELEGRAM_BOT_TOKEN }}" > .env
           echo "TELEGRAM_CHAT_ID=${{ secrets.TELEGRAM_CHAT_ID }}" >> .env
 
+      - name: Determine run mode
+        id: mode
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "mode=${{ github.event.inputs.mode }}" >> $GITHUB_OUTPUT
+          else
+            # Determine mode from cron schedule time
+            HOUR=$(date -u +%H)
+            MINUTE=$(date -u +%M)
+            if [ "$HOUR" = "01" ]; then
+              echo "mode=first-cut" >> $GITHUB_OUTPUT
+            elif [ "$HOUR" = "02" ]; then
+              echo "mode=morning-brief" >> $GITHUB_OUTPUT
+            elif [ "$HOUR" = "03" ]; then
+              echo "mode=final-cut" >> $GITHUB_OUTPUT
+            else
+              echo "mode=first-cut" >> $GITHUB_OUTPUT
+            fi
+          fi
+
       - name: Run newsletter agent
-        run: python main.py
+        run: python main.py --mode ${{ steps.mode.outputs.mode }}
 
       - name: Commit and push report
         continue-on-error: true
@@ -47,13 +80,14 @@ jobs:
           git config user.email "bot@newsletter.local"
           git add output/ logs/ || true
           timestamp=$(date +"%Y-%m-%d %H:%M")
-          git commit -m "Daily newsletter report - ${timestamp}" || echo "No changes to commit"
-          git push || echo "Push failed - enable Actions write permissions in repo Settings > Actions > General > Workflow permissions"
+          mode="${{ steps.mode.outputs.mode }}"
+          git commit -m "Newsletter ${mode} - ${timestamp}" || echo "No changes to commit"
+          git push || echo "Push failed"
 
       - name: Upload report artifact
         if: always()
         uses: actions/upload-artifact@v4
         with:
-          name: newsletter-report
+          name: newsletter-report-${{ steps.mode.outputs.mode }}
           path: output/*.pdf
           retention-days: 7
