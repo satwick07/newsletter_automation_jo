@@ -108,28 +108,33 @@
     },
     "Corporate": {
       "keywords": [
-        "Corporate India",
-        "Company news India"
+        "India corporate earnings",
+        "India company fundraising",
+        "India IPO market",
+        "India FDI investment",
+        "India mergers acquisitions"
       ],
-      "rules": "Only include trending/breaking stories. Consider critical nation, economy, and global economy updates."
+      "exclude_keywords": ["AI hiring", "jobs ladder", "layoffs", "jugaad", "east india company", "startup culture", "work from home", "WFH"],
+      "rules": "Only include trending/breaking stories about corporate finance - earnings, fundraising, IPOs, M&A, FDI. NOT general corporate culture/HR/hiring stories."
     },
     "Others": {
       "keywords": [
         "GIFT City",
-        "Import India",
-        "Export India",
-        "US SEC",
-        "Equity Derivatives",
-        "Currency Derivatives",
-        "Commodity Derivatives",
+        "India import duty",
+        "India export policy",
+        "US SEC regulation",
+        "Equity Derivatives India",
+        "Currency Derivatives India",
+        "Commodity Derivatives India",
         "Interest Rate Derivatives",
-        "RBI",
-        "Ministry of Finance",
+        "RBI monetary policy",
+        "RBI interest rate",
+        "Ministry of Finance India budget",
         "Nirmala Sitharaman",
-        "Primary Secondary Markets",
-        "Economy India"
+        "India capital markets"
       ],
-      "rules": "Only include trending/breaking stories. Consider critical nation, economy, and global economy updates."
+      "exclude_keywords": ["AI hiring", "digital east india", "jugaad", "jobs ladder", "graduate jobs", "career"],
+      "rules": "Only include trending/breaking stories about financial policy, trade, derivatives, RBI actions, fiscal policy. NOT general economy/technology/employment stories."
     }
   }
 }

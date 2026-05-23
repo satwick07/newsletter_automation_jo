@@ -1,13 +1,14 @@
 """
 Report Builder Module
 Generates a PDF report with:
-- Table of contents (Sr No, Headline, Publication, Page No)
+- Table of contents (Sr No, Headline, Publication) with clickable links
 - Category section dividers
-- Article pages with screenshot + headline + link
+- Article pages with screenshot + headline + clickable link
 """
 
 import logging
 from datetime import datetime
+from html import escape as html_escape
 from pathlib import Path
 
 from reportlab.lib import colors
@@ -85,17 +86,49 @@ class ReportBuilder:
             leading=14
         ))
 
+    def _build_glossary(self, categorized_articles: dict) -> list:
+        """Build a glossary/navigation section at the top of the report."""
+        elements = []
+
+        glossary_title = Paragraph(
+            "<b>Index / Navigation</b>", self.styles["CategoryHeader"]
+        )
+        elements.append(glossary_title)
+        elements.append(Spacer(1, 0.2 * inch))
+
+        # Build category summary with article counts
+        for category, articles in categorized_articles.items():
+            count = len(articles)
+            if count == 0:
+                continue
+            bullet = Paragraph(
+                f'<b>{category}</b> — {count} article{"s" if count != 1 else ""}',
+                self.styles["Normal"]
+            )
+            elements.append(bullet)
+            elements.append(Spacer(1, 0.05 * inch))
+
+        elements.append(Spacer(1, 0.3 * inch))
+        elements.append(HRFlowable(
+            width="100%", thickness=1, color=colors.HexColor("#CCCCCC")
+        ))
+        elements.append(Spacer(1, 0.3 * inch))
+        return elements
+
     def _build_toc(self, categorized_articles: dict) -> list:
-        """Build Table of Contents page."""
+        """Build Table of Contents page with glossary."""
         elements = []
         date_str = datetime.now().strftime("%d %B %Y")
         title = f"{self.title_prefix} - {date_str}"
 
         elements.append(Paragraph(title, self.styles["ReportTitle"]))
-        elements.append(Spacer(1, 0.3 * inch))
+        elements.append(Spacer(1, 0.2 * inch))
+
+        # Glossary / Navigation
+        elements.extend(self._build_glossary(categorized_articles))
 
         # Build TOC table data
-        table_data = [["Sr\nNo", "Headline", "Publication", "Page\nNo"]]
+        table_data = [["Sr No", "Headline", "Publication"]]
         sr_no = 1
 
         for category, articles in categorized_articles.items():
@@ -103,22 +136,29 @@ class ReportBuilder:
                 continue
             # Category header row
             table_data.append([
-                "", Paragraph(f"<b>{category}</b>", self.styles["Normal"]), "", ""
+                "", Paragraph(f"<b>{category}</b>", self.styles["Normal"]), ""
             ])
             for article in articles:
-                headline_text = article.headline[:80]
-                if len(article.headline) > 80:
+                headline_text = article.headline[:100]
+                if len(article.headline) > 100:
                     headline_text += "..."
+                # Make headline a clickable link in TOC
+                safe_url = html_escape(article.url, quote=True)
+                safe_headline = html_escape(headline_text)
+                linked_headline = Paragraph(
+                    f'<a href="{safe_url}" color="#0066CC"><u>{safe_headline}</u></a>',
+                    self.styles["TOCEntry"]
+                )
                 table_data.append([
                     str(sr_no),
-                    headline_text,
+                    linked_headline,
                     article.publication,
-                    "NA"  # Page numbers are hard to predict with dynamic content
                 ])
                 sr_no += 1
 
-        # Style the TOC table
-        col_widths = [0.5 * inch, 4.0 * inch, 1.5 * inch, 0.5 * inch]
+        # Style the TOC table — wider headline, narrower Sr No
+        available_width = PAGE_WIDTH - 1.5 * inch
+        col_widths = [0.4 * inch, available_width - 0.4 * inch - 1.3 * inch, 1.3 * inch]
         toc_table = Table(table_data, colWidths=col_widths, repeatRows=1)
         toc_table.setStyle(TableStyle([
             ("BACKGROUND", (0, 0), (-1, 0), colors.HexColor("#003366")),
@@ -127,13 +167,14 @@ class ReportBuilder:
             ("FONTSIZE", (0, 0), (-1, 0), 9),
             ("FONTNAME", (0, 0), (-1, 0), "Helvetica-Bold"),
             ("ALIGN", (0, 0), (0, -1), "CENTER"),
-            ("ALIGN", (3, 0), (3, -1), "CENTER"),
-            ("VALIGN", (0, 0), (-1, -1), "MIDDLE"),
+            ("VALIGN", (0, 0), (-1, -1), "TOP"),
             ("GRID", (0, 0), (-1, -1), 0.5, colors.HexColor("#CCCCCC")),
             ("ROWBACKGROUNDS", (0, 1), (-1, -1),
              [colors.white, colors.HexColor("#F5F5F5")]),
             ("TOPPADDING", (0, 0), (-1, -1), 4),
             ("BOTTOMPADDING", (0, 0), (-1, -1), 4),
+            ("LEFTPADDING", (0, 0), (-1, -1), 4),
+            ("RIGHTPADDING", (0, 0), (-1, -1), 4),
         ]))
 
         elements.append(toc_table)
@@ -156,37 +197,60 @@ class ReportBuilder:
 
         # Individual article pages
         for article in articles:
+            # Escape URL for XML safety (& -> &amp; etc.)
+            safe_url = html_escape(article.url, quote=True)
+            safe_headline = html_escape(article.headline)
+
             # Publication name
             elements.append(Paragraph(
-                f"<b>{article.publication}</b>",
+                f"<b>{html_escape(article.publication)}</b>",
                 self.styles["ArticleMeta"]
             ))
 
-            # Headline with link
+            # Headline with clickable link
             headline_text = (
-                f'Headline - <a href="{article.url}" color="blue">'
-                f'{article.headline}</a>'
+                f'Headline - <a href="{safe_url}" color="blue">'
+                f'<u>{safe_headline}</u></a>'
             )
             elements.append(Paragraph(headline_text, self.styles["ArticleHeadline"]))
 
-            # URL display
+            # URL display as clickable link
             url_display = article.url[:100]
             if len(article.url) > 100:
                 url_display += "..."
             elements.append(Paragraph(
-                f'<a href="{article.url}" color="blue">{url_display}</a>',
+                f'<a href="{safe_url}" color="blue"><u>{html_escape(url_display)}</u></a>',
                 self.styles["ArticleLink"]
             ))
 
             elements.append(Spacer(1, 0.2 * inch))
 
-            # Screenshot image
+            # Screenshot image - maintain original aspect ratio
             if article.screenshot_path and Path(article.screenshot_path).exists():
                 try:
+                    img = Image(article.screenshot_path)
+                    orig_width = img.imageWidth
+                    orig_height = img.imageHeight
+
+                    # Available space on page
+                    max_width = PAGE_WIDTH - 2 * inch
+                    max_height = PAGE_HEIGHT - 3.5 * inch
+
+                    # Scale to fit width, preserving aspect ratio
+                    scale = max_width / orig_width
+                    new_width = max_width
+                    new_height = orig_height * scale
+
+                    # If height exceeds available space, scale down further
+                    if new_height > max_height:
+                        scale = max_height / orig_height
+                        new_height = max_height
+                        new_width = orig_width * scale
+
                     img = Image(
                         article.screenshot_path,
-                        width=PAGE_WIDTH - 2 * inch,
-                        height=PAGE_HEIGHT - 3.5 * inch
+                        width=new_width,
+                        height=new_height
                     )
                     img.hAlign = "CENTER"
                     elements.append(img)
