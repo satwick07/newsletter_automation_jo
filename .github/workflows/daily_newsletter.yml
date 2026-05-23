@@ -41,14 +41,14 @@ jobs:
         run: python main.py
 
       - name: Commit and push report
+        continue-on-error: true
         run: |
           git config user.name "Newsletter Bot"
           git config user.email "bot@newsletter.local"
-          git add output/
-          git add logs/
+          git add output/ logs/ || true
           timestamp=$(date +"%Y-%m-%d %H:%M")
           git commit -m "Daily newsletter report - ${timestamp}" || echo "No changes to commit"
-          git push
+          git push || echo "Push failed - enable Actions write permissions in repo Settings > Actions > General > Workflow permissions"
 
       - name: Upload report artifact
         if: always()
