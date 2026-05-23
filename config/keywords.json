@@ -1,4 +1,10 @@
 {
+  "global_exclude_keywords": [
+    "cricket", "IPL", "kohli", "dhoni", "rohit sharma", "sachin",
+    "football", "FIFA", "rugby", "tennis", "hockey", "olympics",
+    "bollywood", "movie", "film review", "entertainment",
+    "horoscope", "astrology", "recipe", "lifestyle"
+  ],
   "categories": {
     "NSE and NSE Related": {
       "keywords": [
@@ -56,9 +62,9 @@
     },
     "MIIs": {
       "keywords": [
-        "MCX",
-        "BSE",
-        "Exchanges",
+        "MCX India",
+        "BSE India stock exchange",
+        "Indian stock exchanges",
         "NCDEX",
         "NSDL",
         "PXIL",
@@ -66,6 +72,7 @@
         "CCIL",
         "CDSL"
       ],
+      "exclude_keywords": ["cricket", "sports", "IPL", "kohli", "rugby", "football", "tennis", "hockey"],
       "rules": "Include stories related to product, innovation, prominent spokesperson interview, company development, platform glitches, and also record breaking daily market movements."
     },
     "International MIIs": {

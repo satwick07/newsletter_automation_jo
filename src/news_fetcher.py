@@ -57,6 +57,9 @@ class NewsFetcher:
         self.keywords = self._load_keywords()
         self.publications = self._load_publications()
         self._all_publications = self._flatten_publications()
+        self._global_excludes = [
+            kw.lower() for kw in self.keywords.get("global_exclude_keywords", [])
+        ]
 
     def _load_keywords(self) -> dict:
         keywords_path = self.config_dir / "keywords.json"
@@ -149,6 +152,22 @@ class NewsFetcher:
                 return True
         return False
 
+    def _is_excluded(self, headline: str, category_excludes: list = None) -> bool:
+        """Check if headline contains any excluded keywords (global + category)."""
+        headline_lower = headline.lower()
+        # Check global excludes
+        for excl in self._global_excludes:
+            if excl in headline_lower:
+                logger.debug(f"Excluded (global '{excl}'): {headline}")
+                return True
+        # Check category-specific excludes
+        if category_excludes:
+            for excl in category_excludes:
+                if excl.lower() in headline_lower:
+                    logger.debug(f"Excluded (category '{excl}'): {headline}")
+                    return True
+        return False
+
     def fetch_news(self, hours_back: int = 24,
                    max_per_category: int = 15) -> dict[str, list[Article]]:
         """
@@ -162,6 +181,7 @@ class NewsFetcher:
         for category_name, category_data in categories.items():
             category_articles = []
             keywords = category_data.get("keywords", [])
+            category_excludes = category_data.get("exclude_keywords", [])
 
             logger.info(f"Fetching news for category: {category_name} "
                        f"({len(keywords)} keywords)")
@@ -181,6 +201,10 @@ class NewsFetcher:
 
                     # Check if publication is in our whitelist
                     if not self._is_known_publication(raw["publication"]):
+                        continue
+
+                    # Check exclude keywords (global + category-specific)
+                    if self._is_excluded(raw["headline"], category_excludes):
                         continue
 
                     seen_urls.add(raw["url"])
