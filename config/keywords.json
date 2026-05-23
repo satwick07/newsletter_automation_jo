@@ -1,0 +1,128 @@
+{
+  "categories": {
+    "NSE and NSE Related": {
+      "keywords": [
+        "National Stock Exchange",
+        "NSE",
+        "NSE Co-location",
+        "NSE IPO",
+        "National Stock Exchange of India",
+        "NSE Investor Awareness",
+        "NSE Caution for Investors",
+        "NSE Bell Ringing",
+        "NSE Glitch",
+        "NSE Academy",
+        "NSE Clearing",
+        "NSE Data & Analytics",
+        "NSE Foundation",
+        "NSE Indices",
+        "NSE International Exchange",
+        "NSE International Clearing",
+        "NSEIT",
+        "NSE Infotech",
+        "NSE Cogencis",
+        "NSE IX",
+        "NSE Emerge"
+      ],
+      "rules": "All direct coverages of NSE - press releases, events where spokesperson is quoted, initiatives, investor caution, associations, any prominent news where NSE or NSE related entities are mentioned. Excludes daily nifty/market movements or companies listing newly on NSE."
+    },
+    "NSE Senior Management": {
+      "keywords": [
+        "Ashishkumar Chauhan",
+        "Shailesh Pathak",
+        "Sriram Krishnan",
+        "Vikram Limaye",
+        "Yatrik Vin",
+        "Viral Mody",
+        "Vikram Kothari",
+        "Mukesh Agarwal",
+        "Balasubramaniam",
+        "Ankit Sharma",
+        "Srinivas Injeti",
+        "Sanjay Shorey"
+      ],
+      "rules": "Highlighted in green are most active and important. Include any news where NSE senior management is quoted or featured."
+    },
+    "SEBI": {
+      "keywords": [
+        "SEBI",
+        "Securities and Exchange Board of India",
+        "Securities Appellate Tribunal",
+        "Tuhin Kanta Pandey",
+        "Madhabi Puri Buch",
+        "SEBI Markets"
+      ],
+      "rules": "Include all relevant updates from the regulator, also if they have spoken at an event."
+    },
+    "MIIs": {
+      "keywords": [
+        "MCX",
+        "BSE",
+        "Exchanges",
+        "NCDEX",
+        "NSDL",
+        "PXIL",
+        "Sundararaman Ramamurthy",
+        "CCIL",
+        "CDSL"
+      ],
+      "rules": "Include stories related to product, innovation, prominent spokesperson interview, company development, platform glitches, and also record breaking daily market movements."
+    },
+    "International MIIs": {
+      "keywords": [
+        "Morgan Stanley Capital International",
+        "SGX",
+        "US Exchange",
+        "Nasdaq",
+        "Shanghai Stock Exchange",
+        "New York Stock Exchange",
+        "Euronext",
+        "The Stock Exchange of Hong Kong",
+        "Tokyo Stock Exchange",
+        "Shenzen Stock Exchange",
+        "London Stock Exchange",
+        "Toronto Stock Exchange",
+        "Hongkong Stock Exchange",
+        "London Metal Exchange",
+        "Taiwan Futures Exchange",
+        "Canadian Securities Exchange",
+        "Deutsche Boerse AG",
+        "Australian Stock Exchange",
+        "Japan Exchange Group",
+        "Frankfurt Stock Exchange",
+        "SIX Swiss Exchange",
+        "Korea Stock Exchange",
+        "Johannesburg Stock Exchange",
+        "Dow Jones",
+        "S&P 500",
+        "Forex"
+      ],
+      "rules": "Include stories related to product, innovation, prominent spokesperson interview, company development, platform glitches, and also record breaking daily market movements."
+    },
+    "Corporate": {
+      "keywords": [
+        "Corporate India",
+        "Company news India"
+      ],
+      "rules": "Only include trending/breaking stories. Consider critical nation, economy, and global economy updates."
+    },
+    "Others": {
+      "keywords": [
+        "GIFT City",
+        "Import India",
+        "Export India",
+        "US SEC",
+        "Equity Derivatives",
+        "Currency Derivatives",
+        "Commodity Derivatives",
+        "Interest Rate Derivatives",
+        "RBI",
+        "Ministry of Finance",
+        "Nirmala Sitharaman",
+        "Primary Secondary Markets",
+        "Economy India"
+      ],
+      "rules": "Only include trending/breaking stories. Consider critical nation, economy, and global economy updates."
+    }
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "online": [
+    "Wall Street Journal", "Financial Times", "The Economists", "Reuters",
+    "ET Prime", "BQ Prime", "Bloomberg", "Morning Context", "The Ken",
+    "Money Control", "CNBC", "Forbes", "Business Insider", "Market Watch",
+    "Indian Express", "ETMarkets.com", "India Infoline", "Zee Business",
+    "Times Now News", "Business Upturn", "INC 42", "Money9", "Yourstory",
+    "CNBC TV 18.com", "ET Online", "FE Online", "BS Online",
+    "Indian Express Online", "The Ken", "Livemint", "BT Online",
+    "Nivesh Manthan", "First Post", "Businessworld", "Money Life",
+    "Morning Context", "NDTV Profit", "News Logic", "Dainik Jagran Online",
+    "India Today Online", "Quartz", "The Print", "Pgurus",
+    "Fortune India Online", "Outlook Money"
+  ],
+  "financial": [
+    "The Economic Times", "Business Standard", "Mint", "Hindu Businessline",
+    "Financial Express", "Business Today", "Capital Market",
+    "Dalal Street Investment Journal", "Outlook Money"
+  ],
+  "international": [
+    "The Economist", "IEA", "Nikkei", "The Mail", "Financial Times",
+    "Gulf News", "New York Times", "Wall Street Journal", "Bloomberg Live",
+    "BBC", "AFP", "EuroMoney", "Somoy Media", "PTI Singapore",
+    "Deal Street Asia", "Bloomberg Hongkong", "Washington Post",
+    "Khaleej Times", "ANI Mumbai", "The National", "CNN International",
+    "ITV News", "Strait Times", "Connected to India",
+    "The Business Times", "Evening Standard", "Global Investor",
+    "Asia Asset Management"
+  ],
+  "print": [
+    "Times of India", "Navbharat Times", "The Economic Times",
+    "Bangalore Mirror", "Maharashtra Times", "Times Now News",
+    "The New Indian Express", "Mumbai Mirror", "Business Standard",
+    "The Pioneer", "Mint", "The Statesman", "Millennium Post",
+    "Business Line", "Free Press Journal", "Hindustan Times",
+    "Indian Express", "The Hindu", "Telegraph"
+  ],
+  "regional": [
+    "Loksatta", "Nav Bharat", "Maharashtra Times", "Punjab Kesari", "DNA",
+    "Sakshi", "Malayala Manorama", "Dainik Navjyoti", "Midday Gujarati",
+    "Hindu Business Line", "Deepika", "Nagaland Post", "Deccan Chronicle",
+    "Sakal Times", "Dainik Bhaskar", "Dainik Jagran", "Gujrat Samachar",
+    "Lokmat", "Amar Ujala", "Ei Samay", "Maharashtra Times", "Sakal",
+    "Pudhari", "Prahaar", "Divya Marathi", "Punya Nagari", "Samana",
+    "Navshakti", "Gujrat Samachar", "Mumbai Samachar", "Janmabhoomi",
+    "Vyapar", "Divya Bhaskar", "Dabang Dunia", "Mumbai Tarun Bharat",
+    "Apale Mahanagar", "Mumbai Mitra", "Sagar", "Vritt Manas", "Shivner",
+    "Ratnagiri Times", "Mathrubhumi", "Maza Mahanagar", "NBT", "Navbharat",
+    "Hamahara Mahanagar", "Saamana", "Yashobhumi", "Jagruk Times",
+    "Business Bhaskar", "Absolute India", "Jansatta"
+  ],
+  "tv_channels": [
+    "CNBC Awaaz", "CNBC TV18", "NDTV Profit", "Bloomberg", "NDTV 24x7",
+    "CNN", "ET Now", "India Ahead", "India Today", "Mirror Now", "Aajtak",
+    "BBC World", "ABP Network", "Times Now", "Zee News", "DD News",
+    "ET Now Swadesh", "Mirror Now", "NDTV 24x7", "NDTV Profit", "News9",
+    "NewsX", "Republic TV", "Times Now", "WION", "ABP Ganga",
+    "First India News Rajasthan"
+  ],
+  "magazines": [
+    "Businessworld", "Business Today", "The Week", "UNIVARTA",
+    "Banking Frontier", "Outlook Business", "Fortune India", "Forbes India",
+    "Business India", "Outlook Money", "U.S. News & World Report",
+    "What Investment", "Investors Chronicle", "Bloomberg Markets",
+    "Bloomberg Businessweek", "Public Finance", "Money Observer",
+    "Airliner World", "Money", "Fortune", "Business Today", "Entrepreneur",
+    "Businessworld", "Inc."
+  ],
+  "wires": [
+    "PTI", "Bloomberg", "Bloomberg Quint", "PTI Bhasha", "IANS", "Reuters"
+  ]
+}

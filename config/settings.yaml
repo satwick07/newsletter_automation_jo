@@ -1,0 +1,44 @@
+# NSE Daily Newsletter Agent - Settings
+
+schedule:
+  # Times in IST (Indian Standard Time)
+  first_cut: "06:30"
+  morning_brief: "08:00"
+  final_cut: "09:00"
+
+news_fetch:
+  # Look back window in hours (from current time)
+  lookback_hours: 24
+  # On Monday, look back to Friday 10 AM
+  monday_lookback_hours: 70
+  # Max articles per category
+  max_articles_per_category: 10
+  # Max total articles in report
+  max_total_articles: 40
+  # Google News region
+  region: "IN"
+  language: "en"
+
+screenshot:
+  # Viewport dimensions for above-the-fold capture
+  viewport_width: 1280
+  viewport_height: 900
+  # Timeout for page load (seconds)
+  page_timeout: 20
+  # Wait after page load before screenshot (seconds)
+  wait_after_load: 1
+
+report:
+  # Output format
+  title_prefix: "NSE Daily News Update"
+  # PDF page size
+  page_size: "A4"
+  # Retention days
+  retention_days: 7
+
+telegram:
+  # Message format
+  send_pdf: true
+  send_inline_summary: true
+  # Max message length for Telegram
+  max_message_length: 4096

@@ -1,0 +1,54 @@
+name: NSE Daily Newsletter
+
+on:
+  schedule:
+    # 6:30 AM IST = 1:00 AM UTC
+    - cron: '0 1 * * 1-5'
+  workflow_dispatch:
+    # Allow manual trigger
+
+jobs:
+  generate-newsletter:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+          playwright install chromium
+          playwright install-deps
+
+      - name: Create .env from secrets
+        run: |
+          echo "TELEGRAM_BOT_TOKEN=${{ secrets.TELEGRAM_BOT_TOKEN }}" > .env
+          echo "TELEGRAM_CHAT_ID=${{ secrets.TELEGRAM_CHAT_ID }}" >> .env
+
+      - name: Run newsletter agent
+        run: python main.py
+
+      - name: Commit and push report
+        run: |
+          git config user.name "Newsletter Bot"
+          git config user.email "bot@newsletter.local"
+          git add output/
+          git add logs/
+          timestamp=$(date +"%Y-%m-%d %H:%M")
+          git commit -m "Daily newsletter report - ${timestamp}" || echo "No changes to commit"
+          git push
+
+      - name: Upload report artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: newsletter-report
+          path: output/*.pdf
+          retention-days: 7

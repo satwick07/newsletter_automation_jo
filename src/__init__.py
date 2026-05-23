@@ -1,0 +1,1 @@
+# NSE Daily Newsletter Automation

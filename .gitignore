@@ -1,0 +1,29 @@
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs (keep structure, ignore contents)
+logs/*.log
+
+# Screenshots are regenerated daily
+output/screenshots/
+
+# Keep output directory structure
+!output/.gitkeep
