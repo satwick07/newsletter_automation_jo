@@ -13,8 +13,8 @@ from playwright.async_api import async_playwright, TimeoutError as PlaywrightTim
 
 logger = logging.getLogger(__name__)
 
-# Max concurrent screenshot tabs (keep low to avoid detection)
-MAX_CONCURRENT = 3
+# Max concurrent screenshot tabs
+MAX_CONCURRENT = 4
 
 # Realistic user agents (rotated per page)
 USER_AGENTS = [
@@ -65,8 +65,8 @@ class ScreenshotCapture:
         screenshot_path = self.screenshots_dir / f"{filename}.png"
 
         async with semaphore:
-            # Random delay between 1-3 seconds before each capture (mimics human)
-            await asyncio.sleep(random.uniform(1.0, 3.0))
+            # Random delay between captures (shorter on CI, longer locally)
+            await asyncio.sleep(random.uniform(0.5, 1.5))
 
             page = await context.new_page()
             await self._stealth_setup(page)
@@ -76,14 +76,14 @@ class ScreenshotCapture:
                 await page.goto(url, wait_until="domcontentloaded",
                               timeout=self.page_timeout)
 
-                # Human-like wait (random 1.5-3s)
-                await page.wait_for_timeout(random.randint(1500, 3000))
+                # Wait for content to render
+                await page.wait_for_timeout(random.randint(1000, 2000))
 
-                # Simulate minimal scroll (human behavior)
+                # Simulate minimal scroll
                 await page.evaluate("window.scrollBy(0, 100)")
-                await page.wait_for_timeout(300)
+                await page.wait_for_timeout(200)
                 await page.evaluate("window.scrollTo(0, 0)")
-                await page.wait_for_timeout(500)
+                await page.wait_for_timeout(300)
 
                 # Quick popup dismiss
                 await self._dismiss_popups(page)
