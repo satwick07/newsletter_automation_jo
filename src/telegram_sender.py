@@ -99,9 +99,16 @@ class TelegramSender:
                 headline = article.headline[:70]
                 if len(article.headline) > 70:
                     headline += "..."
+                pub_info = article.publication
+                # Show other publications that carried the same story
+                also_in = getattr(article, 'also_published_in', [])
+                if also_in:
+                    pub_info += f", {', '.join(also_in[:3])}"
+                    if len(also_in) > 3:
+                        pub_info += f" +{len(also_in)-3} more"
                 line = (
                     f'{i}. <a href="{article.url}">{headline}</a> '
-                    f'<i>({article.publication})</i>\n'
+                    f'<i>({pub_info})</i>\n'
                 )
                 section += line
 

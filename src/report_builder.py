@@ -211,11 +211,15 @@ class ReportBuilder:
             safe_url = html_escape(article.url, quote=True)
             safe_headline = html_escape(article.headline)
 
-            # Publication name
-            elements.append(Paragraph(
-                f"<b>{html_escape(article.publication)}</b>",
-                self.styles["ArticleMeta"]
-            ))
+            # Publication name + also published in
+            pub_text = f"<b>{html_escape(article.publication)}</b>"
+            also_in = getattr(article, 'also_published_in', [])
+            if also_in:
+                also_pubs = ", ".join(html_escape(p) for p in also_in[:5])
+                pub_text += f"<br/><i>Also in: {also_pubs}</i>"
+                if len(also_in) > 5:
+                    pub_text += f" <i>+{len(also_in)-5} more</i>"
+            elements.append(Paragraph(pub_text, self.styles["ArticleMeta"]))
 
             # Headline with clickable link
             headline_text = (

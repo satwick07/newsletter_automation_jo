@@ -1,9 +1,16 @@
 {
   "global_exclude_keywords": [
-    "cricket", "IPL", "kohli", "dhoni", "rohit sharma", "sachin",
-    "football", "FIFA", "rugby", "tennis", "hockey", "olympics",
-    "bollywood", "movie", "film review", "entertainment",
-    "horoscope", "astrology", "recipe", "lifestyle"
+    "cricket", "IPL", "kohli", "dhoni", "rohit sharma", "sachin", "virat",
+    "football", "FIFA", "rugby", "tennis", "hockey", "olympics", "world cup",
+    "bollywood", "movie", "film review", "entertainment", "celebrity",
+    "horoscope", "astrology", "recipe", "lifestyle", "fashion",
+    "weather forecast", "daily horoscope",
+    "murder", "rape", "kidnap", "accident kills",
+    "match fixing", "betting scandal",
+    "reality show", "bigg boss", "netflix", "web series",
+    "exam result", "board exam", "NEET", "JEE",
+    "election result", "vote count", "exit poll",
+    "travis head", "ashes", "test match", "ODI", "T20"
   ],
   "categories": {
     "NSE and NSE Related": {
@@ -30,6 +37,7 @@
         "NSE IX",
         "NSE Emerge"
       ],
+      "exclude_keywords": ["nifty 50 today", "nifty opens", "nifty closes", "sensex nifty", "listed on NSE", "lists on NSE", "NSE listing", "share price today", "stock price today", "nifty prediction", "nifty target"],
       "rules": "All direct coverages of NSE - press releases, events where spokesperson is quoted, initiatives, investor caution, associations, any prominent news where NSE or NSE related entities are mentioned. Excludes daily nifty/market movements or companies listing newly on NSE."
     },
     "NSE Senior Management": {
@@ -104,6 +112,7 @@
         "S&P 500",
         "Forex"
       ],
+      "exclude_keywords": ["crypto exchange", "bitcoin exchange", "forex trading tips", "forex signals", "sports exchange", "fantasy league"],
       "rules": "Include stories related to product, innovation, prominent spokesperson interview, company development, platform glitches, and also record breaking daily market movements."
     },
     "Corporate": {

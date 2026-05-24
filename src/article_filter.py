@@ -32,7 +32,8 @@ class ArticleFilter:
                     similarity_threshold: float = 0.75) -> list[Article]:
         """
         Remove near-duplicate articles (same story from different publications).
-        Keeps the first occurrence (usually from a higher-priority publication).
+        Keeps the highest-priority publication and merges others into
+        'also_published_in' attribute for reference.
         """
         unique = []
         for article in articles:
@@ -42,12 +43,18 @@ class ArticleFilter:
                     article.headline, existing.headline
                 ) > similarity_threshold:
                     is_duplicate = True
+                    # Track all publications that carried this story
+                    if not hasattr(existing, 'also_published_in'):
+                        existing.also_published_in = []
+                    existing.also_published_in.append(article.publication)
                     logger.debug(
-                        f"Duplicate removed: '{article.headline}' "
-                        f"(similar to '{existing.headline}')"
+                        f"Merged edition: '{article.publication}' into "
+                        f"'{existing.publication}' for '{existing.headline[:50]}'"
                     )
                     break
             if not is_duplicate:
+                if not hasattr(article, 'also_published_in'):
+                    article.also_published_in = []
                 unique.append(article)
         return unique
 
