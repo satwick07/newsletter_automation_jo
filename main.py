@@ -40,6 +40,7 @@ from src.telegram_sender import TelegramSender
 from src.cleanup import Cleanup
 from src.morning_brief import MorningBrief
 from src.final_cut import FinalCut
+from src.coverage_dossier import CoverageDossierManager
 
 
 def setup_logging():
@@ -70,9 +71,9 @@ def load_settings() -> dict:
 def parse_args():
     """Parse command line arguments."""
     parser = argparse.ArgumentParser(description="NSE Daily Newsletter Agent")
-    parser.add_argument("--mode", choices=["first-cut", "morning-brief", "final-cut"],
+    parser.add_argument("--mode", choices=["first-cut", "morning-brief", "final-cut", "dossier-check"],
                        default="first-cut",
-                       help="Run mode: first-cut (default), morning-brief, final-cut")
+                       help="Run mode: first-cut (default), morning-brief, final-cut, dossier-check")
     parser.add_argument("--dry-run", action="store_true",
                        help="Generate report but don't send via Telegram")
     parser.add_argument("--skip-screenshots", action="store_true",
@@ -116,6 +117,11 @@ def run_first_cut(settings: dict, telegram: TelegramSender | None,
     # Step 2b: Save state for morning brief and final cut
     brief = MorningBrief(OUTPUT_DIR)
     brief.save_articles_state(filtered_articles)
+
+    # Step 2c: Detect press releases and create coverage dossiers
+    logger.info("Checking for press releases (coverage dossier detection)...")
+    dossier_mgr = CoverageDossierManager(CONFIG_DIR, OUTPUT_DIR)
+    dossier_mgr.detect_and_create_dossiers(filtered_articles)
 
     # Step 3: Capture screenshots (optional)
     if not skip_screenshots:
@@ -269,6 +275,31 @@ def run_final_cut(settings: dict, telegram: TelegramSender | None,
         logger.info("Final Cut sent!")
 
 
+def run_dossier_check(settings: dict, telegram: TelegramSender | None, dry_run: bool):
+    """Check for pending dossier follow-ups and send reports."""
+    logger = logging.getLogger(__name__)
+
+    logger.info("Checking for pending coverage dossier follow-ups...")
+    dossier_mgr = CoverageDossierManager(CONFIG_DIR, OUTPUT_DIR)
+    reports = dossier_mgr.process_pending_follow_ups()
+
+    if not reports:
+        logger.info("No dossier follow-ups due right now.")
+        return
+
+    logger.info(f"Found {len(reports)} dossier reports to send")
+
+    for report in reports:
+        message = dossier_mgr.format_dossier_report(report)
+        logger.info(f"Dossier report: {report['dossier'].headline[:50]}")
+
+        if not dry_run and telegram:
+            telegram._send_message(message)
+            logger.info("Dossier report sent to Telegram")
+
+    logger.info(f"Processed {len(reports)} dossier follow-ups")
+
+
 def main():
     """Main orchestrator."""
     args = parse_args()
@@ -308,6 +339,8 @@ def main():
             run_morning_brief(settings, telegram, args.dry_run)
         elif args.mode == "final-cut":
             run_final_cut(settings, telegram, args.skip_screenshots, args.dry_run)
+        elif args.mode == "dossier-check":
+            run_dossier_check(settings, telegram, args.dry_run)
     except Exception as e:
         logger.error(f"Pipeline failed: {e}", exc_info=True)
         if telegram:

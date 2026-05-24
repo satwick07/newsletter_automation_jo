@@ -8,6 +8,10 @@ on:
     - cron: '30 2 * * 1-5'
     # 9:00 AM IST = 3:30 AM UTC (Final Cut)
     - cron: '30 3 * * 1-5'
+    # 11:00 AM IST = 5:30 AM UTC (Dossier Check)
+    - cron: '30 5 * * 1-5'
+    # 12:00 PM IST = 6:30 AM UTC (Dossier Check)
+    - cron: '30 6 * * 1-5'
   workflow_dispatch:
     inputs:
       mode:
@@ -19,6 +23,7 @@ on:
           - first-cut
           - morning-brief
           - final-cut
+          - dossier-check
 
 permissions:
   contents: write
@@ -65,6 +70,8 @@ jobs:
               echo "mode=morning-brief" >> $GITHUB_OUTPUT
             elif [ "$HOUR" = "03" ]; then
               echo "mode=final-cut" >> $GITHUB_OUTPUT
+            elif [ "$HOUR" = "05" ] || [ "$HOUR" = "06" ]; then
+              echo "mode=dossier-check" >> $GITHUB_OUTPUT
             else
               echo "mode=first-cut" >> $GITHUB_OUTPUT
             fi
