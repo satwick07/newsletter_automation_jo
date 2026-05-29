@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-29T06:39:41.052215",
+  "last_updated": "2026-05-29T10:30:40.508417",
   "active_dossiers": [
     {
       "dossier_id": "dossier_20260527_0852_0",
@@ -631,6 +631,63 @@
         },
         "cut_4": {
           "due": "2026-06-03T11:00:00.190779",
+          "completed": false,
+          "articles": []
+        }
+      }
+    },
+    {
+      "dossier_id": "dossier_20260529_1030_1",
+      "headline": "MCX shares fall up to 5% as UBS says 'peak earnings momentum likely behind' - Moneycontrol.com",
+      "keywords": [
+        "MCX shares fall UBS 'peak earnings",
+        "MCX shares fall"
+      ],
+      "created_at": "2026-05-29T10:30:40.508247",
+      "source_articles": [
+        {
+          "headline": "MCX shares fall up to 5% as UBS says 'peak earnings momentum likely behind' - Moneycontrol.com",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQcGlQNzZmd3NTQzZDWkxWM1Vka2hFN0xVZTFRS1I2RndaRFJneDVPLWpnazhWdXhTQWZMYy1rd0ZUYi1md0REUVFwYW9DZ09udHdjeFY1TzF4T2N0T2MyenpianVZeWRiWFZSUl9CUFZHbGN5U2NTUFl4X0dFV0NVdHdUZE5qdDZDVDMyU0lrNFEtUjUtYmxoRHFuUUt6dXpNNld5Z2R4bnhfUWUwOFA5eXdXZ1ltOVJMeTgzbGg4RHFfRWJvVnQxR1pFXzRJcWcxd0Vv0gHYAUFVX3lxTE5WVGVQX19tLUZnVGptWlNyRGpCeEdOS1BkaE1BdkJvTXhvaXltVktrTm1nSGpkaFoxUlB5M2ZzQnMtdENZbVVrUHJNRU5NMloyT1J1NWNnR0g0SGl4ZFBXdmVlMDFVakFqd0pqRW53SFRZQzUwZ2g3a25vXy04QndkcV9TbmdqdWhua3MzclB3YWhUT041eDNjOWktQjc2YVVuUXZPMXNuVzg4YUVGMWJyR3NIbVNiS2puN3c0MkhqeEpwTHRMQUhjQVZteHZrZVNQOXdad3E4Vw?oc=5",
+          "publication": "Moneycontrol.com",
+          "published_date": "Fri, 29 May 2026 05:34:58 GMT",
+          "category": "NSE and NSE Related",
+          "screenshot_path": null
+        },
+        {
+          "headline": "MCX shares downgraded; UBS says 'peak earnings momentum' likely behind - CNBC TV18",
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNdmlxVVVFRVhlX01YNktLdm9yQTJmcGQwQm1RTkR2VVp2TklVYm5YWDBBc1BaV2dHbVl2Y1dzMWNEUk5NU2NFbWlyZzc3eHcxakF4QXBpRFFPS282Y2dxV28tVExQbWJqSzgwLWpoZ01TdzBmQ0ZGT1hvN3NWdXhQZnB6cWhVUERJWE8wZjRFTXFlSFJzYWYyejljRXVOcFZ6ZDlLSTJ4X1dFaExpRzB0VFRVTDhXVjAzalJTc3NDVy1obEJZNWt3UUtCcXVmSXA0clZwczdKYjhLSTRHMjBnODd0Vi1HM25rVlFXZFJR0gHzAUFVX3lxTFBDSWVkSUFwcXRHekdCbnZvcGVvRmNLUFcyc3REVy1HOWFXMlpkWkdPdmFFc3kzS3Y2ZUt5TzQ5bURSYTBETndxWWNJMjdKMzdqZmdyYXVaOFUtRUpENzRHSGU3bW1LT2VEUUFqcVZLSVVlZDFnYkJXNWQxaVVtM1V6RU9GR0o5bnk0dFNyQUprcjBBQW5SZGVTQnZNbkI0b1k5TFB2QlFpd2Y0VXFHX0xEbGxOOV85Nm9Hc0RTeUY0S0ZnQ3FSRUNzZ2xHOG9YQ3pqbkpENEwzNHRqejNHVjlHXzVHdTE2THdIVjFLZHhmRlZNYw?oc=5",
+          "publication": "CNBC TV18",
+          "published_date": "Fri, 29 May 2026 02:47:50 GMT",
+          "category": "MIIs",
+          "screenshot_path": null
+        },
+        {
+          "headline": "MCX shares fall up to 5% as UBS says 'peak earnings momentum likely behind' - Moneycontrol.com",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVlRlUF9fbS1GZ1RqbVpTckRqQnhHTktQZGhNQXZCb014b2l5bVZLa05tZ0hqZGhaMVJQeTNmc0JzLXRDWW1Va1ByTUVOTTJaMk9SdTVjZ0dINEhpeGRQV3ZlZTAxVWpBandKakVud0hUWUM1MGdoN2tub18tOEJ3ZHFfU25nanVobmtzM3JQd2FoVE9ONXgzYzlpLUI3NmFVblF2TzFzblc4OGFFRjFickdzSG1TYktqbjd3NDJIanhKcEx0TEFIY0FWbXh2a2VTUDl3WndxOFfSAdgBQVVfeXFMTlZUZVBfX20tRmdUam1aU3JEakJ4R05LUGRoTUF2Qm9NeG9peW1WS2tObWdIamRoWjFSUHkzZnNCcy10Q1ltVWtQck1FTk0yWjJPUnU1Y2dHSDRIaXhkUFd2ZWUwMVVqQWp3SmpFbndIVFlDNTBnaDdrbm9fLThCd2RxX1NuZ2p1aG5rczNyUHdhaFRPTjV4M2M5aS1CNzZhVW5Rdk8xc25XODhhRUYxYnJHc0htU2JLam43dzQySGp4SnBMdExBSGNBVm14dmtlU1A5d1p3cThX?oc=5",
+          "publication": "Moneycontrol.com",
+          "published_date": "Fri, 29 May 2026 05:34:58 GMT",
+          "category": "MIIs",
+          "screenshot_path": null
+        }
+      ],
+      "follow_ups": {
+        "cut_1": {
+          "due": "2026-05-30T12:00:00.508247",
+          "completed": false,
+          "articles": []
+        },
+        "cut_2": {
+          "due": "2026-06-01T11:00:00.508247",
+          "completed": false,
+          "articles": []
+        },
+        "cut_3": {
+          "due": "2026-06-03T11:00:00.508247",
+          "completed": false,
+          "articles": []
+        },
+        "cut_4": {
+          "due": "2026-06-05T11:00:00.508247",
           "completed": false,
           "articles": []
         }
