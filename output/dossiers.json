@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-28T06:38:01.608838",
+  "last_updated": "2026-05-29T05:18:24.452732",
   "active_dossiers": [
     {
       "dossier_id": "dossier_20260527_0852_0",
@@ -38,8 +38,586 @@
       "follow_ups": {
         "cut_1": {
           "due": "2026-05-28T12:00:00.190779",
-          "completed": false,
-          "articles": []
+          "completed": true,
+          "articles": [
+            {
+              "headline": "Yes Bank shares in focus as NSE bars Yes Securities from adding new clients; here's why - MSN",
+              "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSENXTWE5WHFGMEVIRE45WGVaa0FhY01yY1d4bmdPRS1SUG1KbVhPZFlIRVpUVkVkRFFfNXp4RktZTzdOQUpHeDVvV3Y1QTB6dFRTRS14UGRZZHY2QWZ2aUt1NWNtaXRBVzAwNlM0cU9oSS1PUHJRWGlKWE9mdVJOOExKVEVUdHRmRzA2TjdjOFYzTFNmbDdScm50UmQ4R0NtQVdxNnI5SG15MUllRmNVUTlUaXk1Rk9wMU5pX3A1VU9YVDRRaXR6Ukl5cFJqTDQ0cktUOXBFdw?oc=5",
+              "publication": "MSN",
+              "published_date": "Thu, 28 May 2026 11:37:26 GMT"
+            },
+            {
+              "headline": "NSE bars new client onboarding at YES Securities for 3 months, imposes ₹2 lakh penalty - ETLegalWorld.com",
+              "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQVnFYNjVUeGFKaFA4LURqMHlablg0U1JpRXlFRFJKbEJ0S1VfUXV1Um1tM2ZIY3EwSXA2enZUcjdNdWpzSWVkWFg5NU1SRmFveVpvSWQ4cTI0eDQ2T2xSMzB1MWYwRHRDbVhiNU5Oc09VSHdLSjJZVExpZUQyZl94eTJBbEtJZEhES0F4cTJfbTBOWFhSRGRITWYycnBTSjd2NVFHVUZsUE1tTjNINUNSaWlkdG9oaWItTG1ZSW9LdlBmczhGbEZDNHJETVBMY1liMWVnZFB0ZkJEeXFHVC12YjFRNmZjcDAtZ0F5Q0hn0gHzAUFVX3lxTE1DaGl2RF9Ed3lTMGx1QWZGbGp0LV9oVmpJZDV6alVwdFc3RTZpS1pza1BLTTdfZTYzVVlLUDg4MWhpVzhPcTNfanpCZ1BJVFNQZVBfcHJUX042VkxScFpKVmc1S2J2dWpMZklFd2JpU1FTOFRraG9rdWlaRzhIb3dQdk1TTEhUdjZOa1pkWWpPUVFBTU05OGtvaGhWUl9wdzkwY3o4QzNyMHdTRVFVb2dCQXAyT1oyNGVnM25uX0JpNEZBbzRFbl81MmtsVlI0SjNMckt5RlR6SHhsd0t0NUdERGpCYU0way1hTVliSTA1LWg0NA?oc=5",
+              "publication": "ETLegalWorld.com",
+              "published_date": "Wed, 27 May 2026 07:34:12 GMT"
+            },
+            {
+              "headline": "NSE bars YES Securities Ltd from adding new clients for 3 months, imposes Rs 2L fine - MillenniumPost",
+              "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeTZiejJ4WEMzTWljazRpVXdjWF9mN0h0ejJHV1ByQzg3Ql82R0hTVW1MM3Nxa1pjRGkxZ21JMjlzTllZRURWNnpzSTVwNHJsVm9FdnNsbEEtQVFlQWNEMmcwU3g4dFdkZEs1Qm1mLUY4QldoMHA1YkNna21laWtjLXFxWm84YzhtbVhGRVRKQjR3V1JGU3JaMVNWZGJDRE8wZEI1dXRCQ1JpVXo5UzRjRllyU1F5RHJNanZGUmgySGVOTEg5Nm94eNIBzgFBVV95cUxOQkRPM2tlSjdRMVpuSW1XenpPa04xSlAtOU9rc1ZXak5TYndZeUJfQUdkdVBYNDVqc1FRMjR1OGdIUXlLMmd4cUJPUndxQnQ3elBzMS1VdWhua1F4b2k3b3BMTEFhdEpaRjZKUTA4Mk5MQmNsOTdHZTdscGJ4ZldRQ2pZV3JjQkF6X2QwWTdpM3NULUM0eTk0SUxYZHJpb3FLaUpScHFuRG1xLV9sMVRtOHB2MlZ4WlJzVUp2UERGWFlWMlZDTUFGbGU0TF9EZw?oc=5",
+              "publication": "MillenniumPost",
+              "published_date": "Tue, 26 May 2026 19:18:50 GMT"
+            },
+            {
+              "headline": "NSE bans Yes Securities from onboarding clients for three months: Bloomberg report - CNBC TV18",
+              "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNTlh3cERMdlUyTm00cUFnZFNkY2NtU2RJS1ZoYU9ILVlZUmRuT0V4d241eUZJaGg3Uk1vYzhzLWNzdkNKY0pRWTg1cVlrUjRFYmMwTEVYTzAwZ3l1Y05wS24zT3BWSXNzd3hXUVlTRTB5UWI0X204bU5wQjkzc0xZSUVqOGQ5dXdIRGdnZVlMeFRZQ0VqekJRdXdQNmdkMGxyaFBOdmlZdGdCSk92V0dsVU5JWWQ1SUtDcFdLRjQ2YjdyTThlU1ZtdW1TR25kMnd5SDI4N3FFVk0xVWZH0gHiAUFVX3lxTFBvaW9BZUpKY2hhSzBrZkdDUW5GODFveXVseC1TSTZueWNLZzNFZFBaQXlNTW1HczFoS3ZtTTA1YkJLTnVmd0MzOC13YlVBOWJqY2RVVFlWMVZ4eE5kZTYzVjd2cE13MzBjM1V3WVUwbFFyVkVVUFRXQXhtSGp1NTc5bUNhS1hrdUg4a0QxN1NmWFBKQnNJV0dQSVNKRmJSZ21XV21WUnczSVlFRk5keFhCYlhxRWl3dElnbW45NzM3V0RlY2ZIcktNaDJrTGdrVndmYVdXV0pPeDFGbHFkY0lIdFE?oc=5",
+              "publication": "CNBC TV18",
+              "published_date": "Tue, 26 May 2026 11:17:00 GMT"
+            },
+            {
+              "headline": "ONGC posts 3% rise in Q4 profit to Rs 6,650 crore in fiscal 2025-26 - MillenniumPost",
+              "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQclZrenIyc3VYLUkyTi1mMlJndThXQ0lhWWQ5R0FrNVBEVHBqYURkY0xTQkoyYkNDX3ozWGlpa2Y5OG1QU29xb3phaV9vdWRSSDhWVzR3Y0hjSlhyb3Y1ZUV6V3BrUlQxNGhMY29tVEJYZllJZ1dRajZROEVKcUI1TEJ5eUJUYnhuVXJ2a1h1MzEwa2I4UlVTMVcwMmVGekx1TDVON0lwME1KZEJIMEVNX0lOdndwQdIBtgFBVV95cUxQclZrenIyc3VYLUkyTi1mMlJndThXQ0lhWWQ5R0FrNVBEVHBqYURkY0xTQkoyYkNDX3ozWGlpa2Y5OG1QU29xb3phaV9vdWRSSDhWVzR3Y0hjSlhyb3Y1ZUV6V3BrUlQxNGhMY29tVEJYZllJZ1dRajZROEVKcUI1TEJ5eUJUYnhuVXJ2a1h1MzEwa2I4UlVTMVcwMmVGekx1TDVON0lwME1KZEJIMEVNX0lOdndwQQ?oc=5",
+              "publication": "MillenniumPost",
+              "published_date": "Tue, 26 May 2026 19:19:31 GMT"
+            },
+            {
+              "headline": "Why is market falling today? Sensex falls 600 points, Nifty below 23,500; 5 key factors behind bloodbath - The Economic Times",
+              "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNOUpMbVdGU2lIUE1yeEdvTHRXZFczVFh2b3JLZ1FOZlc3WldiYVpHSGU5UFR2R1pVLWpMc2xQMUlHNldfTFFXbTM5c2FYdU5FUmJYVTc3Ty1zcFNCc1pvbXQ2TC1tdGJzMDRHV3FPeU9QZTJ0bHl2NlZLSHdjZ0o1UmRMbzZveU1IUGg1U1ZTWFJZelZqVDExNzZXZGIwbXBSUEpHTG5yaHJOUkhpYlcwLUJBcnpFQ2JpUmtCUkVxa1B3M25mX21JalFBa3gtdXhzRlB3QXY4UGFGel94dU9lckd3T3ZEMU4yVkxTT2x3X2hyRngya0kzb00yLS1RSFEtRTRZZndZTdIBjAJBVV95cUxQZHZ4NG8yZFdzNF9CSnp5OWhDTFZmWXZsT1BaME5LckYtVG9PZ0dfSVM1Y1pxUFp4Sm1jT3FXb0tRQmdVcWQ3WmdkYjY3dU4wMnJTcU1Pa0duY1ZrejJwNGZrMmJEUUwtdFBXU1VLSlljd25seVJxcVA0WGl2UjZRanpwMWc4RkNwalVSTjRJVTZiMHBzRDlsTU1xclpQeFRCMnpIdzYyN29GSGRkZzc3TTRfeGVtVVB1ODhTWXRuMzRfR0otbkt3Ym9kaEhuYXlnOHVBTjNSbFI1V0x4NURpOWUydFEwR3NmUmUwbmFNSXZZcTlxeE1ZX0pfUENGQ042R01jYVBvT2pHclVv?oc=5",
+              "publication": "The Economic Times",
+              "published_date": "Mon, 18 May 2026 07:00:00 GMT"
+            },
+            {
+              "headline": "Kaynes Technology shares tumble 25% in 3 days after weak Q4; Elara cuts rating to ‘Accumulate’ - The Economic Times",
+              "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPd2xUMzhPSHhib2JqSzU0UTYyU2s5R3JTeEFkdEhBRU1uSnBSNlQ5RGZTMTVCSUJldC1tNXc0aVlLNWJjMEJLTHBiRy14bmNPMmxXYXdmTGNmRTFBRnlpZks4aFZTQTV5VC01dzJhdjVtbFVhd2twcmF5VEVweGo5ME9ScjZPSFpBVTFSMm9NSjVHT004aHFIR1hxYk5Xb1ZZQnlNY0g4bDBOanlqSHRUZkZNeVFHNFlhcC1hbWFSVFZ0b0MxeXB1eFgtOGFMRWNIR2VBUE1Na01Cd0Zjcks5RVR5bEV5VXMwcmZEVTRKT2tjMmdJcl9Z0gH8AUFVX3lxTE9Na2Z6NnVkNS10SDYxdXR4cHcwdndXdlNWSmlNemZTYVRUaVV5eF8yb29ua21pLU53SUJiZTc3S2tpNWVESWVBc2xyak1fdmZRcGo0Y0RMVFJSUjEtTFhFVGtlUUowUVk4TDA2WmstREVoX2NZNEZoYnNnSDhqRHo0ODRFUGFlUGVrUHFhYW5lempxN0M5MU5EV3ExZ1g4SDhlWDF3dHQ3QkNaemVsaEE1M1RNNFFFWm5DMi0wQXFISmVPN3g4R3ZTM1JIbVEtcmRvNENlT2YzSzE2SjJxRzg2RjlvRm1GM045VkhBbmtibWJncWFyVUNJR1dDdg?oc=5",
+              "publication": "The Economic Times",
+              "published_date": "Mon, 18 May 2026 07:00:00 GMT"
+            },
+            {
+              "headline": "Why 10 stocks suffered massive Rs 17,000 crore mutual fund selloff in April - The Economic Times",
+              "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOQ1gwZW1jVTB4QzlFdDljc3hvY2RQTElqU3NCZVNWd2dGOThTZUsyTGl4c2xZOHZTNHVOTG9hZ1dicFRqS2Y2MnVPcllNVzFpQVJsUGl5QU1MaUJvNWo5UjhsVm5OLXU3cnVOY1p5bjFOQmJvZjhiWkg0bm5WSnNsT211bGZRczR1MFpDQW84TDVVRmRsV3dBN2FtSWlMTnVvdWlQNFBnMnBDN0VKNllXbi1nZlNYLVBzV0xtRElQa2tiYWxEd19kOU16Y3cyWUNvNWdEWlZLQlZmaTlDdDd0V09n0gHnAUFVX3lxTE43V0xDRFJaT0JLcUJBZHl0THpJclgyWGhkWVpsY2RwWGF2QXhqSGdveER6d0g0d3g0NUEwMWVBY1JHZkNYR2R0OUlwVnowX0NCbGJTeVlDUms3R1RzYWpGWTJLV2Q5M3JackZmTFAwd2VFLVcwNUxoZlluRmg2WnFZWnMwTHpTTTFwMGstTk1rWm5IWDh2bkFVUHBVRDhrU2dEenBmMkU0UlB2dS0wUXJ6bDlnLVRMZDl4aGVyNURkV3pPVHBMeWY5dzJEckFLQ2lscWNCalZCaVFmSVJwSUFyWjdYQ3M1UQ?oc=5",
+              "publication": "The Economic Times",
+              "published_date": "Tue, 19 May 2026 07:00:00 GMT"
+            },
+            {
+              "headline": "These large-, mid- and small-cap stocks can give more than 22% return in 1 year, according to analysts - The Economic Times",
+              "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPSktWZEdybW56R1NNWDNsNUJ1ZHp0TEtwRFlhRWNLR2F2Sk0tS2NsMHMyQVY3ckNMVHdvRWpGZU9URWNzNGxZU2hYalpzbHZRODc4cXZCRUxtWUg1M0s1NWhHVnRqSDE0Y0xrVWlaRWExLXpINUVSUW1KQ2Q2LVFLLUpHanRSamtRVW9DZ1ZwTVRlNG9IbUw3VVdKOGpzQVBXTDV4RDBUeWxmeGNxaXlZQ2hJckZpdVF0MGNuaUNFSE9zcWxXYXYzcmtDdWVBQlZueTBCTmlmNlVsUGhUVWdtam50ZWlnN19NcXpJWVpqdW1jQVBlWFBjT3VJLXQyM1pM0gGGAkFVX3lxTE05TW1tOS1mOWpfOF9uUDd3UG9GVVQtZHNWYlJaZTR4ZHdzekl4dEJWVjBEU2djdjY3enhiQlM2YXVIaHU4eXhFaG1LeTNuRDFzcnJhMjA4NkZfNkNfbUxObkNQM184UFU1SkNkdy1uTG5sR012eEN3WEJxTlhoZ2l4NGhpOXFjNVhYT1RpVUlUNVhCQTJoaGRUUVpFVDJaZG50ci1aUGVObHBTOTNTSTFMTXVjcWtwSlhhT2ppMWdBRVZMT2RUbkp2WV9ES3J2UEVwVTJhZ3R3T0N5MVJpMUZHYkc1VDZzeWxjOU5lZHZrNXNLczIwS21ic0tQai00dktCMk5VVHc?oc=5",
+              "publication": "The Economic Times",
+              "published_date": "Fri, 24 Apr 2026 07:00:00 GMT"
+            },
+            {
+              "headline": "This smallcap real estate stock rallied 51% in 3 days. What’s behind the surge? - The Economic Times",
+              "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNNmphYmF2d3dFN25YV0h5Y21HWHB0LTRCSnZ2S2FQTTlRUTluX2hYU1JTOU81bmdlNmczZFhOUHRtNXVfNEFQemxzUzZ0ODhaMlJVLTF2VmNOMDVTMFlHTVlRbnZteTZDaURnRUVocGlmd2VCcXJudW4zalRJQkk5VGdVcHlyN0lUbWI5Rzlhd2h1VDVWMW9OcC0xc1Q1M2I0dGVMOFRlUll4LXBKNFBaRzBpbHpkbnVMV0JwTUVMNWNtTjdSWHpfQVhKaXhsRS1aVjRPWnJpLTh1QlQ4LTV0RmZ3Z9IB6AFBVV95cUxOT0JVbHBPY3pGTWNRNFhqVkFIUmhtdmpfbWJmQkVZWkl2QnhWUmtQbkZ0NU5DNFFIVzcySlRldW5tcHRwcl9wS1JFekdiY0FIcG9ScHlLZkxhaUVTelBDcVpTbzJxY1RtOU41cTVJSF9tb1BybW9YYnJaOE5IaDFwUUpoUHp0LUgtdEV4TGhVd3h5TE5sdTNmMjlJSTF6bEFja0VGYTJEQWV5UlNKZ0J3VWhXQUpJVnVneUt4QlQxNzY4ZW5NX0pEdUpxQjJDbG1odklib2pDY1dLQUszX3ZaemZtdTgtSTlq?oc=5",
+              "publication": "The Economic Times",
+              "published_date": "Thu, 07 May 2026 07:00:00 GMT"
+            },
+            {
+              "headline": "Buy, Sell or Hold: Morgan Stanley remains neutral on Physicswallah; Citi maintains sell on Page Industries - The Economic Times",
+              "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOdThTU3B1YnV2RnlZSFkwM3MwMWtjRXdrZ0p4VkxfelQtM0xPVHhMS0tuc0FnTEpxX1U2Y09Ob3daN0tzTlBneTRIVmVGVzZfUWlXVUJOdHpXSWpQMjRpaTFvdnNsVkRzZnRMU2VRWnVaRlBId2E3U0RFUC1Qdm4tUTNGa3RGVTVhUTZYd3B4T0gwWVFxdFI5MnVhZHFCSDJsZmd2NFJNdW9zck1vUUwtNTJ5alFOQzA1SVpYU01zQ3FCSzI0V0lkVzZMUDlMdlQtaTZ0Vmg2ajJqbFhFQTQ1eHVRdjNiSW9GXzI4N1RlN0phSzNSMzVKQ0J4S0lkWUFRdWdKM05udHTSAY4CQVVfeXFMTkpuanlwV0xSYlZjMDlxT3kxRkVxS1k3RGx2U2cwckg1WUdVc3c4NXZyai1wdFJ2RVNDa3MyaHIwSUJvMDI5cnRMYmVGTnU2dXJpd3MxZHNGMHdNX3oyZFNUTThaNDVoMlVtUlB1T2NId2I2Sl9jR1lIb1puTEJseDBFQUJ0dmVFOGFtMk5JckN2UUYtQWdqOUc2bUgwd0Y3UU42UmFZdFFmV0dmZk1JREdwT0RGRUVTSHRNVGJneXdISnFjcGh6R2M3OGs3NS1IVDViVEJOWmlyX1UwZk1TalM1aW05RVZLb2J6cUs2RUpWN2U2czljTDZBN3BiVkZScWdmREhMTEJOTDZhV1N3?oc=5",
+              "publication": "The Economic Times",
+              "published_date": "Mon, 09 Feb 2026 08:00:00 GMT"
+            },
+            {
+              "headline": "Ahead of Market: 10 things that will decide stock market action on Thursday - The Economic Times",
+              "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQRklJMUc1VWkwLXRDLVYwRF9OWFNHQVk0N1FSZ1ptQkRMbXczVmxkS1ZaUkxMY1RhUVcxM1g3OFRPNVRlU3pTX2Q3WVo4Rk1sNVBSSTc3dWxwMVJMWDFFMUR0ZV9uNHZtd21RQ0VGQVZVai1jX1JNc3hBZnZYTm1qYmwxQklVUC1FbWNwRS1ZQnV6UVFTMlRUREl2bXRONHpiZmVnUmQxLUE2YTd3Y1MwVWF4TllhSUd5NnVlZG9la2twa0std1BURkdwdzBrSC1mRmlmbnByM0dSdVlObWZyQW530gHnAUFVX3lxTE4tN3NyTmx0dExTQVJTRTdBLV9sQ0VPYThMM2N3RHFwZjJDclJRX0ZFZkJhWE11WDczcG9iQXd2MkFBeXc5V0gtd18wbl9jWG9RVWl1ckVXRDFzLTZBWGRlUDAwTExKYVd6MC00Rjc3bHRlRjdrU3gyUUVtaU5VejU5ZHcwZGtuWEpUQ1VWcVdYTnBlamZYRlhjTC1JTDRReGp6TS1qZU1ZaUlHS2t5aWRySFNOVFZ3eDktbFRIVGx3S013a3hIZ0YzbFNGU0FNUTdFLVI0eHY3Yk9waWN6SklBVlJmcWhOaw?oc=5",
+              "publication": "The Economic Times",
+              "published_date": "Wed, 03 Dec 2025 08:00:00 GMT"
+            },
+            {
+              "headline": "Stock Radar: 15% rally in a week! Why IFCI stock is coming back on traders’ radar - The Economic Times",
+              "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZHI1alQwVlZOU0lmZWJuR2FwcllaaEQ0RXAyYzN3SU56TjJzUDIyWllXNGZyYmczMGFWSVVkcU01bVEwdzZVODlnNzEzUktUWlhLdTc4LUNKU0NHZkNzNGNvVm1DSlVMOGdESVRRRlpoeElhV3ZvYVcwd1NWNzV0YW5jYXRpRVA3TDRGckV1bHV3YVdGemlQZVZuTUdGNkhlVmhVSElMS19ZWmdNbGN5ZTloSkl0MV9MZlU2SGVRbFd6Qy1YT2hqNnl5WDhTWFQtaXEzbjRmdmhPakRqRTFzWEFGMlQ3UdIB6wFBVV95cUxObVVCb2w3Q1pLdkgzX1pSYUJfRnZDRkRRMEV2WDJ4MHdSZVJrY2p4cXpFUnR0eExtdExRN1psWmpWbEFvU3MwdzJCWElZVUctal9jTVRvNlNaZG8wNk05QUlSSUMtcmI5eUhhN2hTVzNMTTFTOHV2MllRWUNTSFRrNlZWZE9ybW5mLWgzWkthNGk0a05UNE1ySkFkVkY3WDBaYzJlbHJDR210ZVVfOTcycUpZYWNGcjBIU1AzTkxsVnlpSVVIdm1yOVNURlhEVjFMSWozbkRQNms4VktndFM1dEstR3RHb01IN0pZ?oc=5",
+              "publication": "The Economic Times",
+              "published_date": "Wed, 11 Feb 2026 08:00:00 GMT"
+            },
+            {
+              "headline": "Asian Paints, MRF, other paint and tyre stocks rally up to 9% as oil prices crash below $95 - The Economic Times",
+              "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQZHJmWmxlRWhMWWRFQXBKSkZlaUxHU3FXQVRLSmlSV18zdEVFSHJXbHJNY3ROMzAwQ0R5Q1VfWnhHUFZVSUVpamRhXzREcGt5UTJ4TzIxVG92a080ZlRzblB1SGdhVnpPZ0JmSlN0QVV4dC1MN2JyN1hzZ2tKblBRLVZFUXRYSDRHNXJMNW5KRzF3djRLUV9TcFRnaldtem00UGdOZFF6N29CQkl4d1Y4MWFVNkVRLTcxZW5JTndMNmNmUUhuR1JuOTAxZncwZ1JSRGdKeFpXa2t2S0FhR2F2R2ZSUGc0MkIzZ0R6dW9GYnUwa2_SAfgBQVVfeXFMT05VWUFQQjFJWk5VZks2ZnNqM2piN1RrTnRhMHdpb2VXSFhxUXZFQkVWazBwQ3pIbllKN0FJVTh4V05Pdk1UV0QwSXMzVU1yQlhkQkJpR1NZQmNhdV9lcXh1Z1pnRElIWmhYamVzekpSN2Y0QUUtYk5UcV82RW1hLTZXYjFPMGVPaURSaVBHTmtDcHpRSkw2NWhvTnZTakU2RlQyQWZ6bThCQTF5Rjl4dzR3ZUd5R290c1JFSm5fdVI1RHFZcHFiU0REcFhHdXZWeXkxcUE5SzUtTktBcXB3VmZxTURTNnphT1FyRjA3a1B6ejF0czBUQ1g?oc=5",
+              "publication": "The Economic Times",
+              "published_date": "Wed, 08 Apr 2026 07:00:00 GMT"
+            },
+            {
+              "headline": "ITC, Godfrey Phillips shares rally up to 7% on reports of 17% hike in cigarettes price - The Economic Times",
+              "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPZk5NWmt3WVQzWmFYU00yUXM0b3d2UXRIWkdmWnZnMndJZmY1WXpCM3dWOEJfcUJ4b0xOOUl5U3hDWFR0a19rRkRVTE16ZmtnaWhXdG9HSmI5LUt2TVdTYk9kbjluc0UxVjU3cjJEYUxHa3V3bG4yUHR0cjBfUjA1SWtPdl9NLVJOaFVrb2R0WjFzbkIzbE9UWS1KOUd1U01BelBpa2dSTTZvOFI1MF9PVlVrSDFEZzFxbmdIdklxbmQ5TXlYeDhrUFZJa1RfUWZFWFBrUWFtRTZNOTYtbEhKN1Q3V1JrSzg5YU4xQTBR0gHzAUFVX3lxTE9IYmt1cmxJMm94UmdjazBnZzhkczB5ZWI0NFZuYjVEaEVCOXg3Z01vXzJFSFdiN3NBS09TSERUdFI0MmdpOHI4d2J6MTV3MG4xNVV2QUdNMnhzcW9qbkpYcmdXdzZoWnRadUJKY2c3b20wVGppcF8zbnFrOVFmOWR4VWtNMXpsSWRBOC1xVkJWdGIyaEJPUEpGZUlwR0xKcjNjb0Y2dDZWTkVfdDVMOWZ4UHV1QXJ1QVF3c0Y3MnR1R1dGUzNUZmo4bzR4UEZEREhJU2FpZGRxaXJtdjZLYmYzTXpGMUx6RTZEMnFVZllONkdMOA?oc=5",
+              "publication": "The Economic Times",
+              "published_date": "Wed, 29 Apr 2026 07:00:00 GMT"
+            },
+            {
+              "headline": "Power Grid shares to approach ex-date for Rs 4.5 per share interim dividend. Last chance to buy - The Economic Times",
+              "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQYzJZQmlkRTRXaXVVSjBreWhVNzQ0djN2eFRCT011bzNWU210NmxEYlhQUFcycU40MGxYU05YYk5oUVNBdmdobHRtOEFfU0o3Tk1wa3BlQTVmVHlobThGRUVVYk5ieWdpd1luSW5DemJQcXl6TkRJZHZLR0VsbHZqSTV1QldYclQyRm1mb2RpODQ1OWthTXJRa0d3UWxXS2NtQlhWWUcwSEN5OUZfTTl4dkwyWG1ackgyQWJWOTVoZlRLclc0RzZ4ZXFVZzkwMWVIMlJRQng4cWhIRDljWXVYUFlfYXVkYjZHUHVoakotZE9mTElwaXlNUzlDakTSAYICQVVfeXFMUFo4NlF4bllDcHNTS2E1cTRITUFKb1NJcnJEVzdxRzk1WS0yNUoyUXpUTHZFcXdPSGdSbTJkN3FwT2ZFeHFOaVlBSWI1T2lGY25sX29ha0g5YXNaVWl4eVJfa20tSHRlUWsxQzlZVHhBNTdCb0VfMUVrbjBHdVRxUkxLQ1Vhc1pjZVFJY0lGM0p4SEo0dWpDMTdCaDRtUWUyQ3dkcVhsb2FNeThZQmhUaWpJV0hidE1yMHlQWGZrQ3plWXVRYWM0cXV3Vjl4LVpnZlhQako5bGtsbkNnelBqczdYZGFvQXdKS0dLdlQ3aWhxVzhIZ01UemhnNTJVc3FnaFhn?oc=5",
+              "publication": "The Economic Times",
+              "published_date": "Fri, 07 Nov 2025 08:00:00 GMT"
+            },
+            {
+              "headline": "Pidilite, Aditya Birla AMC among 18 dividend stocks with record date on Wednesday. Do you own? - The Economic Times",
+              "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxORXctdWJNYmhOTms1VFlsbVRvbXNSVTRuTGxKbHpERXNENnJkZWtHLU1zUWcyNVJCY2VmUklfMVZ2MVA5bkhLcmJ2YWNOSEJOWXBhRWdzVEIxQXV4emxZcXRwWjAydlhFeTdiNURDY2VWZWswRG05SHYxWWt4Vk1qc0FWSUtlSTBhbm43TmlzRklzOFhmODkyVDNVU0tnUkcyMnU1Q2N0VFJZeE5heGJ0c01tdlJhSU1oaHZXS0k3VmJBSmtWclpWM2hXTWY2MjdaR2xpMjVTc2hwNnYwdW9GX0NwQzQ3LTVTVWVIMDBidEh6eWVqNmlBZNIB_gFBVV95cUxNY3c0VTk0MUhZSWE0eFltUHYyWXp5d1pDWkx2bVhfZUdHU3d6SXdxRVpPNlZLZVRSU1hKUjMzbWN3NjFqeHV1TXZELWkwWVpaRy0zcXBJSHptR19iLWk5Z3JFUFVhOEt4ZHJjLUlqVE9ncVdqek1NVENnTkhYSEswb3drVnZvdnczczRvc2stMXhBUTNhZTA3QXR5bS1teXktLWZub1gyTUJmR193YlNpdHBreUU5R0lfdlNKQk1iQS1hY2ItQUFkVENkTGlNSUVxTzJjNWlOYWUyUXFONFcwNUhyY2xvbWlDQ1QwWDhwMm1yVzdxRGVEWjZwRUk2QQ?oc=5",
+              "publication": "The Economic Times",
+              "published_date": "Tue, 22 Jul 2025 07:00:00 GMT"
+            },
+            {
+              "headline": "Icon Facilitators shares list at 1% discount on BSE SME platform - The Economic Times",
+              "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNUg2eXZkVUJuMk1qTFJrZk9PbmJSLUtrbmNwWUVHWUNnRVM5TjRWeW5uLUM3QnVmY2Q4a2JmNVVjMncwWGdCVFBKdFZjTVMtQTRBcUZBcmNZeHU0OGxNZHNlT0N4VGVieTJXbUdBc0UxMWhjaGRydDJobWEtV093Qld6ZndSYVBSR1JkMG5penpHdHVYM1k5TVpfTWJ4cUZGcUhCTnFONmN2eGwyOGxQVWxWajJpR3BQbGpnakNYT0V3cWR2bzVjS3pZYjJfV0XSAdQBQVVfeXFMUFgxMDNlVDRwdHk4RnQ5MElpdGktOFZQa2ZsSmlZcUV2OVdmQkl3dXd0LTFSa1lfZW5kZjFvMmw1Vk5zZEhvMF91czdOeFpJYlBZcjI2aFdidThEZlZNU0ZZa2JKd0l5bjRlZFVNRmc5TV84YzA4VDFMcXpjbHRKdXhsTmVsUWNCcU50cmpFNTFid2kzYWhTQkM1X2Y0RW8zeXdxM0xfZU9YU2ktcVV3VnFubFlSenVBbzFSYW1JdWFzbTN6X1F2UGhVSlZ0Qi1sc3U0QmY?oc=5",
+              "publication": "The Economic Times",
+              "published_date": "Tue, 01 Jul 2025 07:00:00 GMT"
+            },
+            {
+              "headline": "Negative cues from GIFT Nifty signal muted opening for D-Street - The Economic Times",
+              "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRWpITEN4TTVUQ0U4bDJLM0ZiZHEtem01ekRGbDg2T2RFR2sxSUR0bHFaeGJ5MVliYTl5UXRwZWdhajdiVll2RXZQa2d5Qm1VajRfdzVLRTZ0MDgwUlZreWs1SVNqeVZoQmQ5c2lEX3k3OGN4YWphR0RUdmpycEdtWW1yMWVucGgtZVJIV0xack4wUVZTWkl4WWQzOHpKUnVGb0wzWThJUTBrTHMtdnM2LUU3ek9YRTVheFRWRmlrdXFvVk5adm02cldpVUHSAdIBQVVfeXFMTVkyUlB6anNCTDdMcHMxQ043VG5yZC0xVU5FNUQtWW9XSUQ0ZG9hNHhzeWNtREpISlR0cmpqYnctQVIzcGZjTWdtdmNhUGpaT1NkMkh6eDliU2doaGVjUFpSYWxHa0sxR0JuNld6RHRqWHRENklMeHV0cUkteXpqLVZxa096WmxybWs1SjNDNUQwQWNyTlpZQi1tdVUtcVl1YmpYN1R0N0JBekthb2ZoaFNpaEtCSEgzSVlXVUxYUkczQXhtUHVJRmxLTWtuWXZRcy1n?oc=5",
+              "publication": "The Economic Times",
+              "published_date": "Wed, 27 May 2026 00:31:00 GMT"
+            },
+            {
+              "headline": "Stocks in news: Coal India, Marico, Fino Payments Bank, L&T, Physicswallah - The Economic Times",
+              "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQM2VGV2Nac1NKcGdBQWRPLUdaMTd4RDA0WlpGWldtVHkxU2NpdnB6VEhZR1JZWElTRWJnWEt2ZXZJaTB1NE9NMEZRbFVLV1hQVmhmUjllV2YyMGVuallnMnEzTHNxWmNfOXVlaGlSdTliTDg4dkVuZzIzNGFaQWg4aXpscEowdFNuWW5TYVd1Qi1IRUZPWTZ5T1FmRVk4N253ZHFCTmFFbWtkcldlaVY1SkFhNDF4VkFxTUlwZjIxaW5pYlRSUnR2WGF2TEhGMHlrcWdtaHZISkY5QdIB3wFBVV95cUxQTVA0dV81dGE0ZXBYWTU0cEE0MEJXd2tldlMxVjFjVWMzdm5sZUxUZ2w0bVozOTVqR3draERfVThOeHB5bkxuR3ZsVktDUS1jejUzQ0g0MUtnY25kWm53d1NGaXJCaUtkZHdINk44dWR3SG52UlFCYmtQdXN1MHptMkEzUldKbnFOMDZFTEdFbGRNdDgtc3ZZOXotdkxVeWhZYjBISGhsSS1XVnBieTRIMlUzWmJTVmdNbENFS2hsS2EyaDJsTXlrYURkVlJzQk5SclVwdzg3SldkUHpUSEdz?oc=5",
+              "publication": "The Economic Times",
+              "published_date": "Wed, 27 May 2026 00:31:00 GMT"
+            },
+            {
+              "headline": "Last date to buy these four stocks for dividends. Do you own any? - The Economic Times",
+              "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNOG96VmZ2OGl3akdNMzhkRGFfcWJoSmhjZmlDZ3pOTzBLR2hvUjVkNUU4al9xenZHZGg4cUR2cHh0X3p0aUNudFhDVzJDSDk3VlN4eXZCM3dDWk9ZUWxud19NTzZ6cHFMYjUwQTFPQzNYS2luOUdIdF9Qb0czWVlSOUdIX3p3ck1zU0VQWUZUYV9nWUpDUVBVam8zeWlPejdzQnNOZ2d6MnN2eEktSE15UDZXNFpmVF9fbHJJV2RpN3JucVpObTlHUGYwbVdQNHFnVEVv0gHYAUFVX3lxTE1HMW8tNmpXcWZvSEtoVHVOT2RmMUdhc3F1RHNDekJEQkpPdGRYSVIxR2dxTDY4TmV3UDZDNmhnQ19mVUp2cmJmNVk3Q3dVZjJ5NUd2ZkwzYVhBc2FZOVNKVGJKLTFwY0hqOU5HZm41YXBIaFFFQWNqdm82cjZrdlNqWU0yckc1YXRfcjVyRnNsV0pBdU5kY0ZwWkhDUjZVenUtSlZvbHlVbkpQc1JMNEdXTTlyMkl3RjRWbDFiUmtYSFJSOEQ3R0tUYUJBdW5MTFhFcjRRYjNVMA?oc=5",
+              "publication": "The Economic Times",
+              "published_date": "Mon, 18 May 2026 07:00:00 GMT"
+            },
+            {
+              "headline": "Stocks in news: Premier Energies, Suzlon Energy, Paytm, Hindalco, ONGC - The Economic Times",
+              "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMnluWmRLMmFXcU9PUXpncFhsajdTMDlhbXhrQWJQVUZqUG5MYUhvQnlPWHRhdDJ1bUE1bFBDSS1SSlNwLXJ4NFBLMWFHMG5ra1ZhXzJ2WG9JZmRmTjctQlpFVjM2VlN1dV9na1drVUw0ZkRvZnJMS0kxbGdITnBhT2dnV1BhLV9IOHlvLXZGX05tZTJVSlN1Q0VySGxGTzhNU3l2Sm5EamxHc0hDekFETUN5QXRXR3NZWFpTYXpXQVlZQVRCTm9lZkpNem1SNXJGdVNxS1JB0gHbAUFVX3lxTE5BYVExZDVIV3dtS2VNT3JZMlB3ajJVMUlqdzNONzJJbnZMSS1EX3Q1aTVqQnhxTm1vemg1N3RJU01DR040YkE1VTNWdzlMaFVpUFF1U0FZUzZSYlFVRnBJNFFDdE85X1RpemJUYnkydFhFaFlXMEV0dDJXWE9WdTN2bjY3Y2EyT3BvZHcxZmljQVhwTWlxU1haOWRoMTJJaUJtTzJYT3hrVjRlTk9ScTc4N0JKVlVjWmM1Y0JUTGc3MzlYNEdjUDR6NFRIWndmWHN2cnZDeUFYTk91cw?oc=5",
+              "publication": "The Economic Times",
+              "published_date": "Tue, 26 May 2026 01:19:02 GMT"
+            },
+            {
+              "headline": "Stocks in news: ITC, LIC, Sun Pharma, Maruti Suzuki, Fino Payments Bank - The Economic Times",
+              "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOaFI3LXU5eGFzQWxpOXdCLTNJOE54QjhlS1hvNU54YnRkQnU3b1pXclZaNVFid2tYbmhrVFN6U3F0TThaaFJ3alFqbkRRaE93X3FETnA0R3FrSGwxLXhnNXZmVlg1bUFKcWpRT0NvWTc0Ul9wNTRZTnF0ZDVaY2lxUG5UaU5MUkVDWExheXhkTk9URFM4VHczdU81ZS05Z1V4SVlxajBzQzBBM05VQ00tWWd0ZzRHdDBRQzVDNUl4OC1ReGI1NncxRmRtZEZtbDlQR2pWZUlta9IB3AFBVV95cUxQWS1jYVRzTnZWaE1xMS12eDdPek1zaVc2MWcxdTNhRE1HTkYtaHRldENkelltSmJjQWxuSWYwUXVyM2xpSTB4Ty00T2Q4Z2p1QnNSdkdWV0dDNVFJeFdpRUdyR05ZeWlrS1pfLVdnbzh2ZzB1bklvWkdCanFSLWZweVNhaHV1MU55dFZ2UklHb1hlNGFMSVRMc2M2RjY2Qjh5dnM3UDV3NTlGd2diY3JaZHJGQ3N1SjhrdEEzeG9OSTFYaENuZ09zZUNvajVkYjk0RXF2SzlHWHRILXpW?oc=5",
+              "publication": "The Economic Times",
+              "published_date": "Fri, 22 May 2026 00:41:00 GMT"
+            },
+            {
+              "headline": "Stock Radar: JSW Energy stock gives a breakout from a symmetrical triangle pattern; what should investors - The Economic Times",
+              "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNR0FqdTRkVncxeUZXZ0I5eVpDQ1RiQ3RveTM5U19PM2JzSlBaWnJRbVBIT3ZhZkJ4bVpZUU1Hcy05aG0wOTB1U2VDcEFBRVNuUXBjSTluWDdrdzZfcExVSmZ1b0RHUlljTVdvZ2FxelgwRFNKQkZJZFpfS2l2d3RicGV3NGhac2tVaGxSdTd3Q0Q3azd1bVMtNWc3X2MyRkVxOEtYLTBvSzJCanE5V0RlRHVSWnk4amNZMlV3ZFcxb1VfT3RCX25OQjRnZlVUb2dXX3BOd1hXc29SdnY5Sm1NSzhpVzAtN2ZnTEdRUU1CX0Y3VDctQzByZ180ZUpLMlFBOXN4cjRGQTRKYWQ3ZlHSAZMCQVVfeXFMTlhReXlvRUc2WUVyUUszdVZiQjJ1QWxmeVk4UVhscGRHSkxjc1ZYMHJJZUEyeGE4WUZWSHZuekY1UllzYVNSQUFkY0tHN1dzbE1RWm5RMXlhTjhvSlVHc3k3bXdMSVhfcGlKcFB3REZ4dGlhTUlMQTBTYTJYZ3hZQVEtYmwtZDZ3UWViY2hWLWdaQ0NHWmpsVUtwUDR0RUZBMGEwVzExN3VSVTlxNmQ5aW1iUXFZNmZRWFd4dDV3bjV4aWZmRUVlVzBRT0FpZ0hGSlBZVEtEbFFBa1h4MkdoVzRrakxiVGVpdHBTMGI5ajZSYm1QcFV1VGlFSmVjSTJwa3hyMFc3N2FNVFdwUlZsZHhhdTg?oc=5",
+              "publication": "The Economic Times",
+              "published_date": "Mon, 16 Mar 2026 07:00:00 GMT"
+            },
+            {
+              "headline": "Mcap of 6 of top-10 most valued firms surges by Rs 74,111 cr; Reliance biggest winner - The Economic Times",
+              "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPUWtVS05IODR3VWdlWThGV2VTemNJRUdNWEM1bFlYR0hEWGVPZ0R6S0J0Z3Y4Qjl6RUhpa1VPWUNoeE04X1lrRW9CUGxHUGlsR0d1R0hKQWJsYnlpOGxoMy1JclNaUDJlMzQ5SHo3aHpNTmN3MzhDOEZZNV9rUFdkc1IyTlc5QmJER2pvSFcwZ1FBVXRrYTBLbmF1TEg2Mk83aUxIU1RYaWxvdDI4MUU0clhzdEozYTRtMkJWeFo4YTYyOWRSWEFVYThWSUNuZlVuSXpvb1NNSmd0OUVCN1g3bHVxQ2JRdUI0dmFLOXF30gHzAUFVX3lxTE5zQ2RDb2hrSjlXTkpyWElHRDhFenBTVWVXUFJNdVpzQnp2VkQyWlg0Zk4tbXRwWkg0c0hNYlNCTmxaNGg5MXFpMEZTTHl2UnZzVjUySm5pbkFzQW80dDNSZlR4QlBqdDJKNGZEUC1QQTF4SXVSMGpONFQ0bmREd0JXdW1qWUpxeS1YbkJEVGtvbVNLSWU0amZuelJYNF9EWFlKcXQ4NUpsQzRpRXZBLVJxb21zSWhxWHd1MnJ5QVNCakxnbGxPUklHNlh4SWNiUzR0TEVQQlRYRkhjWkJJZkxLV1hEQW00cWYtVFdUelVLUE9Idw?oc=5",
+              "publication": "The Economic Times",
+              "published_date": "Sun, 24 May 2026 05:55:29 GMT"
+            },
+            {
+              "headline": "Indiabulls Real Estate case: Four entities pay Rs 10.5 cr to Sebi as settlement - The Economic Times",
+              "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNX19MdVVyT1pienVVdFQtUGN5NlV6WVhaNDJKcnU3MVNUSUR5bTVGQllfMHRoc0wxZmp0NkpwU0ZLTE85LTY3aWVpQUNPWHlyWk84U1hCUDJjRUpOZDBlX1d4QWlvRl9DV2ExV3B0TzV3TFhQNk1PeHNJdTJPcTliMTExZ2ZFdmV4OThtTGdkSlRxdnQ1bEFndElPZEluNFBFLTN4ZndDaXpDVktfd0F5MFBUaTQ1NXNzeHFiM3hwZDlNMnJpZExZSUNRc0t5bTBtVnVjcTVxeEhpdHg4djNoX2xpOG95LWvSAewBQVVfeXFMUFpwTUVUcnlRaDUybHAzbWJOUWJaTnRSaUEyT0xkRWdtWTBZUVdRNUNXeXp2MnZSYmtFR25LS2N5d09kczVxMkdiamRQeER2M1owcGJKLTBhOXJUanRFcXM4bW56S0c5SUgwX3h2QkNEZDBvQnZNUGwweTllWjF2NXNHM0lqdlBHckNZemtzZ29PZ3RpRWM4aWhNT29XYjNfSjZ4VEY1ZTU2TWNFY1h3U3BJM2RFZVlWeGtMcGxGbjkyV21hTXVoVWN0bkVrYWRTYkNkUXJ4NThvcW9Nem1weTlzcHB5U3gydmZJTlU?oc=5",
+              "publication": "The Economic Times",
+              "published_date": "Thu, 07 May 2026 07:00:00 GMT"
+            },
+            {
+              "headline": "How Ashish Kacholia, Mukul Agrawal, Madhu Kela, Dolly Khanna reshuffled portfolios amid Iran war? - The Economic Times",
+              "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOekdCN014WXZiWlQ1OEl3ejZJckZBVE5VT3dtNHlVMnMzMTZXcU91ZzJpZnl3VnYzeU1KRWJBelIzeHU2WGxrV0JFY1FhZms0VlctaGRiQjYzMW5Rc1hfWVlaeTB5eDhTM2t0SWEyZTExdlprNW9EaHd2enN4UXhYeXlsLVdMWWRzTndyeHdXZUVXcy1QX2lTQUI4WlBhQmdsV0U3RXllSmxfYVAwSllYeS1fRGZpUENwZjN2MlB3cXZtWTZXYWVJeVhpVk0wMEYtLUtUSUZDNkNBd0Jqcy1DTGJYaTZqM1o5dUJ6UXVWZHpXX2xwajZKNGVjMNIBgAJBVV95cUxPeWpGY1Q4eGFtVjkyMHJsYWM4VUlLdm5fMzI1UlhiYlhsdXlCM0ZzTWdyR0NITXhTWm1BZzBXTE1qUU40VkNCVy1nSHNWQzg4WmNuR1JLcHd2NHpqdUVxT2Ntd3NKSnRiLVJqUHAzVWJiTXlzUHk0eGJZMEVNVDlid2NPVUIxZ0hmWjdseEV1SEN2aEpXME9fQW00X1JQX3JiSnpTcjNYNmhZb0pCVzE1ZEtWS1hfUzNlZ0Z3ZmlORzh4WkZSNHdrUnZJeVllY1hDNkh6cE9LWTN4cGoweWl2NlFzM3lEZGV5SjNKQV9QTzBHTkdsLUtVY2JKNXNYanpB?oc=5",
+              "publication": "The Economic Times",
+              "published_date": "Wed, 22 Apr 2026 07:00:00 GMT"
+            },
+            {
+              "headline": "These 7 banking stocks can give more than 23% returns in 1 year, according to analysts - The Economic Times",
+              "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOZGh6RUVVRjkzVU1XeXJ6dVlDWUxCbTVQVWlhUEh3WDZvX1lDQjJFblpYZWlheWRoVXdwaGxJUTBNaXppM2lLNHNNQXdjaVZ3TFJWZDFNNWpJVko0eFVrNDhNbTVOb2hXNDdzZGVSUm5maURBcWg1RjNFRENNOG02WmpDeXBpSDdZSDQ4TW1WME5QalBBTUhiUFBiY01tX01YTUQteWJ5YURqSmdIWWNxWVZaWVQyLXMxUHNCbXZIeGpRT3luTWtOUDQwUkxQUks1ZG5DaU9JV2xCajJmVHJ6YXRaMXcxUnhqckozRHAzb9IB9AFBVV95cUxQdUFuUXRITDIwMFRrYVA0VEVXeHN2X1p4b2ZRUmY5LXluYm0wSTg1al9KclpZcTVZYU1iY2dRWEMwUk1QZTNlM2doZHB4U3h4emtzZDAwRmN4bE1sRTRxUk9DbWVjZDh6Nlo4VmRQLWFSSkR6b2g0ZnlGZzRQaEZKZUJaelpQRHJrR2JDUVFQdTF2ZXU2eklsZnN6b0ZEQmRJLWNOczNiaDFRZDVHUGZCUXROR2VOVVBWSUs3ZEZXRFNsbXkzYWM4aE1QbkhUMEF6MjFNVHAxSFZQbldkNmRFdm45OF9KYWtTV3UwblNEU1IzRkpy?oc=5",
+              "publication": "The Economic Times",
+              "published_date": "Tue, 23 Dec 2025 08:00:00 GMT"
+            },
+            {
+              "headline": "BT Opening Bell | Sensex rises 127 pts, Nifty above 23,950; NTPC, Eternal lead gainers - Business Today",
+              "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNVXQwb0p5cGhXS1lSVXpxVEk2NUIwbG91S1VXbDBlSmlOYXkzcldjRUJBaDUwb1g3Rnk1cVBabXJJNlk3LVRuV3V1OWVMenR5TE5rOU5neFhXNWR5UFFPMGVJNUJkdE5tUTMtbGdlNVRBZ2F1dG1VTzV3OHJHaXJ1V1NFYkxjbzZuakp4d01mOGxVSHNHY1NmRkVUUW9rOC1aYThjaklYcVZmaTd3eEcwNmY3eWxSazNaZlNvdXEyc2FPeUxHbW1Na3lkbG1UaUl4UGtLZGxwQjRkNkxpS2tCY1l30gHnAUFVX3lxTE5seGl1WkJ2T25ieGVfdWpYbjhySVJSRUlwaDlCclBqU3owdmJ1VTZPb1FDVkVSREJPY0tKdXlkcXNVYlNRQUU0MS12YkxFdU5yT2RWSVMyX09wcDQxanhaejdPRzZ6VXdNT3U1eVBLVDk3cnZiVW93VDduUmR4bEhKWmxkT1pXcUhJZ1Y2VUNnMllwWnBtTG9IZl9BMlJQbVVYOFFEclRHd2JINllCZ2t3MDNwMU1NaEFUSDhmVXlfaF9yRUdsVVBZLXRGek1DWXd2X3ZZM0VnZ0Q3MVlnT1JXdnV4UFZRQQ?oc=5",
+              "publication": "Business Today",
+              "published_date": "Wed, 27 May 2026 03:56:08 GMT"
+            },
+            {
+              "headline": "Stock Radar: Down 20% from highs! Why Container Corp stock showing signs of bottoming out? - The Economic Times",
+              "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQM0NveHFaazVaa0lsLUYxX3FwMVB5YWgyUDdseFVFdm1YenRhVFd3bDZndUxmX3hteno4X3BrRUpjdDZQemZWVDRLaFVyOWZNQ0d3UHA4RGN2ejE0N09Od2RvYXFLLWxoMTY5cU43di1pZnE3SWhqYVpCYUtMeU1Ua2xtZ2pWcmpIb2tEb2NnUkpUcktiT2pFWGJJVWM0M3VSX0o0dkE5UDZ0TUVZYnFsUFNucndydmRUZWlQT0MwS1BMaEE1UHdDV2xWdEhBR3AtSGVQcjNJTlVmOGlKY3l4dThoTVRxNUVURUstQ3E5eDRLd9IB9wFBVV95cUxNWGZuOHdXZzRHQXUtU09Ca0w2ODUzdDdGdzRueF9hc3o0TTNiSktpQnIyUzVJVmkxQUZocGJFSEJoZ0pJYzU0aFpzTVV6djZ4OWpwSjRHS3JfUmpLVFJDZnhId2Yzd0VLMmdheXJJaGo2M2dGcHJEc05zSWpmQ0RURnByaDlvcEd4bnMyZTA3MjdpOTY0N3NoSTZBUUU0QS05eG01S2ctSUdqdGU2MGF2Y1ZPZkg0akFWeGFOalBWT1cyZjUwaTJ2dXotZjFkOWZXeVdxQlZ5b3ZCMkI0VnR4eXJYVnJsOEdDZVZKZzRnaVNIektWSWE0?oc=5",
+              "publication": "The Economic Times",
+              "published_date": "Mon, 29 Dec 2025 08:00:00 GMT"
+            },
+            {
+              "headline": "Time to make a distinction between FMCG & non-FMCG MNCs, second one may surprise: 7 MNC stocks with upside - The Economic Times",
+              "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOV0wyRVZIcUVEc3dJVEEtOUkzTW9TSmVaZzhGQW0yOUM3SmtpZG5zc2xBdHRwUXpFTTdNRk4zZ2Q2SkZhNEdwOU9IcW9yanV3R0Z5bXYzMEhvamNNdmxTOUc5NU1XU3huU2FsUjdlaVZGNkdsWi1JUnM4Tm92NHRxT2RSSzFPdzdhSk4wc1pma1Zsc0dueFNzeWg3NEUydkw5WTN5SUJmTTg5UGNXV3pYLUVIRGVZdFRSVG5qNlplN3FCalEzb3BJcUlEZ1ZWTUl2UWRBN0FfQjlVMUhZdTYwU2szSXJLVUlKYWs3QjR6RnJPbjZuVHhob2JEenRZOWM0NEkyUTRyczJKcXQzNU1yUUxBY2ZxRHVLT2lVLWkxb1hrclnSAagCQVVfeXFMTTNJckI4WEVtTjVLYVF6R1JfRzBaQjZNcHdLaUQ4ckN6QUduNU5nSEhLZ2F0VUpXQW53VW16WnU0V21Pb1o0dVk1czlIdWhUQTFKNXRmY2NadXI4dXY3ZDBBVjIxcDg4LWJ0aTUzRE1rQjQxR3NpV3NWNXFsZk9sQWRSWHViZVhjZ0VQRFQ0NUtlU0REOTVnSEhPVEI1QThVemQxVU0xX2FIZkxpUHlSMU8yeUIzQW1JbDhGRkJkZkZ5a3ZBSFNKVE5YcW1IT3c3WUFWckpPRUFXclZ3M05WM1h3RTJqUVlaSDlxenhkVHQ3a29wNXQybWF4Q3ZRQS16NXRZbjJpTGJoUGJMUnNZaEZkTXd6YmUzbVU4eFVGcmczaExySTM2dmU?oc=5",
+              "publication": "The Economic Times",
+              "published_date": "Wed, 16 Jul 2025 07:00:00 GMT"
+            },
+            {
+              "headline": "Paytm, Pine Labs shares drop up to 22% in one month: Jefferies cuts target prices but sees positive risk r - The Economic Times",
+              "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNN1Vvb3ZFR1pMQkVnV3pObktYb3NVYUQ2SGpfM3U1X2RlZ2JqdTVYRXdxZDA5UWJBSTBaZUhsX3UtbnlZeS1MV0w0TzUxOVJYZ2hfTzRYWVFUeWQxN3ZoQTNEVHRlUjlUMUpjcERoTnBxeHIxVG9IZERPdG5HcFlfbmZYU3JrRGp5OVY5Mk9MRGR0QmZscEJsYWkyaEtNelREcV8yaXB1WDhRMk5GQUZYVGpIRGZVSFl4OHNqNlg4Y1piV1lIcnhTdWllcnRVRE1WQ3R5UzBOX2dSMENRM0RJRVMtLW5iSjRtNTJuaFQ0U0JxaVE3RTVtOGI3V0Vqb3BxYV9HYVl4ei1fNmlMMDNxc3BBUzZiRlZZaUNNTtIBogJBVV95cUxPeWtSX3RGc0s0VEU3MVUtbFp1QmtMNkFyMnJYMUtlMXB6WUoyQkRYQkhSczJhRjBQLXp1bHdsWTl3N2NHemZFaWh6SW1pa2Z1REF6LXVzNW82c1RpS19XSnJqMFVqRDg4ZXRVRGpiME5MeEVXUmg5eDZVeDRyRkFpMTk5TEdGMHRHdDlmTkhnOFQxYWRQLTN4YzktenFJbW1OZGNneFRRTzVic1B6OGcyajJiWGRJd2dScFR3R3JqV0RoSjMzZXZQTnFMcmhnWE94enV3Nl9oZEdvQVQ4MDRPZmVMOGY4ck9KRDZKemlqaUNIT2dWY0J4dUZfejlOSzVES1RTVG4wQUhMWXJENEU4WmhLUnRKbUZ1MC0xUE9ncUQ4QQ?oc=5",
+              "publication": "The Economic Times",
+              "published_date": "Mon, 23 Mar 2026 07:00:00 GMT"
+            },
+            {
+              "headline": "Oil giant BP ousts chairman on oversight & ‘conduct’ - MillenniumPost",
+              "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQU3NQRUZxRmVjc0x0OXV3aTUyTjRqb3gxbS1mTjc3OG5ObEplVXJ0VmFmcUlsRzg1RV80c1g1M2hsLVpSdF9SLU5iNjhVMW5lWThnZ1BYXzdFV3NFQVRKTmNkTHdZZ0I0Wk5RNGF3Q0lKYXVia2FGajQ5OExZNU41LVUyUjYtMDRhUHo3MTU1dVFnaUFFVWk2SGFYWTZvb3fSAZ8BQVVfeXFMUFNzUEVGcUZlY3NMdDl1d2k1Mk40am94MW0tZk43NzhuTmxKZVVydFZhZnFJbEc4NUVfNHNYNTNobC1aUnRfUi1OYjY4VTFuZVk4Z2dQWF83RVdzRUFUSk5jZEx3WWdCNFpOUTRhd0NJSmF1YmthRmo0OThMWTVONS1VMlI2LTA0YVB6NzE1NXVRZ2lBRVVpNkhhWFk2b293?oc=5",
+              "publication": "MillenniumPost",
+              "published_date": "Tue, 26 May 2026 19:18:15 GMT"
+            },
+            {
+              "headline": "These 9 banking stocks can give up to 41% returns in 1 year, according to analysts - The Economic Times",
+              "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPanJnYW5OWkRuTEczUDgyYS1MQjRFQlFfaTdQcThZLVl5ZlJVMU16MVRvU25yTUdRZ0Ywa2Z6WTU2S1cybHRNVVBtMWdHNTk5akhkZi1ld2duSzhFVVV6dmZiS25JcDBXZGVibjZJdy1vSG9sYXNLZjhQUUZMV0dMZzg0OHk1ekVGdjhXa1FWLWloZllGWTVOUWpScmpvUFZhQWdjdXhDSkVsclRZVUNROGJ4N2Fxa0dFSV9HYnhab29qaHlXVGk4QUJ0S3Bja09lWGZUSjU1emtTZ2Fpb2hpNEtJcUNIQllVdmfSAe8BQVVfeXFMTnI1eTE0OW5SaUd5N0Y2X1BWS2Zsd2xGTXBWRnhlUHUtd2pZWExNUGh6RlRBTDEzXzM1ZFlTbnlzanFsOWNfWHYyN0YtRzlabFM4N3BNNGtISDJYQ2gwdWtmWTA2a29YTEJlY18tMHJZdGJpQjZDc0h3NXF0Z3lYWmNjdHRGaTl0Ni1sM0gtMG8yUzBCV2pTelVHUEVBUEZDZVg2Q3gzVXFkcTRRMnV6QVNKNjcxSWNIUnByVWtrZEJSX2FreHhrR2I4cURfbXh3Q29sMTJXck42V01UdlMzZXB0NV9hdGgzYmNaeWlBRkE?oc=5",
+              "publication": "The Economic Times",
+              "published_date": "Tue, 28 Oct 2025 07:00:00 GMT"
+            },
+            {
+              "headline": "Buy, Sell or Hold: Morgan Stanley initiates coverage on Hindalco; Emkay Global downgrades Hitachi Energy - The Economic Times",
+              "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNb0NoNlNrNnY0Y3IwRzQ0RkZNTWNENXlYeGk4R2VNTkQwWTBuRWlCNGdfaTNMZmFlZTZQOFFVeHZ4b1czNDFFZXNBeThGTDZfc0txUWZWRGxKVzRBX1ZObU9CVGxBcXpvVkpNeUlnRHFUU3VSLXRmd2xWQTFaOEVBMEhtdWU5WWlia1RLc0I2VHZnYzZqSzlKYk9nTC1HMGZLMzVRNks1dDdPRzhxSDhhRDJyTGRrYjNzaEhVUkJzR1dwVmVnVEJEMUx3b09xNWViU2xjdk9sWHVJNGdoWE5pSU54TzdJYVJyWmJTVXE1eVdIbnc4RUVqLWdMbm16dFB6RlhnMDBR0gGLAkFVX3lxTE1UZUxvTTMzTHpaekhlOGRyZEhKYTI4Y2ltaUFOVThmZ0pRa0RKY0FuYUM5LWs1RjUzSkxMMGpYMkJWTHlFYlR4NVNxOS1HTG1BRHpoRk9ITGdVN3RYOHJyQkkwbEFUOWpTVWwxZmx3WUgxVWgzMmtNaE1PUDBoUVNQenk5ZnRMRHJJc1R4bUIxNjhpY0dLTTRweXJVNXJOdl9sai13NzdTRjZOc2x5eS1yZ2VFbV9ybXJNNXJfaENkVlV4TWt1UndwVXNqVFY5OGMzaXp5ZzN1Tzh2QVJPQzhsbUNLdk5MSDF5Z0toRjRrME4tdTZrc2xsNWN1SGE5WVBJekNISU1QRjF6QQ?oc=5",
+              "publication": "The Economic Times",
+              "published_date": "Wed, 27 May 2026 03:49:58 GMT"
+            },
+            {
+              "headline": "Dow Jones falls 500 points, Nasdaq, S&P 500 slip 1% as Trump slaps tariffs on Japan, South Korea - The Economic Times",
+              "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxObWJja2RoVlYxb1JKYzlrX3UtOWZxSzc3TUc3czVRRjg4ZVlWZWtneEIyRFVuS215MXN2dGtnbFNiUnltVDQ3VDVTRGppVVhod0tjU0FMSmFKTmZqVEo5NVV4NlF6c213eWdBei1fTkFZNHF3b3Jwem9LajhZTkwwb1hzQ0xEX3piaWVwdlpPcllzMXBQd1I3SS1NcXI5ZkV4QmxvTmF2bnJqeXhVMmdmdXR3QWFHWWRuclRPVzhndkFLMDI3S2hlaW9TcGpZWnh4Z0RSVHd5dzl6ck9QR2tmWEwxVDhpMXNzNXEzX2dGeU1LQUdmQk5wONIB_gFBVV95cUxNOTI5dDU0Yy1aZHRfSHU4bTVvZUZ5WHFLajNpU1lhQmhZaGlCNVRqeW00dTRmUjJvdkxUVm1xTElNZU9Zd2NSQnJEbHV6ejlLTkNSajlQV214U1FWUENmdHlMVC1HMmFsMUtuNG9DMlVydm0zTk9DbTR4d3d3Z0FOMS1JSzQ1Yk44dVJsX0RoMTZUVmhOeW9lR0RMajl0RmxxS0NJVENoTnlieXNCamFJd3A4ZTdxaWlxWUZJU0h3bUhTMmFYZnlsbk95bjNmYlcyR3ZjTm04ck9DVkptQmFoR3ZzOVJ2cHlqalFKcl85VkpNcUUteG9WenRJVWtzUQ?oc=5",
+              "publication": "The Economic Times",
+              "published_date": "Mon, 07 Jul 2025 07:00:00 GMT"
+            },
+            {
+              "headline": "Top gold loan companies expand bullion holdings to record levels in FY26 - The Economic Times",
+              "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQdHFkeDZyeVZBRmZ2VUhjZ3RqbWxDaGhpUlE3d19Tamp1WkdVMVlUUjRlNWM3N3hqTDQtNFJodVQ4M1lYd2RSYlJReDBfdGktdmRCYURlZTFmcTl6Z1dPelpDblR2UDUwY0JNRlpTV1g2R0N3QV9JaTNVdDJTLUY4Q21MYnhtOVljMXhoZVRFN0pJVzNoTV9vNnEydFlIc09PZDNKdGpabTc3Q29vckFQdEkyS3NqQzdJRUswRndlcXpLWEdkLXRCY2VUVkRQcGlZZW91TFhNM1BSLW5MRzNIemZwVjdPd3h60gHoAUFVX3lxTFB0cWR4NnJ5VkFGZnZVSGNndGptbENoaGlSUTd3X1NqanVaR1UxWVRSNGU1Yzc3eGpMNC00Umh1VDgzWVh3ZFJiUlF4MF90aS12ZEJhRGVlMWZxOXpnV096WkNuVHZQNTBjQk1GWlNXWDZHQ3dBX0lpM1V0MlMtRjhDbUxieG05WWMxeGhlVEU3SklXM2hNX282cTJ0WUhzT09kM0p0alptNzdDb29yQVB0STJLc2pDN0lFSzBGd2VxektYR2QtdEJjZVRWRFBwaVllb3VMWE0zUFItbkxHM0h6ZnBWN093eHo?oc=5",
+              "publication": "The Economic Times",
+              "published_date": "Wed, 27 May 2026 00:51:00 GMT"
+            },
+            {
+              "headline": "Dussehra 2025: 45 multibagger stocks deliver up to 11,400% returns in 1 year - The Economic Times",
+              "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNRzZLdmhZaHVUaDV5WW1NQ1dsMGpiMWdFVXdMV0huMGxnT1MzUWF0ald2cHZEUEdNUEJUXy1mT1VwY1dLTmhtczcta2JBalVqck9xSElPSjk3dUFFaW5EQW5xUEdac2ZIbUJZWlBnd0pxdGR5OTFoSXVhNVNSQS03azhoU1VhVUNvUEU1Qld6eVQyU2VQWFB0TjhEdXNRTGxaV01jQjRYOEdXdm9LZ3FJUFY4WWtoZkhFcWplYVJIQjBFZ3JPVVNDUmtmNDhGNW9yWDZWbWtVSmx6MUhFdF9TddIB5gFBVV95cUxOYlEtazNucERLcTdFbjdYUHR2czZucU9ZVDhRYXR4NDJiaTJSa1gwYjZ4eVFIbjdvNXNlQkhmanVwaDRRMzMwYmtMQ2JGS3NJWlBWOXpLVVg2M2dMdkE3enVWZDZwNUlUMHBudTRsVE9zOW9lYU9nZ2g1dzRRZ2NKLXZXRE13VmFMRWJXTTVEMHlvN21sT1ZQbGJHRV81aml1RWF0ZUJXTk5hakFFazVmSlVROWVudzlzSV82eHBDTkNsdzZRVzFRTW41eHNnZmZLTkM5ZTNRSzdnRHoyaVNuYlA1RFhGZw?oc=5",
+              "publication": "The Economic Times",
+              "published_date": "Thu, 02 Oct 2025 07:00:00 GMT"
+            },
+            {
+              "headline": "Budget may tap oil windfall? JM Financial flags excise-duty risk for HPCL, BPCL, IOCL; backs Oil India, ON - The Economic Times",
+              "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNQlNIVnNyVzk2VmdQVmVVbC15QjBNNm15alA5STZDbUFZNEozS1BXdmJsZ2E2RnlQbnBrWjNGQTZpRDlOcXRzelBuR0FaMDd5WUlKSDFXT0YteWFYSXBmM3ZFZFlPdkpXdGpTN1VCNmFjTjV1VzVVS2d5NHl6U0RMQ1VCR0hqTkdZWHFNZEszZnhuNFNWRTRSMmZiTVBaVXRWYWVRbDZiRU9FNGRfZWJwMDUxY2RTaTFVaEptTmZGWW1JZFhqVldEVEI1Yk5KQzZyUWZ5bkNkMmVoWGJBNzJlMEFnNXhSc0w5cHplWFVVUS1zTjVXNkNGOTNoNzRjZWJaa0JNQzl1cXjSAY4CQVVfeXFMT2lZaWpKMG4yY01zTlh0LTUzZl9UczlMeEJHN205QU90bGpLQUdBU2prZklONXVzWnc5TEJEcTVqemZRc01yNzhTaWFxMFlJdXd6OTd4bVplYXE1UVJhYVg3ZHpjN24tT3VqMV9hUUN1UFlBbUw1bWlSMk1mQ3d6VjZlc1ZXYm5TcFBPWE5GUk5DQngzRW0wNXpCdGFjSUZOYmx3akRjV09yYVQ1UnVuVjhwOG45THJvbURFeVRac1hXbUYyWmRQR3lXUVZvTzFHcDZtVzFHekpaMTNnSlUzanVOQWVVbEI2MmdyOENfRHpLdkd5akhpRTcwck93bmpWankybXZIalB4MG5JNEZn?oc=5",
+              "publication": "The Economic Times",
+              "published_date": "Thu, 08 Jan 2026 08:00:00 GMT"
+            },
+            {
+              "headline": "Union Budget FY27: Defence budget set to soar, Jefferies says betting on HAL, BEL and Data Patterns - The Economic Times",
+              "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNUENqdHZrTFV3VjVWQzZXTXZVLTltQTI2cjMxTzdZTlRuMTQyUjI1OFB2Z040NndhTTgzYWhZT3VzUzBXNHRUbXI1b0RQSFV2U1FTNkdHbE44aWpWRFBZMHpEQXktSnpibGZla3hBUHVjVjVDdWU5TDlvajZuSnlWWnFYOGJEWG8ydUhhMWJmNUszNWI0RTFNaXlwZXF0bjRTWTVNQ0RieC1ZRWY1OUwxUlVzYm9XcjhlNUI2VkVTZk96OXE2U1JEWHdtM1F5ZTh0RVNwWGl0NUp0VUJ5Y0pvdm1WLXFzeGFMMkF4ZXV2bU0wckFOQ2pOZ1JvNDFhMUXSAYQCQVVfeXFMTVRPVUpBZmJyR2lqOFV4cm9Wc0tqTUp3d2ttbXJCTmgzbTNTZnM5NWp6WEoteTk3TncxZFktN1FSQmVtMkhzbGFseUpPckhlekY1eFAybWxXWE5lOWM1MmlfNXRyang0cGY4LUZlQUM2eWNaYS1vbDN3bFd4b3FvWjQtb2x0dnZoQnYzZm40VlJleUZXZXZ0eVRYRnFhdDBRN2xtdkw3M2M1S2w4djFtLVoxMDZ4UnprNmxPY1BvUC1FdktrTmNVMlh2dzFoOVEweU55TFVfMVZCcnhlUU9wdGpXeF9NWUJEeGhKSm5saElIUHJEZFVsdDRXcWd0UEZ2eFVnWUE?oc=5",
+              "publication": "The Economic Times",
+              "published_date": "Thu, 22 Jan 2026 08:00:00 GMT"
+            },
+            {
+              "headline": "Infosys shares rise 5% on collaboration with Anthropic. Here’s what Salil Parekh, Nandan Nilekani said - The Economic Times",
+              "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxORGk0dTdjbC0xNnYxVzhwekIyWXRjUlRTRlNWbVVETjMzQXlJLVRoM0kybHVGWDZ2UDdPeDYtZ3lZUjVUZUd6NnV3M1pzU0NGZlo3NzhLTTJxN2QxX0xUdmpkbnRraWFyTVktaEN6aEVQZDBFZ0I5Vm5VcWplaFgyanFZUDV4dlF1TFJyTks2RExmQjVrZHoxM191ejd0R2tINVluYzU2c1ZySXJ3dHplU3QzeXl3Um1PdHlBS1BJT3ZaWDZtaU96akxXVUpuM2dFTjFHei1yZVRQMlhaZFJ3Skczc3BLejFuZzJPWNIB8gFBVV95cUxPTTV1NlNDdUMxS0pUZkYycHc1M1hJcDJkRzBHa3dWa0FKVDBQQTlvcnF6dnV1eFk1MVJqZGp4SDJzeXdZYm5lWG55YjRNUm1jWmRhZ1d6YkIyZTdMQkYzVEpkcGVxYzY5RXJ3MzlmVUU3bFExbnptWWl5amhnNnlpT212V0tiTHpfdjlSanVHRk5VVkJiWHZyRy1zVGQ5N0gyUWxOcmdGR0JiZEJGMGxUOUZCbGk3YVlJbkVnU0dxS1hTcFR0YTlVazh1dFRVWnIwTTNsNXFqT1JYbW1sdlIyUmdMaURUaTk4ZGFtbXNqY1YxZw?oc=5",
+              "publication": "The Economic Times",
+              "published_date": "Tue, 17 Feb 2026 08:00:00 GMT"
+            },
+            {
+              "headline": "Global Market Today: Asian stocks climb to record on tech, oil drops - The Economic Times",
+              "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOX2JCNTlaQnNRRlp0S21wYzg1VzRwU3FJTHhGcGpfcDV2amtDUms4OUJlQ3F3bHZNWXdhd2V5WDlpNmlwWGExUU1KYXNzNGs3UWQxYmZreFB6eW5nTjRKSEtpck1iZ2IycmJ4WklONFpORWs2aFpyZUo4RjBaLWc0bkRaTTNQMTVwZ1NkUGkwZ0FXb1pzaU40bnBjUXJzTmQwTlY0bUh6d19LYnhXMGhPRmx5ZzBVU1dXcUVNTWlhY1lyczhIWldVYVFGSWVXOFE5eXRXRjdwT2pKbG1fZWlXTdIB4AFBVV95cUxOX2JCNTlaQnNRRlp0S21wYzg1VzRwU3FJTHhGcGpfcDV2amtDUms4OUJlQ3F3bHZNWXdhd2V5WDlpNmlwWGExUU1KYXNzNGs3UWQxYmZreFB6eW5nTjRKSEtpck1iZ2IycmJ4WklONFpORWs2aFpyZUo4RjBaLWc0bkRaTTNQMTVwZ1NkUGkwZ0FXb1pzaU40bnBjUXJzTmQwTlY0bUh6d19LYnhXMGhPRmx5ZzBVU1dXcUVNTWlhY1lyczhIWldVYVFGSWVXOFE5eXRXRjdwT2pKbG1fZWlXTQ?oc=5",
+              "publication": "The Economic Times",
+              "published_date": "Wed, 27 May 2026 01:05:00 GMT"
+            },
+            {
+              "headline": "Reliance Power shares down 15% in a month as ED probe drags. Can the stock reclaim Rs 70 amid volatility? - The Economic Times",
+              "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQMnQyU2toTUhjWUM2MVZsbmFybEdvVjV5X1BBTU5xS2JzQ2Z3eWlqdkh2MHdxVjVvRHBlN2xxaHk3dld1OFFjZWRiQ1lSUTZGTnNwXzQxdHFlbDFoOUs1MFc2ZmJpYnNGSS1VRjdHeXl5d2hQbjJuWVNGcHA4LVRaVUVKZThLc280QzVlQm13em8zY0xXUVliVHNDXzlMX2U1RWRiYVJ6ZmhMNkNfWlBOSWZ6bTA0amc5eG1ZRUkxUXo0NlJ4M0FnREdOanM2clVaR2plQlpOUWNBVXNYb1VlWTJLU1RzMXA1QnhiaE5LZFJCQVVLdmxtZUJMZXdHMkt6WnQ0R3F6QdIBjAJBVV95cUxOUVNNS0RVNTRfb3FwY2JjQUdTZnBscmpnWW1TOUZfODBkck9FV3U0UUlxNlU2R083VG13ZUxucnEwTmhaTnRtTV9hZ05mRjJON2tZeXQ1S2FLTnY1OHJxNVFKZ2tBUzh6LXlhZnJmeHZUemNCYnhWcERSTUxHaDBmeVlFNENzeFRPcWhHZExoa3RLLTI4V3B1Uk9QTkpzWXVwMlJYa2hiLTNGeThHS1ZUdHJGY3lOUVFSdnJxMTQ0X0pKcEpJdl9nZlE3YjVtX0JCZ043Z1NYWFk2LWlrM3Q0empiRHBNSC1LS1REMWoyLUtMMHpfT3loMXBESkZSYWZFRlJIZWg4ck96NldV?oc=5",
+              "publication": "The Economic Times",
+              "published_date": "Fri, 25 Jul 2025 07:00:00 GMT"
+            },
+            {
+              "headline": "Vegorama Punjabi shares to debut today. Check GMP ahead of debut - The Economic Times",
+              "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdzh5QjA3NVlDdTBPOE1Od2gtT2VNTEk3RU5NTVNpUzM0WWhVUTc5THVOcFZRSjR2WF9KY0ZpM3o5RkhpWFpGak1aTDRDOXJZT3E1U3pCVFBCSzRLbXVBTmhvejJuZFJvaTF2QkxpS1JLVUdyTEFMNlZudS1kWENpSWZSY0RJak5seDVXdXZlOUlXWHpaTF9kdFQzS0dKdHQ1SWtqeUNFTVNDeGZtS3g2T1A3V2QxWXRmOXlwUl9pTUFqajl4MkJFN1haNEstVjMtRHN3TmUzUTbSAdgBQVVfeXFMUHc4eUIwNzVZQ3UwTzhNTndoLU9lTUxJN0VOTU1TaVMzNFloVVE3OUx1TnBWUUo0dlhfSmNGaTN6OUZIaVhaRmpNWkw0QzlyWU9xNVN6QlRQQks0S211QU5ob3oybmRSb2kxdkJMaUtSS1VHckxBTDZWbnUtZFhDaUlmUmNESWpObHg1V3V2ZTlJV1h6WkxfZHRUM0tHSnR0NUlranlDRU1TQ3hmbUt4Nk9QN1dkMVl0Zjl5cFJfaU1Bamo5eDJCRTdYWjRLLVYzLURzd05lM1E2?oc=5",
+              "publication": "The Economic Times",
+              "published_date": "Wed, 27 May 2026 01:55:00 GMT"
+            },
+            {
+              "headline": "Yen hovers near intervention zone as traders assess Iran war outlook - The Economic Times",
+              "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPU0NsdU1XLUR6Tmcxd3RDTF9HMEFlUlZTSEE4emJWRXI2TEEtdkFrVnZIQU04dW1xVHJsMzJGWU9pc3gycDVnbjhEMmVCTVNVaWRESVJNTUZBRHNWMU8wVkpic2ZxMzkwR0ZlbzBXei1kT1dkTzNrclRCYUY4bS11SGlscTZqM29hbC1lTTNtVDAzbkFQWHYzdnhqUi1jUzVDRVlxWmlRMzdrRlRSTFByYWJ5aVFZVDR0YjN1SUNSQzV5Wm5iOEdSWFJ0VElBOGNzNl9wTjg1aUp1NEs3a3RLQUhpanVzUdIB5gFBVV95cUxPU0NsdU1XLUR6Tmcxd3RDTF9HMEFlUlZTSEE4emJWRXI2TEEtdkFrVnZIQU04dW1xVHJsMzJGWU9pc3gycDVnbjhEMmVCTVNVaWRESVJNTUZBRHNWMU8wVkpic2ZxMzkwR0ZlbzBXei1kT1dkTzNrclRCYUY4bS11SGlscTZqM29hbC1lTTNtVDAzbkFQWHYzdnhqUi1jUzVDRVlxWmlRMzdrRlRSTFByYWJ5aVFZVDR0YjN1SUNSQzV5Wm5iOEdSWFJ0VElBOGNzNl9wTjg1aUp1NEs3a3RLQUhpanVzUQ?oc=5",
+              "publication": "The Economic Times",
+              "published_date": "Wed, 27 May 2026 01:51:00 GMT"
+            },
+            {
+              "headline": "JM Financial ARC top bidder for Rs 971-cr DLI debt - The Economic Times",
+              "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORl9nSVZFMEczelJMVlJnY0NjTURtUEt6ZW9STXRLR0dRQ0l6UHBza3FwYXp6cFZ1bElFTGVWdHplMGJNaG5HOHZrblNFVXJwbXlGYWNWSG1MUDM0Mkd4czJ3OU5YaUVFODZObVVMZGxzNVZXeGFqel8xUDZmazZ6OVMzemZfZWZQTHBBbmx1MFo5bl9XNTRrWEJ6aGJwWXZpYVZacnNUTTNoMnlTTk5zVkIwX3RONUl0NnFJRWZQY3hlVl9aYmcw0gHHAUFVX3lxTE5GX2dJVkUwRzN6UkxWUmdjQ2NNRG1QS3plb1JNdEtHR1FDSXpQcHNrcXBhenpwVnVsSUVMZVZ0emUwYk1obkc4dmtuU0VVcnBteUZhY1ZIbUxQMzQyR3hzMnc5TlhpRUU4Nk5tVUxkbHM1Vld4YWp6XzFQNmZrNno5UzN6Zl9lZlBMcEFubHUwWjluX1c1NGtYQnpoYnBZdmlhVlpyc1RNM2gyeVNOTnNWQjBfdE41SXQ2cUlFZlBjeGVWX1piZzA?oc=5",
+              "publication": "The Economic Times",
+              "published_date": "Wed, 27 May 2026 00:41:00 GMT"
+            },
+            {
+              "headline": "Blinkit beats Zomato in NOV terms: 10 key takeaways from Eternal Q1 results - The Economic Times",
+              "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQWkVlQzQ5TnBUamNadGg4eTZGN19iVE0xbDhyQVhpOFRfSlU2c3IzYkZuVmdKdm9QdzNieVUxamN1Ympoc05BSVRZMEF2eUpRc09ZTW50T25Ba1EyT0JyNmFSNnBqTFA3TE03dmZOT3NvckpZRkdoNm1yZjJiMzBIenI5OHo4U2ktV1VyNWQwcGVHRG9zalFWcTlfT3lQNDhxLVFsMU1SU0FfRWpkWm12czM1WC1DdzNOY2dqQmZiS2VyOC02WElRMWJvNS1HSmxVWFZsNkZaZkpDVjVldFZHRkF30gHnAUFVX3lxTE9QSFk4TVhraFVrWm9FLUlFODZFRUwxVFdfTDhTMHBBWEpXc2dTZnFpWnZkTnc2OFByc2U1MVdQcHhmZnlNVG5za3V2RTVYWGpNTUZfaGNrNmlUbnZUdzNJZEx3X3hOZk9NUDBoTnI4bTJqRVhLbjlndlA5WFEyX2M4eFhPSHVBOVBtU3M3V29wU1FyN2hPWDhTbjg4bmlUU0ZlOGF6azBqaG1TN19VMXpJaWpkX2c2YWRVN1ZvNF9hd25VaUx2WTg5cW5PTDFsZzdZTElJZWVYUWVIUTg2WDlwNU5LcXFQOA?oc=5",
+              "publication": "The Economic Times",
+              "published_date": "Mon, 21 Jul 2025 07:00:00 GMT"
+            },
+            {
+              "headline": "Stock Radar: BEL gives breakout after 8 weeks of consolidation; what should investors do? - The Economic Times",
+              "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOMmFNQXFlV1lNZkZTaUp3d0I2UDl1WlBPT0hpVTNTRWFoSjdOSFF1MFEwRERqakx5NklFMUE1cjE5ODVvWGp5bURRd0doaW9waWtjTnE4eC10WS13WXVmUy1Nb2ExRElqdllzZTNwTjJ0V2VfWkJTV09ETnNWTF92Y1cyOUxLd21BYldBR3pJUXRtUnFvcmZ3MjFUMzJxT3NOY0l0RGlnUEF1ZmY5RFgtY3pkSE8wbUtiRW1sMTBJdlFORXIwc3pKWDloRFc5SkR6RG13UTM2MXBmV2UybllOVzlLcXJRMGZieVA1ZEd3eDc3d9IB9wFBVV95cUxObnE5OWJyTS1aOC1OZDAtLUdnQVBVcno4a28yd0xWX1JnTXZjekNvSUJIdDNaYlFMRWVwMjIySmI2bkVrVi0tcnllQ1U0ZnI1Q3VMdzNuM2FaaGZKSlEyMWpIVFBqWXV0MWRFZW9SRkVoUGlQaVU5WGxOSjNIU05qUE9kVjFndjVmTlhxTGk1ekF6dzdiaDBvWWg5MU5xektnTXlPS0poaC1XNUs3VHFPcl9SS0ZiejBzQk8yNDQyclhEQzRRRnN5am1rX291b1pUS2RPUzRybXlnWWh3SlRrcGxFWEhBNU5ZVl9tbFMwU2JRNWp5bmZV?oc=5",
+              "publication": "The Economic Times",
+              "published_date": "Mon, 22 Sep 2025 07:00:00 GMT"
+            },
+            {
+              "headline": "NSE IPO: Unlisted shares crash despite offer buzz. Are late buyers locked out of OFS route? - The Economic Times",
+              "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxONkVJUTlUQ2hfY1Fqd2pBYnYyWGxoX0VtT3FZRVkxcWFsekI0akUtalZRWThBM1NoYkw2ZXFPLUNfV0hOMjNveG1ocHJkV0w2YlJaTDB6RW5rcXlDVTladW9SRGhmaEw4WTdJbnptb2NhYjV4YlRwNzhzTThENE4xb3ZzYWR2UjRiTEtMTUNMaldOQWFyV2lDV2tQQUl1LU5ral81SVFuYUk0a0NUbnZkNkpfOWRLTmdPcXg2WDE4Z3VIcEVnTWJIT3JDUXpCYVZZblFQOHVJZUFqdzFXT3ppdkR0bnBjeGs4X1Jyd2F2Vng4VWY5R1Nz0gH3AUFVX3lxTE42RUlROVRDaF9jUWp3akFidjJYbGhfRW1PcVlFWTFxYWx6QjRqRS1qVlFZOEEzU2hiTDZlcU8tQ19XSE4yM294bWhwcmRXTDZiUlpMMHpFbmtxeUNVOVp1b1JEaGZoTDhZN0luem1vY2FiNXhiVHA3OHNNOEQ0TjFvdnNhZHZSNGJMS0xNQ0xqV05BYXJXaUNXa1BBSXUtTmtqXzVJUW5hSTRrQ1RudmQ2Sl85ZEtOZ09xeDZYMThndUhwRWdNYkhPckNRekJhVlluUVA4dUllQWp3MVdPeml2RHRucGN4azhfUnJ3YXZWeDhVZjlHU3M?oc=5",
+              "publication": "The Economic Times",
+              "published_date": "Sun, 19 Apr 2026 07:00:00 GMT"
+            },
+            {
+              "headline": "Britannia Industries Share Price Live Updates: Britannia Industries Closes at Rs 5240.7 with 6.17% 3-Mont - The Economic Times",
+              "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxQd0cyZVhUdzNOYVhkbk4wZFVlNDZlNkptbFM3RUpnbnpRRV84V1lKZk9RakEzZDVqOExsMU9KRmE2eUo4bjhJb096dTloX0hUNDZnbDRJUV9VLXh4NFB5aG5tUUVfNDN6Y20wNWdfdEFaYVNqTDlEY0dJVm5ZbmdKMGRadjhvNnB5VmtCZkp6WFcyLTUwZUZHNGtEVGstYmZlbDBYLUY2d1ZnanJyVWRrYkpkcGkwVTRtZ3Y0d1h4NUZfejdfZHlYRFVfdlMzc2RmRWhMVVhQY0ZiLWo5TUhsZG90dkFEQXdoZmlPaG9PazhCWEs4WlBEWW1QbFMxRVNBVzFNbEN0VU14cVZWUUxLaC1DLVhSc0dEVGFyRWh5TkN3WWY5WW1VUjVCN3k0SERDSW5VR0ljV2Y1czVmSWdZSU1yODJRWmE0bVdHVVRXMVNGNUNsQXhjSjBfazVMMFQ3b1R1djdLNUtVdGFiRFdKVHlWVUZQelY4OENmMDNOZGc1UElI0gGEA0FVX3lxTFB3RzJlWFR3M05hWGRuTjBkVWU0NmU2Sm1sUzdFSmduelFFXzhXWUpmT1FqQTNkNWo4TGwxT0pGYTZ5SjhuOElvT3p1OWhfSFQ0NmdsNElRX1UteHg0UHlobm1RRV80M3pjbTA1Z190QVphU2pMOURjR0lWblluZ0owZFp2OG82cHlWa0JmSnpYVzItNTBlRkc0a0RUay1iZmVsMFgtRjZ3VmdqcnJVZGtiSmRwaTBVNG1ndjR3WHg1Rl96N19keVhEVV92UzNzZGZFaExVWFBjRmItajlNSGxkb3R2QURBd2hmaU9ob09rOEJYSzhaUERZbVBsUzFFU0FXMU1sQ3RVTXhxVlZRTEtoLUMtWFJzR0RUYXJFaHlOQ3dZZjlZbVVSNUI3eTRIRENJblVHSWNXZjVzNWZJZ1lJTXI4MlFaYTRtV0dVVFcxU0Y1Q2xBeGNKMF9rNUwwVDdvVHV2N0s1S1V0YWJEV0pUeVZVRlB6Vjg4Q2YwM05kZzVQSUg?oc=5",
+              "publication": "The Economic Times",
+              "published_date": "Mon, 27 May 2024 07:00:00 GMT"
+            },
+            {
+              "headline": "Britannia Industries Share Price Live Updates: Britannia Industries Closes at Rs 5240.7 with Moderate Tra - The Economic Times",
+              "url": "https://news.google.com/rss/articles/CBMiiANBVV95cUxQT2hNTTVhb3UxbGN2WUhJcERucmh1SkRuTWlhYmtKaHJwTm5FUTE4aDdNeXJPY192UnpsN21PbTExX3RDWmN0S2ZOSE1aSDMzUWZtVTUxVkkxejhndk9MNUhad2o0OWhUR2h5SWNrRWNXakZGSDlVNXB3SFFaYWtDV0EyWXkxcE5xX0Q4T0JwUl9yQ1NhcVpUSHpNajZZaHhUMjJrTXFGVkhWUEtlYXktN2VTWExwc3F2YUVEcVVkckFYRGRpN1BoLVd5R1ZzVWJ6UVNZbDR5eDR3bTlLSjRZSHFWcWRicTJMNFVGVzVOaW1nRzBzOUhwM3Q5cDV6M2lwS1dWRm5qUDA0eDRLTWFJUXctSFJzcUdScmNGZnZHZ3VnT0p5Q2NDUUhuMGFCNlZvT1dEb25NX2FoNjc3X2NSSW8tVXhzOUo5NG82Y1NYTnV2YTFjTUlCRlhPdkJZRHhndEt2UzR4OXRtYTd3WlpsQW05aHNCUGtraHVuR1M0Y3lEZFgwd3d1WNIBiANBVV95cUxQT2hNTTVhb3UxbGN2WUhJcERucmh1SkRuTWlhYmtKaHJwTm5FUTE4aDdNeXJPY192UnpsN21PbTExX3RDWmN0S2ZOSE1aSDMzUWZtVTUxVkkxejhndk9MNUhad2o0OWhUR2h5SWNrRWNXakZGSDlVNXB3SFFaYWtDV0EyWXkxcE5xX0Q4T0JwUl9yQ1NhcVpUSHpNajZZaHhUMjJrTXFGVkhWUEtlYXktN2VTWExwc3F2YUVEcVVkckFYRGRpN1BoLVd5R1ZzVWJ6UVNZbDR5eDR3bTlLSjRZSHFWcWRicTJMNFVGVzVOaW1nRzBzOUhwM3Q5cDV6M2lwS1dWRm5qUDA0eDRLTWFJUXctSFJzcUdScmNGZnZHZ3VnT0p5Q2NDUUhuMGFCNlZvT1dEb25NX2FoNjc3X2NSSW8tVXhzOUo5NG82Y1NYTnV2YTFjTUlCRlhPdkJZRHhndEt2UzR4OXRtYTd3WlpsQW05aHNCUGtraHVuR1M0Y3lEZFgwd3d1WA?oc=5",
+              "publication": "The Economic Times",
+              "published_date": "Mon, 27 May 2024 07:00:00 GMT"
+            },
+            {
+              "headline": "Britannia Industries Share Price Live Updates: Britannia Industries Sees 1.05% Price Drop, 6-Month Beta a - The Economic Times",
+              "url": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxNODVtWGtTS0VKbHk2MkJtUzdwREJRRkh4YnpVeEhZcHdIWmpSazJUQlpmMDJnVzBEdXhleGlGMHl4ZjNkRXlscTZwVWF3dDJ6amlFOTlYR2JJTVM3VDdvRW53d3R6bVhqZWgwS2MyU1hRWVl4bFN3dWlKMkdKVVdYXzNHb2xRRWppeXRWMjFrajZhNTFQSlpiaHFmeGhyVTBNZUR6S0Zibm45VGFkYk5JRFdqZjlkS2IxMXkwMEVQN1dTMHJPREs1alV0RHIwN2JOeUdjcFEzakIwR1FZNkstSWRUSWdrR2NYc2hRYTBubVdUOUJOYjFIdDg2XzlaNmdKV2ZId01LQVgwenJPdVFBYk5QOXhhaE9Bb29BdUpkMkdkZDVIc3d5U0lURDRmYWVTWjZKWUxZZE9fZmZPemRKMGlhOXNrS3d0YW92blp6eVJxNVhMX0ZzbHVhT2g0Rk54YnBWRTRmbWlWVms1UXA1N2930gHyAkFVX3lxTE04NW1Ya1NLRUpseTYyQm1TN3BEQlFGSHhielV4SFlwd0haalJrMlRCWmYwMmdXMER1eGV4aUYweXhmM2RFeWxxNnBVYXd0MnpqaUU5OVhHYklNUzdUN29Fbnd3dHptWGplaDBLYzJTWFFZWXhsU3d1aUoyR0pVV1hfM0dvbFFFaml5dFYyMWtqNmE1MVBKWmJocWZ4aHJVME1lRHpLRmJubjlUYWRiTklEV2pmOWRLYjExeTAwRVA3V1Mwck9ESzVqVXREcjA3Yk55R2NwUTNqQjBHUVk2Sy1JZFRJZ2tHY1hzaFFhMG5tV1Q5Qk5iMUh0ODZfOVo2Z0pXZkh3TUtBWDB6ck91UUFiTlA5eGFoT0Fvb0F1SmQyR2RkNUhzd3lTSVRENGZhZVNaNkpZTFlkT19mZk96ZEowaWE5c2tLd3Rhb3ZuWnp5UnE1WExfRnNsdWFPaDRGTnhicFZFNGZtaVZWazVRcDU3b3c?oc=5",
+              "publication": "The Economic Times",
+              "published_date": "Mon, 27 May 2024 07:00:00 GMT"
+            },
+            {
+              "headline": "Hindalco Industries Share Price Today Live Updates: Hindalco Industries Closes at Rs 518.35 with 3-Month - The Economic Times",
+              "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxQQmZxMzVXdW5WemRvNG9ZZTBwekpramFRZWlSNFdBR2trNkZmWFplUXM2UXhTd3dqdE5OM0x1RmlBODhxREl3Q3VMM3kwMjdnWXFJTlZpQTQ0WEhySl9faUlqOVczbkJ1UDNWeGs3TDgwb1pLOXItdnZ6cEtNV2RfXzdCSU1Hdl80UFB4SUpLVURGR2tGc3hjWjlMMkZWckRrUHhJd0VHS0NOLWkzNzNsaUVRRGNJM0VpaUZiTnpIOVloN3YzWUJmdS1rYnhrTFhCcFVjT3c3Z0ppX3JuOThSaGhtQzZjZVVhSlNtYTh0ZUFybkRvLUdyR1NCOFg0NkJmdE1RNXZ4SEhVUndtb0tGc3VrMWE1TnJZYi1CVWlQOXhQbmxkdU5KWGxtSWtZMWtCbFRROWEtRlRza1lzREFnRnFZTHNDR2RiUmNEM3pzd19menkyT2xQUEo5ZmV4UzI0T0ViLUxDbW05My1qb3daUkE4ZHI3QlpHN1FKZ1d0S3lTSUXSAYMDQVVfeXFMUEJmcTM1V3VuVnpkbzRvWWUwcHpKa2phUWVpUjRXQUdrazZGZlhaZVFzNlF4U3d3anROTjNMdUZpQTg4cURJd0N1TDN5MDI3Z1lxSU5WaUE0NFhIckpfX2lJajlXM25CdVAzVnhrN0w4MG9aSzlyLXZ2enBLTVdkX183QklNR3ZfNFBQeElKS1VERkdrRnN4Y1o5TDJGVnJEa1B4SXdFR0tDTi1pMzczbGlFUURjSTNFaWlGYk56SDlZaDd2M1lCZnUta2J4a0xYQnBVY093N2dKaV9ybjk4UmhobUM2Y2VVYUpTbWE4dGVBcm5Eby1HckdTQjhYNDZCZnRNUTV2eEhIVVJ3bW9LRnN1azFhNU5yWWItQlVpUDl4UG5sZHVOSlhsbUlrWTFrQmxUUTlhLUZUc2tZc0RBZ0ZxWUxzQ0dkYlJjRDN6c3dfZnp5Mk9sUFBKOWZleFMyNE9FYi1MQ21tOTMtam93WlJBOGRyN0JaRzdRSmdXdEt5U0lF?oc=5",
+              "publication": "The Economic Times",
+              "published_date": "Mon, 26 Feb 2024 08:00:00 GMT"
+            },
+            {
+              "headline": "Yes Bank Ltd (YESBANK) Share Price - Business Today",
+              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVHl4X0pYSXplNkc4T09nQTU0MHRxTWNjWU9HS0ZWbFF2ZU1FUHExZ1JvNThqNEg4d0hyajVUbXhCODRMSnlPUmE2clhaWFFZcWpnaEZTeGxKZWFXTnBXcjdqN01mc1p6VWh6YlpMUDZINUxnLXItMXN4ZHJGZzNjeQ?oc=5",
+              "publication": "Business Today",
+              "published_date": "Tue, 31 Jan 2023 05:53:56 GMT"
+            },
+            {
+              "headline": "NSE bars Yes Securities from onboarding new clients for three months - Dailyhunt",
+              "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOM2R0czZjOFNUSldOZU5Kd0lrYkVxNWlkZ2EtaURSM01lbHQtdlVVdWx6N05WRVV4bkNPUUM5LWd3d0xCTTE0M2tGUEpXVVltZ245OER0dXdoblBmZm45eVdRQ1BhR1VYbVJlZ1FMcVRzbHh5a1VvdkVsT3dRX0gyWG5uREpvQ0xXUnBFUzMzTkJlVlk0ZXRqZFpPcmQ4QWVoRDEzdFUwR0VMVElQeEhHWmZxTWc2dGdKZktXRWdzSVZ3YjBMX241WjBOTXA4c2hDYUFpNVJlR3NwcU5vY05IZTlhS3NGdjVXdTc3ag?oc=5",
+              "publication": "Dailyhunt",
+              "published_date": "Tue, 26 May 2026 22:46:57 GMT"
+            },
+            {
+              "headline": "NSE restricts Yes Securities for 3-mths for fraudulent practices - BizzBuzz",
+              "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNLXpoSFFFajc5bU1VbmtERnNVdzNoX19ZUkQ0bFNCeHNPalJUV21RU3hGSXF5OWJZWGUxMEtQd0JOWDY3Nzl5LTEwQzRueUxyS2xFbm9rMVI2LTQ4M0FOZnM0TU4zTzEyVG1wdU80dGo2VVJlT0FoYXRQbU93clV2TEFRSUd4c2RfNXBYeTlPcTJyOTZWYkhUak01eHU0REV0ajhuQzVvNFF3Zw?oc=5",
+              "publication": "BizzBuzz",
+              "published_date": "Wed, 27 May 2026 22:05:05 GMT"
+            },
+            {
+              "headline": "2018 to bring about earning growth, 2 sectors to lead market: Nischal Maheshwari, Edelweiss Securities - The Economic Times",
+              "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQMTZkc0RHM1JDMmduaTcwUXVVd1FRd0x0QWpyQTFkQVdLVkJqUjFsWVNQN09IMWtMR1F6ZkRGMGpmWGRMQkpxOF9jdXhhanJ4WjZkMC1QRUxhcFQ5SE9LUnlNLXJJLXU5Ti1LaV92QjNTTDZTX3U3MDlNWHl2TkYtMW1TeFd4VFJSdmd6dWEwUHBmUXBCdmlYT0s1ZkFtR2dGNlRYSHgwMmF0Um5ZeHAxLVdQd0JlR3FCdGpNVnFtRllRYVlxOUR3ZFFhejFOd1Y5WWE4ZHFqTlJBbzZ3S0E3TDRWU3NvRXF3WnBWVTBuLTM5eEpYMUZpSE1pc0FXRkVCbS1kYmc2alNIaGo5Nlo1TzQ5Y0xPcGlY0gGYAkFVX3lxTFAxNmRzREczUkMyZ25pNzBRdVV3UVF3THRBanJBMWRBV0tWQmpSMWxZU1A3T0gxa0xHUXpmREYwamZYZExCSnE4X2N1eGFqcnhaNmQwLVBFTGFwVDlIT0tSeU0tckktdTlOLUtpX3ZCM1NMNlNfdTcwOU1YeXZORi0xbVN4V3hUUlJ2Z3p1YTBQcGZRcEJ2aVhPSzVmQW1HZ0Y2VFhIeDAyYXRSbll4cDEtV1B3QmVHcUJ0ak1WcW1GWVFhWXE5RHdkUWF6MU53VjlZYThkcWpOUkFvNndLQTdMNFZTc29FcXdacFZVMG4tMzl4SlgxRmlITWlzQVdGRUJtLWRiZzZqU0hoajk2WjVPNDljTE9waVg?oc=5",
+              "publication": "The Economic Times",
+              "published_date": "Mon, 11 Dec 2017 08:00:00 GMT"
+            },
+            {
+              "headline": "Yes Bank shares in focus as NSE bars Yes Securities from adding new clients; here's why - MSN",
+              "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSENXTWE5WHFGMEVIRE45WGVaa0FhY01yY1d4bmdPRS1SUG1KbVhPZFlIRVpUVkVkRFFfNXp4RktZTzdOQUpHeDVvV3Y1QTB6dFRTRS14UGRZZHY2QWZ2aUt1NWNtaXRBVzAwNlM0cU9oSS1PUHJRWGlKWE9mdVJOOExKVEVUdHRmRzA2TjdjOFYzTFNmbDdScm50UmQ4R0NtQVdxNnI5SG15MUllRmNVUTlUaXk1Rk9wMU5pX3A1VU9YVDRRaXR6Ukl5cFJqTDQ0cktUOXBFdw?oc=5",
+              "publication": "MSN",
+              "published_date": "Thu, 28 May 2026 11:37:26 GMT"
+            },
+            {
+              "headline": "NSE bars new client onboarding at YES Securities for 3 months, imposes ₹2 lakh penalty - ETLegalWorld.com",
+              "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQVnFYNjVUeGFKaFA4LURqMHlablg0U1JpRXlFRFJKbEJ0S1VfUXV1Um1tM2ZIY3EwSXA2enZUcjdNdWpzSWVkWFg5NU1SRmFveVpvSWQ4cTI0eDQ2T2xSMzB1MWYwRHRDbVhiNU5Oc09VSHdLSjJZVExpZUQyZl94eTJBbEtJZEhES0F4cTJfbTBOWFhSRGRITWYycnBTSjd2NVFHVUZsUE1tTjNINUNSaWlkdG9oaWItTG1ZSW9LdlBmczhGbEZDNHJETVBMY1liMWVnZFB0ZkJEeXFHVC12YjFRNmZjcDAtZ0F5Q0hn0gHzAUFVX3lxTE1DaGl2RF9Ed3lTMGx1QWZGbGp0LV9oVmpJZDV6alVwdFc3RTZpS1pza1BLTTdfZTYzVVlLUDg4MWhpVzhPcTNfanpCZ1BJVFNQZVBfcHJUX042VkxScFpKVmc1S2J2dWpMZklFd2JpU1FTOFRraG9rdWlaRzhIb3dQdk1TTEhUdjZOa1pkWWpPUVFBTU05OGtvaGhWUl9wdzkwY3o4QzNyMHdTRVFVb2dCQXAyT1oyNGVnM25uX0JpNEZBbzRFbl81MmtsVlI0SjNMckt5RlR6SHhsd0t0NUdERGpCYU0way1hTVliSTA1LWg0NA?oc=5",
+              "publication": "ETLegalWorld.com",
+              "published_date": "Wed, 27 May 2026 07:34:12 GMT"
+            },
+            {
+              "headline": "NSE bars YES Securities Ltd from adding new clients for 3 months, imposes Rs 2L fine - MillenniumPost",
+              "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeTZiejJ4WEMzTWljazRpVXdjWF9mN0h0ejJHV1ByQzg3Ql82R0hTVW1MM3Nxa1pjRGkxZ21JMjlzTllZRURWNnpzSTVwNHJsVm9FdnNsbEEtQVFlQWNEMmcwU3g4dFdkZEs1Qm1mLUY4QldoMHA1YkNna21laWtjLXFxWm84YzhtbVhGRVRKQjR3V1JGU3JaMVNWZGJDRE8wZEI1dXRCQ1JpVXo5UzRjRllyU1F5RHJNanZGUmgySGVOTEg5Nm94eNIBzgFBVV95cUxOQkRPM2tlSjdRMVpuSW1XenpPa04xSlAtOU9rc1ZXak5TYndZeUJfQUdkdVBYNDVqc1FRMjR1OGdIUXlLMmd4cUJPUndxQnQ3elBzMS1VdWhua1F4b2k3b3BMTEFhdEpaRjZKUTA4Mk5MQmNsOTdHZTdscGJ4ZldRQ2pZV3JjQkF6X2QwWTdpM3NULUM0eTk0SUxYZHJpb3FLaUpScHFuRG1xLV9sMVRtOHB2MlZ4WlJzVUp2UERGWFlWMlZDTUFGbGU0TF9EZw?oc=5",
+              "publication": "MillenniumPost",
+              "published_date": "Tue, 26 May 2026 19:18:50 GMT"
+            },
+            {
+              "headline": "NSE bars Yes Securities from onboarding new clients for 3 months | Inspection period was Jan 1 to March 31, 2025 | Inshorts - Inshorts",
+              "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORmU4N3FZRTJjNk1veWEtbnVsbnAwMFRvbWc0UFF4eWNfODRweHU2c2NLV1dvSng5Rlc5ZTZrZHZtSlg1dkNTMXVpZUZYTHpfR0hlZHM3anAwNDQ0LXQ2TzdrcndYREQ2NnIxbnZNbkpqdWlrWDg4Z05hMzBfY0NGRWFOTjFZbl9EWXg3UzZ5N3laNWV5MWtNWlJ0MUEwY0NmWm01RmJ4S2N5OVJvZk5ZVtIBsAFBVV95cUxORmU4N3FZRTJjNk1veWEtbnVsbnAwMFRvbWc0UFF4eWNfODRweHU2c2NLV1dvSng5Rlc5ZTZrZHZtSlg1dkNTMXVpZUZYTHpfR0hlZHM3anAwNDQ0LXQ2TzdrcndYREQ2NnIxbnZNbkpqdWlrWDg4Z05hMzBfY0NGRWFOTjFZbl9EWXg3UzZ5N3laNWV5MWtNWlJ0MUEwY0NmWm01RmJ4S2N5OVJvZk5ZVg?oc=5",
+              "publication": "Inshorts",
+              "published_date": "Tue, 26 May 2026 02:41:00 GMT"
+            },
+            {
+              "headline": "NSE Bars YES Securities From Onboarding New Clients for Three Months - The420.in",
+              "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNckxQRHdINkRpalB3dFl0a040ZnpZZ2Vwd3VGVkJzcmt3b1dyaEh5bVU1MHJPRS1QdEVrYi0xeUVXOFVLSE1HQmVHMlp3Z3BsN0x6VnVIdkdSSGI5NFUtQk92Znc1eThxeTUzZTBEelp5NE9Oa0lYYlMzaElkaUc0SGZocGJzSElRbHc?oc=5",
+              "publication": "The420.in",
+              "published_date": "Tue, 26 May 2026 14:04:06 GMT"
+            },
+            {
+              "headline": "NSE bans Yes Securities from onboarding clients for three months: Bloomberg report - CNBC TV18",
+              "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNTlh3cERMdlUyTm00cUFnZFNkY2NtU2RJS1ZoYU9ILVlZUmRuT0V4d241eUZJaGg3Uk1vYzhzLWNzdkNKY0pRWTg1cVlrUjRFYmMwTEVYTzAwZ3l1Y05wS24zT3BWSXNzd3hXUVlTRTB5UWI0X204bU5wQjkzc0xZSUVqOGQ5dXdIRGdnZVlMeFRZQ0VqekJRdXdQNmdkMGxyaFBOdmlZdGdCSk92V0dsVU5JWWQ1SUtDcFdLRjQ2YjdyTThlU1ZtdW1TR25kMnd5SDI4N3FFVk0xVWZH0gHiAUFVX3lxTFBvaW9BZUpKY2hhSzBrZkdDUW5GODFveXVseC1TSTZueWNLZzNFZFBaQXlNTW1HczFoS3ZtTTA1YkJLTnVmd0MzOC13YlVBOWJqY2RVVFlWMVZ4eE5kZTYzVjd2cE13MzBjM1V3WVUwbFFyVkVVUFRXQXhtSGp1NTc5bUNhS1hrdUg4a0QxN1NmWFBKQnNJV0dQSVNKRmJSZ21XV21WUnczSVlFRk5keFhCYlhxRWl3dElnbW45NzM3V0RlY2ZIcktNaDJrTGdrVndmYVdXV0pPeDFGbHFkY0lIdFE?oc=5",
+              "publication": "CNBC TV18",
+              "published_date": "Tue, 26 May 2026 11:17:00 GMT"
+            },
+            {
+              "headline": "These large-, mid- and small-cap stocks can give more than 22% return in 1 year, according to analysts - The Economic Times",
+              "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPSktWZEdybW56R1NNWDNsNUJ1ZHp0TEtwRFlhRWNLR2F2Sk0tS2NsMHMyQVY3ckNMVHdvRWpGZU9URWNzNGxZU2hYalpzbHZRODc4cXZCRUxtWUg1M0s1NWhHVnRqSDE0Y0xrVWlaRWExLXpINUVSUW1KQ2Q2LVFLLUpHanRSamtRVW9DZ1ZwTVRlNG9IbUw3VVdKOGpzQVBXTDV4RDBUeWxmeGNxaXlZQ2hJckZpdVF0MGNuaUNFSE9zcWxXYXYzcmtDdWVBQlZueTBCTmlmNlVsUGhUVWdtam50ZWlnN19NcXpJWVpqdW1jQVBlWFBjT3VJLXQyM1pM0gGGAkFVX3lxTE05TW1tOS1mOWpfOF9uUDd3UG9GVVQtZHNWYlJaZTR4ZHdzekl4dEJWVjBEU2djdjY3enhiQlM2YXVIaHU4eXhFaG1LeTNuRDFzcnJhMjA4NkZfNkNfbUxObkNQM184UFU1SkNkdy1uTG5sR012eEN3WEJxTlhoZ2l4NGhpOXFjNVhYT1RpVUlUNVhCQTJoaGRUUVpFVDJaZG50ci1aUGVObHBTOTNTSTFMTXVjcWtwSlhhT2ppMWdBRVZMT2RUbkp2WV9ES3J2UEVwVTJhZ3R3T0N5MVJpMUZHYkc1VDZzeWxjOU5lZHZrNXNLczIwS21ic0tQai00dktCMk5VVHc?oc=5",
+              "publication": "The Economic Times",
+              "published_date": "Fri, 24 Apr 2026 07:00:00 GMT"
+            },
+            {
+              "headline": "Buy, Sell or Hold: Morgan Stanley remains neutral on Physicswallah; Citi maintains sell on Page Industries - The Economic Times",
+              "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOdThTU3B1YnV2RnlZSFkwM3MwMWtjRXdrZ0p4VkxfelQtM0xPVHhMS0tuc0FnTEpxX1U2Y09Ob3daN0tzTlBneTRIVmVGVzZfUWlXVUJOdHpXSWpQMjRpaTFvdnNsVkRzZnRMU2VRWnVaRlBId2E3U0RFUC1Qdm4tUTNGa3RGVTVhUTZYd3B4T0gwWVFxdFI5MnVhZHFCSDJsZmd2NFJNdW9zck1vUUwtNTJ5alFOQzA1SVpYU01zQ3FCSzI0V0lkVzZMUDlMdlQtaTZ0Vmg2ajJqbFhFQTQ1eHVRdjNiSW9GXzI4N1RlN0phSzNSMzVKQ0J4S0lkWUFRdWdKM05udHTSAY4CQVVfeXFMTkpuanlwV0xSYlZjMDlxT3kxRkVxS1k3RGx2U2cwckg1WUdVc3c4NXZyai1wdFJ2RVNDa3MyaHIwSUJvMDI5cnRMYmVGTnU2dXJpd3MxZHNGMHdNX3oyZFNUTThaNDVoMlVtUlB1T2NId2I2Sl9jR1lIb1puTEJseDBFQUJ0dmVFOGFtMk5JckN2UUYtQWdqOUc2bUgwd0Y3UU42UmFZdFFmV0dmZk1JREdwT0RGRUVTSHRNVGJneXdISnFjcGh6R2M3OGs3NS1IVDViVEJOWmlyX1UwZk1TalM1aW05RVZLb2J6cUs2RUpWN2U2czljTDZBN3BiVkZScWdmREhMTEJOTDZhV1N3?oc=5",
+              "publication": "The Economic Times",
+              "published_date": "Mon, 09 Feb 2026 08:00:00 GMT"
+            },
+            {
+              "headline": "ITC, Godfrey Phillips shares rally up to 7% on reports of 17% hike in cigarettes price - The Economic Times",
+              "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPZk5NWmt3WVQzWmFYU00yUXM0b3d2UXRIWkdmWnZnMndJZmY1WXpCM3dWOEJfcUJ4b0xOOUl5U3hDWFR0a19rRkRVTE16ZmtnaWhXdG9HSmI5LUt2TVdTYk9kbjluc0UxVjU3cjJEYUxHa3V3bG4yUHR0cjBfUjA1SWtPdl9NLVJOaFVrb2R0WjFzbkIzbE9UWS1KOUd1U01BelBpa2dSTTZvOFI1MF9PVlVrSDFEZzFxbmdIdklxbmQ5TXlYeDhrUFZJa1RfUWZFWFBrUWFtRTZNOTYtbEhKN1Q3V1JrSzg5YU4xQTBR0gHzAUFVX3lxTE9IYmt1cmxJMm94UmdjazBnZzhkczB5ZWI0NFZuYjVEaEVCOXg3Z01vXzJFSFdiN3NBS09TSERUdFI0MmdpOHI4d2J6MTV3MG4xNVV2QUdNMnhzcW9qbkpYcmdXdzZoWnRadUJKY2c3b20wVGppcF8zbnFrOVFmOWR4VWtNMXpsSWRBOC1xVkJWdGIyaEJPUEpGZUlwR0xKcjNjb0Y2dDZWTkVfdDVMOWZ4UHV1QXJ1QVF3c0Y3MnR1R1dGUzNUZmo4bzR4UEZEREhJU2FpZGRxaXJtdjZLYmYzTXpGMUx6RTZEMnFVZllONkdMOA?oc=5",
+              "publication": "The Economic Times",
+              "published_date": "Wed, 29 Apr 2026 07:00:00 GMT"
+            },
+            {
+              "headline": "Icon Facilitators shares list at 1% discount on BSE SME platform - The Economic Times",
+              "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNUg2eXZkVUJuMk1qTFJrZk9PbmJSLUtrbmNwWUVHWUNnRVM5TjRWeW5uLUM3QnVmY2Q4a2JmNVVjMncwWGdCVFBKdFZjTVMtQTRBcUZBcmNZeHU0OGxNZHNlT0N4VGVieTJXbUdBc0UxMWhjaGRydDJobWEtV093Qld6ZndSYVBSR1JkMG5penpHdHVYM1k5TVpfTWJ4cUZGcUhCTnFONmN2eGwyOGxQVWxWajJpR3BQbGpnakNYT0V3cWR2bzVjS3pZYjJfV0XSAdQBQVVfeXFMUFgxMDNlVDRwdHk4RnQ5MElpdGktOFZQa2ZsSmlZcUV2OVdmQkl3dXd0LTFSa1lfZW5kZjFvMmw1Vk5zZEhvMF91czdOeFpJYlBZcjI2aFdidThEZlZNU0ZZa2JKd0l5bjRlZFVNRmc5TV84YzA4VDFMcXpjbHRKdXhsTmVsUWNCcU50cmpFNTFid2kzYWhTQkM1X2Y0RW8zeXdxM0xfZU9YU2ktcVV3VnFubFlSenVBbzFSYW1JdWFzbTN6X1F2UGhVSlZ0Qi1sc3U0QmY?oc=5",
+              "publication": "The Economic Times",
+              "published_date": "Tue, 01 Jul 2025 07:00:00 GMT"
+            },
+            {
+              "headline": "Negative cues from GIFT Nifty signal muted opening for D-Street - The Economic Times",
+              "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRWpITEN4TTVUQ0U4bDJLM0ZiZHEtem01ekRGbDg2T2RFR2sxSUR0bHFaeGJ5MVliYTl5UXRwZWdhajdiVll2RXZQa2d5Qm1VajRfdzVLRTZ0MDgwUlZreWs1SVNqeVZoQmQ5c2lEX3k3OGN4YWphR0RUdmpycEdtWW1yMWVucGgtZVJIV0xack4wUVZTWkl4WWQzOHpKUnVGb0wzWThJUTBrTHMtdnM2LUU3ek9YRTVheFRWRmlrdXFvVk5adm02cldpVUHSAdIBQVVfeXFMTVkyUlB6anNCTDdMcHMxQ043VG5yZC0xVU5FNUQtWW9XSUQ0ZG9hNHhzeWNtREpISlR0cmpqYnctQVIzcGZjTWdtdmNhUGpaT1NkMkh6eDliU2doaGVjUFpSYWxHa0sxR0JuNld6RHRqWHRENklMeHV0cUkteXpqLVZxa096WmxybWs1SjNDNUQwQWNyTlpZQi1tdVUtcVl1YmpYN1R0N0JBekthb2ZoaFNpaEtCSEgzSVlXVUxYUkczQXhtUHVJRmxLTWtuWXZRcy1n?oc=5",
+              "publication": "The Economic Times",
+              "published_date": "Wed, 27 May 2026 00:31:00 GMT"
+            },
+            {
+              "headline": "Ahead of Market: 10 things that will decide stock market action on Thursday - The Economic Times",
+              "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQRklJMUc1VWkwLXRDLVYwRF9OWFNHQVk0N1FSZ1ptQkRMbXczVmxkS1ZaUkxMY1RhUVcxM1g3OFRPNVRlU3pTX2Q3WVo4Rk1sNVBSSTc3dWxwMVJMWDFFMUR0ZV9uNHZtd21RQ0VGQVZVai1jX1JNc3hBZnZYTm1qYmwxQklVUC1FbWNwRS1ZQnV6UVFTMlRUREl2bXRONHpiZmVnUmQxLUE2YTd3Y1MwVWF4TllhSUd5NnVlZG9la2twa0std1BURkdwdzBrSC1mRmlmbnByM0dSdVlObWZyQW530gHnAUFVX3lxTE4tN3NyTmx0dExTQVJTRTdBLV9sQ0VPYThMM2N3RHFwZjJDclJRX0ZFZkJhWE11WDczcG9iQXd2MkFBeXc5V0gtd18wbl9jWG9RVWl1ckVXRDFzLTZBWGRlUDAwTExKYVd6MC00Rjc3bHRlRjdrU3gyUUVtaU5VejU5ZHcwZGtuWEpUQ1VWcVdYTnBlamZYRlhjTC1JTDRReGp6TS1qZU1ZaUlHS2t5aWRySFNOVFZ3eDktbFRIVGx3S013a3hIZ0YzbFNGU0FNUTdFLVI0eHY3Yk9waWN6SklBVlJmcWhOaw?oc=5",
+              "publication": "The Economic Times",
+              "published_date": "Wed, 03 Dec 2025 08:00:00 GMT"
+            },
+            {
+              "headline": "Stocks in news: Coal India, Marico, Fino Payments Bank, L&T, Physicswallah - The Economic Times",
+              "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQM2VGV2Nac1NKcGdBQWRPLUdaMTd4RDA0WlpGWldtVHkxU2NpdnB6VEhZR1JZWElTRWJnWEt2ZXZJaTB1NE9NMEZRbFVLV1hQVmhmUjllV2YyMGVuallnMnEzTHNxWmNfOXVlaGlSdTliTDg4dkVuZzIzNGFaQWg4aXpscEowdFNuWW5TYVd1Qi1IRUZPWTZ5T1FmRVk4N253ZHFCTmFFbWtkcldlaVY1SkFhNDF4VkFxTUlwZjIxaW5pYlRSUnR2WGF2TEhGMHlrcWdtaHZISkY5QdIB3wFBVV95cUxQTVA0dV81dGE0ZXBYWTU0cEE0MEJXd2tldlMxVjFjVWMzdm5sZUxUZ2w0bVozOTVqR3draERfVThOeHB5bkxuR3ZsVktDUS1jejUzQ0g0MUtnY25kWm53d1NGaXJCaUtkZHdINk44dWR3SG52UlFCYmtQdXN1MHptMkEzUldKbnFOMDZFTEdFbGRNdDgtc3ZZOXotdkxVeWhZYjBISGhsSS1XVnBieTRIMlUzWmJTVmdNbENFS2hsS2EyaDJsTXlrYURkVlJzQk5SclVwdzg3SldkUHpUSEdz?oc=5",
+              "publication": "The Economic Times",
+              "published_date": "Wed, 27 May 2026 00:31:00 GMT"
+            },
+            {
+              "headline": "Why is market falling today? Sensex falls 600 points, Nifty below 23,500; 5 key factors behind bloodbath - The Economic Times",
+              "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNOUpMbVdGU2lIUE1yeEdvTHRXZFczVFh2b3JLZ1FOZlc3WldiYVpHSGU5UFR2R1pVLWpMc2xQMUlHNldfTFFXbTM5c2FYdU5FUmJYVTc3Ty1zcFNCc1pvbXQ2TC1tdGJzMDRHV3FPeU9QZTJ0bHl2NlZLSHdjZ0o1UmRMbzZveU1IUGg1U1ZTWFJZelZqVDExNzZXZGIwbXBSUEpHTG5yaHJOUkhpYlcwLUJBcnpFQ2JpUmtCUkVxa1B3M25mX21JalFBa3gtdXhzRlB3QXY4UGFGel94dU9lckd3T3ZEMU4yVkxTT2x3X2hyRngya0kzb00yLS1RSFEtRTRZZndZTdIBjAJBVV95cUxQZHZ4NG8yZFdzNF9CSnp5OWhDTFZmWXZsT1BaME5LckYtVG9PZ0dfSVM1Y1pxUFp4Sm1jT3FXb0tRQmdVcWQ3WmdkYjY3dU4wMnJTcU1Pa0duY1ZrejJwNGZrMmJEUUwtdFBXU1VLSlljd25seVJxcVA0WGl2UjZRanpwMWc4RkNwalVSTjRJVTZiMHBzRDlsTU1xclpQeFRCMnpIdzYyN29GSGRkZzc3TTRfeGVtVVB1ODhTWXRuMzRfR0otbkt3Ym9kaEhuYXlnOHVBTjNSbFI1V0x4NURpOWUydFEwR3NmUmUwbmFNSXZZcTlxeE1ZX0pfUENGQ042R01jYVBvT2pHclVv?oc=5",
+              "publication": "The Economic Times",
+              "published_date": "Mon, 18 May 2026 07:00:00 GMT"
+            },
+            {
+              "headline": "Last date to buy these four stocks for dividends. Do you own any? - The Economic Times",
+              "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNOG96VmZ2OGl3akdNMzhkRGFfcWJoSmhjZmlDZ3pOTzBLR2hvUjVkNUU4al9xenZHZGg4cUR2cHh0X3p0aUNudFhDVzJDSDk3VlN4eXZCM3dDWk9ZUWxud19NTzZ6cHFMYjUwQTFPQzNYS2luOUdIdF9Qb0czWVlSOUdIX3p3ck1zU0VQWUZUYV9nWUpDUVBVam8zeWlPejdzQnNOZ2d6MnN2eEktSE15UDZXNFpmVF9fbHJJV2RpN3JucVpObTlHUGYwbVdQNHFnVEVv0gHYAUFVX3lxTE1HMW8tNmpXcWZvSEtoVHVOT2RmMUdhc3F1RHNDekJEQkpPdGRYSVIxR2dxTDY4TmV3UDZDNmhnQ19mVUp2cmJmNVk3Q3dVZjJ5NUd2ZkwzYVhBc2FZOVNKVGJKLTFwY0hqOU5HZm41YXBIaFFFQWNqdm82cjZrdlNqWU0yckc1YXRfcjVyRnNsV0pBdU5kY0ZwWkhDUjZVenUtSlZvbHlVbkpQc1JMNEdXTTlyMkl3RjRWbDFiUmtYSFJSOEQ3R0tUYUJBdW5MTFhFcjRRYjNVMA?oc=5",
+              "publication": "The Economic Times",
+              "published_date": "Mon, 18 May 2026 07:00:00 GMT"
+            },
+            {
+              "headline": "This smallcap real estate stock rallied 51% in 3 days. What’s behind the surge? - The Economic Times",
+              "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNNmphYmF2d3dFN25YV0h5Y21HWHB0LTRCSnZ2S2FQTTlRUTluX2hYU1JTOU81bmdlNmczZFhOUHRtNXVfNEFQemxzUzZ0ODhaMlJVLTF2VmNOMDVTMFlHTVlRbnZteTZDaURnRUVocGlmd2VCcXJudW4zalRJQkk5VGdVcHlyN0lUbWI5Rzlhd2h1VDVWMW9OcC0xc1Q1M2I0dGVMOFRlUll4LXBKNFBaRzBpbHpkbnVMV0JwTUVMNWNtTjdSWHpfQVhKaXhsRS1aVjRPWnJpLTh1QlQ4LTV0RmZ3Z9IB6AFBVV95cUxOT0JVbHBPY3pGTWNRNFhqVkFIUmhtdmpfbWJmQkVZWkl2QnhWUmtQbkZ0NU5DNFFIVzcySlRldW5tcHRwcl9wS1JFekdiY0FIcG9ScHlLZkxhaUVTelBDcVpTbzJxY1RtOU41cTVJSF9tb1BybW9YYnJaOE5IaDFwUUpoUHp0LUgtdEV4TGhVd3h5TE5sdTNmMjlJSTF6bEFja0VGYTJEQWV5UlNKZ0J3VWhXQUpJVnVneUt4QlQxNzY4ZW5NX0pEdUpxQjJDbG1odklib2pDY1dLQUszX3ZaemZtdTgtSTlq?oc=5",
+              "publication": "The Economic Times",
+              "published_date": "Thu, 07 May 2026 07:00:00 GMT"
+            },
+            {
+              "headline": "Stocks in news: Premier Energies, Suzlon Energy, Paytm, Hindalco, ONGC - The Economic Times",
+              "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMnluWmRLMmFXcU9PUXpncFhsajdTMDlhbXhrQWJQVUZqUG5MYUhvQnlPWHRhdDJ1bUE1bFBDSS1SSlNwLXJ4NFBLMWFHMG5ra1ZhXzJ2WG9JZmRmTjctQlpFVjM2VlN1dV9na1drVUw0ZkRvZnJMS0kxbGdITnBhT2dnV1BhLV9IOHlvLXZGX05tZTJVSlN1Q0VySGxGTzhNU3l2Sm5EamxHc0hDekFETUN5QXRXR3NZWFpTYXpXQVlZQVRCTm9lZkpNem1SNXJGdVNxS1JB0gHbAUFVX3lxTE5BYVExZDVIV3dtS2VNT3JZMlB3ajJVMUlqdzNONzJJbnZMSS1EX3Q1aTVqQnhxTm1vemg1N3RJU01DR040YkE1VTNWdzlMaFVpUFF1U0FZUzZSYlFVRnBJNFFDdE85X1RpemJUYnkydFhFaFlXMEV0dDJXWE9WdTN2bjY3Y2EyT3BvZHcxZmljQVhwTWlxU1haOWRoMTJJaUJtTzJYT3hrVjRlTk9ScTc4N0JKVlVjWmM1Y0JUTGc3MzlYNEdjUDR6NFRIWndmWHN2cnZDeUFYTk91cw?oc=5",
+              "publication": "The Economic Times",
+              "published_date": "Tue, 26 May 2026 01:19:02 GMT"
+            },
+            {
+              "headline": "Kaynes Technology shares tumble 25% in 3 days after weak Q4; Elara cuts rating to ‘Accumulate’ - The Economic Times",
+              "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPd2xUMzhPSHhib2JqSzU0UTYyU2s5R3JTeEFkdEhBRU1uSnBSNlQ5RGZTMTVCSUJldC1tNXc0aVlLNWJjMEJLTHBiRy14bmNPMmxXYXdmTGNmRTFBRnlpZks4aFZTQTV5VC01dzJhdjVtbFVhd2twcmF5VEVweGo5ME9ScjZPSFpBVTFSMm9NSjVHT004aHFIR1hxYk5Xb1ZZQnlNY0g4bDBOanlqSHRUZkZNeVFHNFlhcC1hbWFSVFZ0b0MxeXB1eFgtOGFMRWNIR2VBUE1Na01Cd0Zjcks5RVR5bEV5VXMwcmZEVTRKT2tjMmdJcl9Z0gH8AUFVX3lxTE9Na2Z6NnVkNS10SDYxdXR4cHcwdndXdlNWSmlNemZTYVRUaVV5eF8yb29ua21pLU53SUJiZTc3S2tpNWVESWVBc2xyak1fdmZRcGo0Y0RMVFJSUjEtTFhFVGtlUUowUVk4TDA2WmstREVoX2NZNEZoYnNnSDhqRHo0ODRFUGFlUGVrUHFhYW5lempxN0M5MU5EV3ExZ1g4SDhlWDF3dHQ3QkNaemVsaEE1M1RNNFFFWm5DMi0wQXFISmVPN3g4R3ZTM1JIbVEtcmRvNENlT2YzSzE2SjJxRzg2RjlvRm1GM045VkhBbmtibWJncWFyVUNJR1dDdg?oc=5",
+              "publication": "The Economic Times",
+              "published_date": "Mon, 18 May 2026 07:00:00 GMT"
+            },
+            {
+              "headline": "Stock Radar: JSW Energy stock gives a breakout from a symmetrical triangle pattern; what should investors - The Economic Times",
+              "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNR0FqdTRkVncxeUZXZ0I5eVpDQ1RiQ3RveTM5U19PM2JzSlBaWnJRbVBIT3ZhZkJ4bVpZUU1Hcy05aG0wOTB1U2VDcEFBRVNuUXBjSTluWDdrdzZfcExVSmZ1b0RHUlljTVdvZ2FxelgwRFNKQkZJZFpfS2l2d3RicGV3NGhac2tVaGxSdTd3Q0Q3azd1bVMtNWc3X2MyRkVxOEtYLTBvSzJCanE5V0RlRHVSWnk4amNZMlV3ZFcxb1VfT3RCX25OQjRnZlVUb2dXX3BOd1hXc29SdnY5Sm1NSzhpVzAtN2ZnTEdRUU1CX0Y3VDctQzByZ180ZUpLMlFBOXN4cjRGQTRKYWQ3ZlHSAZMCQVVfeXFMTlhReXlvRUc2WUVyUUszdVZiQjJ1QWxmeVk4UVhscGRHSkxjc1ZYMHJJZUEyeGE4WUZWSHZuekY1UllzYVNSQUFkY0tHN1dzbE1RWm5RMXlhTjhvSlVHc3k3bXdMSVhfcGlKcFB3REZ4dGlhTUlMQTBTYTJYZ3hZQVEtYmwtZDZ3UWViY2hWLWdaQ0NHWmpsVUtwUDR0RUZBMGEwVzExN3VSVTlxNmQ5aW1iUXFZNmZRWFd4dDV3bjV4aWZmRUVlVzBRT0FpZ0hGSlBZVEtEbFFBa1h4MkdoVzRrakxiVGVpdHBTMGI5ajZSYm1QcFV1VGlFSmVjSTJwa3hyMFc3N2FNVFdwUlZsZHhhdTg?oc=5",
+              "publication": "The Economic Times",
+              "published_date": "Mon, 16 Mar 2026 07:00:00 GMT"
+            },
+            {
+              "headline": "Indiabulls Real Estate case: Four entities pay Rs 10.5 cr to Sebi as settlement - The Economic Times",
+              "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNX19MdVVyT1pienVVdFQtUGN5NlV6WVhaNDJKcnU3MVNUSUR5bTVGQllfMHRoc0wxZmp0NkpwU0ZLTE85LTY3aWVpQUNPWHlyWk84U1hCUDJjRUpOZDBlX1d4QWlvRl9DV2ExV3B0TzV3TFhQNk1PeHNJdTJPcTliMTExZ2ZFdmV4OThtTGdkSlRxdnQ1bEFndElPZEluNFBFLTN4ZndDaXpDVktfd0F5MFBUaTQ1NXNzeHFiM3hwZDlNMnJpZExZSUNRc0t5bTBtVnVjcTVxeEhpdHg4djNoX2xpOG95LWvSAewBQVVfeXFMUFpwTUVUcnlRaDUybHAzbWJOUWJaTnRSaUEyT0xkRWdtWTBZUVdRNUNXeXp2MnZSYmtFR25LS2N5d09kczVxMkdiamRQeER2M1owcGJKLTBhOXJUanRFcXM4bW56S0c5SUgwX3h2QkNEZDBvQnZNUGwweTllWjF2NXNHM0lqdlBHckNZemtzZ29PZ3RpRWM4aWhNT29XYjNfSjZ4VEY1ZTU2TWNFY1h3U3BJM2RFZVlWeGtMcGxGbjkyV21hTXVoVWN0bkVrYWRTYkNkUXJ4NThvcW9Nem1weTlzcHB5U3gydmZJTlU?oc=5",
+              "publication": "The Economic Times",
+              "published_date": "Thu, 07 May 2026 07:00:00 GMT"
+            },
+            {
+              "headline": "Stock Radar: 15% rally in a week! Why IFCI stock is coming back on traders’ radar - The Economic Times",
+              "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZHI1alQwVlZOU0lmZWJuR2FwcllaaEQ0RXAyYzN3SU56TjJzUDIyWllXNGZyYmczMGFWSVVkcU01bVEwdzZVODlnNzEzUktUWlhLdTc4LUNKU0NHZkNzNGNvVm1DSlVMOGdESVRRRlpoeElhV3ZvYVcwd1NWNzV0YW5jYXRpRVA3TDRGckV1bHV3YVdGemlQZVZuTUdGNkhlVmhVSElMS19ZWmdNbGN5ZTloSkl0MV9MZlU2SGVRbFd6Qy1YT2hqNnl5WDhTWFQtaXEzbjRmdmhPakRqRTFzWEFGMlQ3UdIB6wFBVV95cUxObVVCb2w3Q1pLdkgzX1pSYUJfRnZDRkRRMEV2WDJ4MHdSZVJrY2p4cXpFUnR0eExtdExRN1psWmpWbEFvU3MwdzJCWElZVUctal9jTVRvNlNaZG8wNk05QUlSSUMtcmI5eUhhN2hTVzNMTTFTOHV2MllRWUNTSFRrNlZWZE9ybW5mLWgzWkthNGk0a05UNE1ySkFkVkY3WDBaYzJlbHJDR210ZVVfOTcycUpZYWNGcjBIU1AzTkxsVnlpSVVIdm1yOVNURlhEVjFMSWozbkRQNms4VktndFM1dEstR3RHb01IN0pZ?oc=5",
+              "publication": "The Economic Times",
+              "published_date": "Wed, 11 Feb 2026 08:00:00 GMT"
+            },
+            {
+              "headline": "BT Opening Bell | Sensex rises 127 pts, Nifty above 23,950; NTPC, Eternal lead gainers - Business Today",
+              "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNVXQwb0p5cGhXS1lSVXpxVEk2NUIwbG91S1VXbDBlSmlOYXkzcldjRUJBaDUwb1g3Rnk1cVBabXJJNlk3LVRuV3V1OWVMenR5TE5rOU5neFhXNWR5UFFPMGVJNUJkdE5tUTMtbGdlNVRBZ2F1dG1VTzV3OHJHaXJ1V1NFYkxjbzZuakp4d01mOGxVSHNHY1NmRkVUUW9rOC1aYThjaklYcVZmaTd3eEcwNmY3eWxSazNaZlNvdXEyc2FPeUxHbW1Na3lkbG1UaUl4UGtLZGxwQjRkNkxpS2tCY1l30gHnAUFVX3lxTE5seGl1WkJ2T25ieGVfdWpYbjhySVJSRUlwaDlCclBqU3owdmJ1VTZPb1FDVkVSREJPY0tKdXlkcXNVYlNRQUU0MS12YkxFdU5yT2RWSVMyX09wcDQxanhaejdPRzZ6VXdNT3U1eVBLVDk3cnZiVW93VDduUmR4bEhKWmxkT1pXcUhJZ1Y2VUNnMllwWnBtTG9IZl9BMlJQbVVYOFFEclRHd2JINllCZ2t3MDNwMU1NaEFUSDhmVXlfaF9yRUdsVVBZLXRGek1DWXd2X3ZZM0VnZ0Q3MVlnT1JXdnV4UFZRQQ?oc=5",
+              "publication": "Business Today",
+              "published_date": "Wed, 27 May 2026 03:56:08 GMT"
+            },
+            {
+              "headline": "Time to make a distinction between FMCG & non-FMCG MNCs, second one may surprise: 7 MNC stocks with upside - The Economic Times",
+              "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOV0wyRVZIcUVEc3dJVEEtOUkzTW9TSmVaZzhGQW0yOUM3SmtpZG5zc2xBdHRwUXpFTTdNRk4zZ2Q2SkZhNEdwOU9IcW9yanV3R0Z5bXYzMEhvamNNdmxTOUc5NU1XU3huU2FsUjdlaVZGNkdsWi1JUnM4Tm92NHRxT2RSSzFPdzdhSk4wc1pma1Zsc0dueFNzeWg3NEUydkw5WTN5SUJmTTg5UGNXV3pYLUVIRGVZdFRSVG5qNlplN3FCalEzb3BJcUlEZ1ZWTUl2UWRBN0FfQjlVMUhZdTYwU2szSXJLVUlKYWs3QjR6RnJPbjZuVHhob2JEenRZOWM0NEkyUTRyczJKcXQzNU1yUUxBY2ZxRHVLT2lVLWkxb1hrclnSAagCQVVfeXFMTTNJckI4WEVtTjVLYVF6R1JfRzBaQjZNcHdLaUQ4ckN6QUduNU5nSEhLZ2F0VUpXQW53VW16WnU0V21Pb1o0dVk1czlIdWhUQTFKNXRmY2NadXI4dXY3ZDBBVjIxcDg4LWJ0aTUzRE1rQjQxR3NpV3NWNXFsZk9sQWRSWHViZVhjZ0VQRFQ0NUtlU0REOTVnSEhPVEI1QThVemQxVU0xX2FIZkxpUHlSMU8yeUIzQW1JbDhGRkJkZkZ5a3ZBSFNKVE5YcW1IT3c3WUFWckpPRUFXclZ3M05WM1h3RTJqUVlaSDlxenhkVHQ3a29wNXQybWF4Q3ZRQS16NXRZbjJpTGJoUGJMUnNZaEZkTXd6YmUzbVU4eFVGcmczaExySTM2dmU?oc=5",
+              "publication": "The Economic Times",
+              "published_date": "Wed, 16 Jul 2025 07:00:00 GMT"
+            },
+            {
+              "headline": "Govt to sell up to 2%in Coal India; OFS opens today - MillenniumPost",
+              "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVVE5RDJNa0I3c1p0QmVuUU5MOUFnUTBQVTZWTmFyaHBKQV91VG1xOEtoaDFSNXZKZk16U0VSWGNpZjhpOWMwLV9RSmpGXy05TTdsRjRLUDA5WjRhRGFUZnQxN2dtV285X29jMndfblY1Q3VDZDhzb1p2b01xZUcxSGRMMnh1THo2RkF0dDRrSmVlR21BUk5kT1FKOUlnaTV10gGgAUFVX3lxTE5VUTlEMk1rQjdzWnRCZW5RTkw5QWdRMFBVNlZOYXJocEpBX3VUbXE4S2hoMVI1dkpmTXpTRVJYY2lmOGk5YzAtX1FKakZfLTlNN2xGNEtQMDlaNGFEYVRmdDE3Z21Xbzlfb2Myd19uVjVDdUNkOHNvWnZvTXFlRzFIZEwyeHVMejZGQXR0NGtKZWVHbUFSTmRPUUo5SWdpNXU?oc=5",
+              "publication": "MillenniumPost",
+              "published_date": "Tue, 26 May 2026 19:20:13 GMT"
+            },
+            {
+              "headline": "Stock Radar: Down 20% from highs! Why Container Corp stock showing signs of bottoming out? - The Economic Times",
+              "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQM0NveHFaazVaa0lsLUYxX3FwMVB5YWgyUDdseFVFdm1YenRhVFd3bDZndUxmX3hteno4X3BrRUpjdDZQemZWVDRLaFVyOWZNQ0d3UHA4RGN2ejE0N09Od2RvYXFLLWxoMTY5cU43di1pZnE3SWhqYVpCYUtMeU1Ua2xtZ2pWcmpIb2tEb2NnUkpUcktiT2pFWGJJVWM0M3VSX0o0dkE5UDZ0TUVZYnFsUFNucndydmRUZWlQT0MwS1BMaEE1UHdDV2xWdEhBR3AtSGVQcjNJTlVmOGlKY3l4dThoTVRxNUVURUstQ3E5eDRLd9IB9wFBVV95cUxNWGZuOHdXZzRHQXUtU09Ca0w2ODUzdDdGdzRueF9hc3o0TTNiSktpQnIyUzVJVmkxQUZocGJFSEJoZ0pJYzU0aFpzTVV6djZ4OWpwSjRHS3JfUmpLVFJDZnhId2Yzd0VLMmdheXJJaGo2M2dGcHJEc05zSWpmQ0RURnByaDlvcEd4bnMyZTA3MjdpOTY0N3NoSTZBUUU0QS05eG01S2ctSUdqdGU2MGF2Y1ZPZkg0akFWeGFOalBWT1cyZjUwaTJ2dXotZjFkOWZXeVdxQlZ5b3ZCMkI0VnR4eXJYVnJsOEdDZVZKZzRnaVNIektWSWE0?oc=5",
+              "publication": "The Economic Times",
+              "published_date": "Mon, 29 Dec 2025 08:00:00 GMT"
+            },
+            {
+              "headline": "Dow Jones falls 500 points, Nasdaq, S&P 500 slip 1% as Trump slaps tariffs on Japan, South Korea - The Economic Times",
+              "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxObWJja2RoVlYxb1JKYzlrX3UtOWZxSzc3TUc3czVRRjg4ZVlWZWtneEIyRFVuS215MXN2dGtnbFNiUnltVDQ3VDVTRGppVVhod0tjU0FMSmFKTmZqVEo5NVV4NlF6c213eWdBei1fTkFZNHF3b3Jwem9LajhZTkwwb1hzQ0xEX3piaWVwdlpPcllzMXBQd1I3SS1NcXI5ZkV4QmxvTmF2bnJqeXhVMmdmdXR3QWFHWWRuclRPVzhndkFLMDI3S2hlaW9TcGpZWnh4Z0RSVHd5dzl6ck9QR2tmWEwxVDhpMXNzNXEzX2dGeU1LQUdmQk5wONIB_gFBVV95cUxNOTI5dDU0Yy1aZHRfSHU4bTVvZUZ5WHFLajNpU1lhQmhZaGlCNVRqeW00dTRmUjJvdkxUVm1xTElNZU9Zd2NSQnJEbHV6ejlLTkNSajlQV214U1FWUENmdHlMVC1HMmFsMUtuNG9DMlVydm0zTk9DbTR4d3d3Z0FOMS1JSzQ1Yk44dVJsX0RoMTZUVmhOeW9lR0RMajl0RmxxS0NJVENoTnlieXNCamFJd3A4ZTdxaWlxWUZJU0h3bUhTMmFYZnlsbk95bjNmYlcyR3ZjTm04ck9DVkptQmFoR3ZzOVJ2cHlqalFKcl85VkpNcUUteG9WenRJVWtzUQ?oc=5",
+              "publication": "The Economic Times",
+              "published_date": "Mon, 07 Jul 2025 07:00:00 GMT"
+            },
+            {
+              "headline": "Budget may tap oil windfall? JM Financial flags excise-duty risk for HPCL, BPCL, IOCL; backs Oil India, ON - The Economic Times",
+              "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNQlNIVnNyVzk2VmdQVmVVbC15QjBNNm15alA5STZDbUFZNEozS1BXdmJsZ2E2RnlQbnBrWjNGQTZpRDlOcXRzelBuR0FaMDd5WUlKSDFXT0YteWFYSXBmM3ZFZFlPdkpXdGpTN1VCNmFjTjV1VzVVS2d5NHl6U0RMQ1VCR0hqTkdZWHFNZEszZnhuNFNWRTRSMmZiTVBaVXRWYWVRbDZiRU9FNGRfZWJwMDUxY2RTaTFVaEptTmZGWW1JZFhqVldEVEI1Yk5KQzZyUWZ5bkNkMmVoWGJBNzJlMEFnNXhSc0w5cHplWFVVUS1zTjVXNkNGOTNoNzRjZWJaa0JNQzl1cXjSAY4CQVVfeXFMT2lZaWpKMG4yY01zTlh0LTUzZl9UczlMeEJHN205QU90bGpLQUdBU2prZklONXVzWnc5TEJEcTVqemZRc01yNzhTaWFxMFlJdXd6OTd4bVplYXE1UVJhYVg3ZHpjN24tT3VqMV9hUUN1UFlBbUw1bWlSMk1mQ3d6VjZlc1ZXYm5TcFBPWE5GUk5DQngzRW0wNXpCdGFjSUZOYmx3akRjV09yYVQ1UnVuVjhwOG45THJvbURFeVRac1hXbUYyWmRQR3lXUVZvTzFHcDZtVzFHekpaMTNnSlUzanVOQWVVbEI2MmdyOENfRHpLdkd5akhpRTcwck93bmpWankybXZIalB4MG5JNEZn?oc=5",
+              "publication": "The Economic Times",
+              "published_date": "Thu, 08 Jan 2026 08:00:00 GMT"
+            },
+            {
+              "headline": "Reliance Power shares down 15% in a month as ED probe drags. Can the stock reclaim Rs 70 amid volatility? - The Economic Times",
+              "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQMnQyU2toTUhjWUM2MVZsbmFybEdvVjV5X1BBTU5xS2JzQ2Z3eWlqdkh2MHdxVjVvRHBlN2xxaHk3dld1OFFjZWRiQ1lSUTZGTnNwXzQxdHFlbDFoOUs1MFc2ZmJpYnNGSS1VRjdHeXl5d2hQbjJuWVNGcHA4LVRaVUVKZThLc280QzVlQm13em8zY0xXUVliVHNDXzlMX2U1RWRiYVJ6ZmhMNkNfWlBOSWZ6bTA0amc5eG1ZRUkxUXo0NlJ4M0FnREdOanM2clVaR2plQlpOUWNBVXNYb1VlWTJLU1RzMXA1QnhiaE5LZFJCQVVLdmxtZUJMZXdHMkt6WnQ0R3F6QdIBjAJBVV95cUxOUVNNS0RVNTRfb3FwY2JjQUdTZnBscmpnWW1TOUZfODBkck9FV3U0UUlxNlU2R083VG13ZUxucnEwTmhaTnRtTV9hZ05mRjJON2tZeXQ1S2FLTnY1OHJxNVFKZ2tBUzh6LXlhZnJmeHZUemNCYnhWcERSTUxHaDBmeVlFNENzeFRPcWhHZExoa3RLLTI4V3B1Uk9QTkpzWXVwMlJYa2hiLTNGeThHS1ZUdHJGY3lOUVFSdnJxMTQ0X0pKcEpJdl9nZlE3YjVtX0JCZ043Z1NYWFk2LWlrM3Q0empiRHBNSC1LS1REMWoyLUtMMHpfT3loMXBESkZSYWZFRlJIZWg4ck96NldV?oc=5",
+              "publication": "The Economic Times",
+              "published_date": "Fri, 25 Jul 2025 07:00:00 GMT"
+            },
+            {
+              "headline": "Power Grid shares to approach ex-date for Rs 4.5 per share interim dividend. Last chance to buy - The Economic Times",
+              "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQYzJZQmlkRTRXaXVVSjBreWhVNzQ0djN2eFRCT011bzNWU210NmxEYlhQUFcycU40MGxYU05YYk5oUVNBdmdobHRtOEFfU0o3Tk1wa3BlQTVmVHlobThGRUVVYk5ieWdpd1luSW5DemJQcXl6TkRJZHZLR0VsbHZqSTV1QldYclQyRm1mb2RpODQ1OWthTXJRa0d3UWxXS2NtQlhWWUcwSEN5OUZfTTl4dkwyWG1ackgyQWJWOTVoZlRLclc0RzZ4ZXFVZzkwMWVIMlJRQng4cWhIRDljWXVYUFlfYXVkYjZHUHVoakotZE9mTElwaXlNUzlDakTSAYICQVVfeXFMUFo4NlF4bllDcHNTS2E1cTRITUFKb1NJcnJEVzdxRzk1WS0yNUoyUXpUTHZFcXdPSGdSbTJkN3FwT2ZFeHFOaVlBSWI1T2lGY25sX29ha0g5YXNaVWl4eVJfa20tSHRlUWsxQzlZVHhBNTdCb0VfMUVrbjBHdVRxUkxLQ1Vhc1pjZVFJY0lGM0p4SEo0dWpDMTdCaDRtUWUyQ3dkcVhsb2FNeThZQmhUaWpJV0hidE1yMHlQWGZrQ3plWXVRYWM0cXV3Vjl4LVpnZlhQako5bGtsbkNnelBqczdYZGFvQXdKS0dLdlQ3aWhxVzhIZ01UemhnNTJVc3FnaFhn?oc=5",
+              "publication": "The Economic Times",
+              "published_date": "Fri, 07 Nov 2025 08:00:00 GMT"
+            },
+            {
+              "headline": "NSE IPO: Unlisted shares crash despite offer buzz. Are late buyers locked out of OFS route? - The Economic Times",
+              "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxONkVJUTlUQ2hfY1Fqd2pBYnYyWGxoX0VtT3FZRVkxcWFsekI0akUtalZRWThBM1NoYkw2ZXFPLUNfV0hOMjNveG1ocHJkV0w2YlJaTDB6RW5rcXlDVTladW9SRGhmaEw4WTdJbnptb2NhYjV4YlRwNzhzTThENE4xb3ZzYWR2UjRiTEtMTUNMaldOQWFyV2lDV2tQQUl1LU5ral81SVFuYUk0a0NUbnZkNkpfOWRLTmdPcXg2WDE4Z3VIcEVnTWJIT3JDUXpCYVZZblFQOHVJZUFqdzFXT3ppdkR0bnBjeGs4X1Jyd2F2Vng4VWY5R1Nz0gH3AUFVX3lxTE42RUlROVRDaF9jUWp3akFidjJYbGhfRW1PcVlFWTFxYWx6QjRqRS1qVlFZOEEzU2hiTDZlcU8tQ19XSE4yM294bWhwcmRXTDZiUlpMMHpFbmtxeUNVOVp1b1JEaGZoTDhZN0luem1vY2FiNXhiVHA3OHNNOEQ0TjFvdnNhZHZSNGJMS0xNQ0xqV05BYXJXaUNXa1BBSXUtTmtqXzVJUW5hSTRrQ1RudmQ2Sl85ZEtOZ09xeDZYMThndUhwRWdNYkhPckNRekJhVlluUVA4dUllQWp3MVdPeml2RHRucGN4azhfUnJ3YXZWeDhVZjlHU3M?oc=5",
+              "publication": "The Economic Times",
+              "published_date": "Sun, 19 Apr 2026 07:00:00 GMT"
+            },
+            {
+              "headline": "Britannia Industries Share Price Live Updates: Britannia Industries Closes at Rs 5240.7 with 6.17% 3-Mont - The Economic Times",
+              "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxQd0cyZVhUdzNOYVhkbk4wZFVlNDZlNkptbFM3RUpnbnpRRV84V1lKZk9RakEzZDVqOExsMU9KRmE2eUo4bjhJb096dTloX0hUNDZnbDRJUV9VLXh4NFB5aG5tUUVfNDN6Y20wNWdfdEFaYVNqTDlEY0dJVm5ZbmdKMGRadjhvNnB5VmtCZkp6WFcyLTUwZUZHNGtEVGstYmZlbDBYLUY2d1ZnanJyVWRrYkpkcGkwVTRtZ3Y0d1h4NUZfejdfZHlYRFVfdlMzc2RmRWhMVVhQY0ZiLWo5TUhsZG90dkFEQXdoZmlPaG9PazhCWEs4WlBEWW1QbFMxRVNBVzFNbEN0VU14cVZWUUxLaC1DLVhSc0dEVGFyRWh5TkN3WWY5WW1VUjVCN3k0SERDSW5VR0ljV2Y1czVmSWdZSU1yODJRWmE0bVdHVVRXMVNGNUNsQXhjSjBfazVMMFQ3b1R1djdLNUtVdGFiRFdKVHlWVUZQelY4OENmMDNOZGc1UElI0gGEA0FVX3lxTFB3RzJlWFR3M05hWGRuTjBkVWU0NmU2Sm1sUzdFSmduelFFXzhXWUpmT1FqQTNkNWo4TGwxT0pGYTZ5SjhuOElvT3p1OWhfSFQ0NmdsNElRX1UteHg0UHlobm1RRV80M3pjbTA1Z190QVphU2pMOURjR0lWblluZ0owZFp2OG82cHlWa0JmSnpYVzItNTBlRkc0a0RUay1iZmVsMFgtRjZ3VmdqcnJVZGtiSmRwaTBVNG1ndjR3WHg1Rl96N19keVhEVV92UzNzZGZFaExVWFBjRmItajlNSGxkb3R2QURBd2hmaU9ob09rOEJYSzhaUERZbVBsUzFFU0FXMU1sQ3RVTXhxVlZRTEtoLUMtWFJzR0RUYXJFaHlOQ3dZZjlZbVVSNUI3eTRIRENJblVHSWNXZjVzNWZJZ1lJTXI4MlFaYTRtV0dVVFcxU0Y1Q2xBeGNKMF9rNUwwVDdvVHV2N0s1S1V0YWJEV0pUeVZVRlB6Vjg4Q2YwM05kZzVQSUg?oc=5",
+              "publication": "The Economic Times",
+              "published_date": "Mon, 27 May 2024 07:00:00 GMT"
+            },
+            {
+              "headline": "Britannia Industries Share Price Live Updates: Britannia Industries Sees 1.05% Price Drop, 6-Month Beta a - The Economic Times",
+              "url": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxNODVtWGtTS0VKbHk2MkJtUzdwREJRRkh4YnpVeEhZcHdIWmpSazJUQlpmMDJnVzBEdXhleGlGMHl4ZjNkRXlscTZwVWF3dDJ6amlFOTlYR2JJTVM3VDdvRW53d3R6bVhqZWgwS2MyU1hRWVl4bFN3dWlKMkdKVVdYXzNHb2xRRWppeXRWMjFrajZhNTFQSlpiaHFmeGhyVTBNZUR6S0Zibm45VGFkYk5JRFdqZjlkS2IxMXkwMEVQN1dTMHJPREs1alV0RHIwN2JOeUdjcFEzakIwR1FZNkstSWRUSWdrR2NYc2hRYTBubVdUOUJOYjFIdDg2XzlaNmdKV2ZId01LQVgwenJPdVFBYk5QOXhhaE9Bb29BdUpkMkdkZDVIc3d5U0lURDRmYWVTWjZKWUxZZE9fZmZPemRKMGlhOXNrS3d0YW92blp6eVJxNVhMX0ZzbHVhT2g0Rk54YnBWRTRmbWlWVms1UXA1N2930gHyAkFVX3lxTE04NW1Ya1NLRUpseTYyQm1TN3BEQlFGSHhielV4SFlwd0haalJrMlRCWmYwMmdXMER1eGV4aUYweXhmM2RFeWxxNnBVYXd0MnpqaUU5OVhHYklNUzdUN29Fbnd3dHptWGplaDBLYzJTWFFZWXhsU3d1aUoyR0pVV1hfM0dvbFFFaml5dFYyMWtqNmE1MVBKWmJocWZ4aHJVME1lRHpLRmJubjlUYWRiTklEV2pmOWRLYjExeTAwRVA3V1Mwck9ESzVqVXREcjA3Yk55R2NwUTNqQjBHUVk2Sy1JZFRJZ2tHY1hzaFFhMG5tV1Q5Qk5iMUh0ODZfOVo2Z0pXZkh3TUtBWDB6ck91UUFiTlA5eGFoT0Fvb0F1SmQyR2RkNUhzd3lTSVRENGZhZVNaNkpZTFlkT19mZk96ZEowaWE5c2tLd3Rhb3ZuWnp5UnE1WExfRnNsdWFPaDRGTnhicFZFNGZtaVZWazVRcDU3b3c?oc=5",
+              "publication": "The Economic Times",
+              "published_date": "Mon, 27 May 2024 07:00:00 GMT"
+            },
+            {
+              "headline": "NSE Update: Special pre-open session in RIL on July 20 as Jio Financial gets temporary Nifty50 ticket - The Economic Times",
+              "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQbFRIajdCR0pCTmJFZWQ4WE9td1lwSGlvdzFSVDRWNnZoSFZMSEJFYWdtd3ZFeHFncm5rdmJoOVhzazNvUnpwT3dZVFVwcTU5NnBNX0laQVhKNXREN2NyUDlsaExaVkZlX0pkVTd2U3d2Um5sLU14c041TWltZWg1b3pqX0VsMmJGZUtvTzVXM0NaeElEU0ZjdTlzWVp5dGI5SEUxT1FqaWR4U0ZpOV9WUEdXV2ZubDdXZlJQTTNXV3N6aW93cnhxY2FHSXN6UnNqckRMTXlBQlpPcTE2RDMyN3V5V1TSAdgBQVVfeXFMTk9zQnNudVZUcWZYOXQtclBpS0JRRjNESUtRcTZqRFNRTnJ4VUt3ZlJMQ19SNGRiTE9VMGlvZ3ZVeUlrdTY3WGluZUpNV0NkNzNpS3pTU0dNQkJtbmFhVGlvQWNlOHJET3RocklmcU5QdlJYSDdGeUlLME4yRGFKUlR0SXFhUjlkWWxvM1ROVi1FcFBtVXpiSU9nVHJ4cGxjbTI1UWdkRFBPa3lsSldvVndoRm84YjJlbTBkWE90MVpNNENwbzM4Vk00aWlvelREWUl5amdveGRW?oc=5",
+              "publication": "The Economic Times",
+              "published_date": "Mon, 17 Jul 2023 07:00:00 GMT"
+            },
+            {
+              "headline": "Yes Bank Ltd (YESBANK) Share Price - Business Today",
+              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVHl4X0pYSXplNkc4T09nQTU0MHRxTWNjWU9HS0ZWbFF2ZU1FUHExZ1JvNThqNEg4d0hyajVUbXhCODRMSnlPUmE2clhaWFFZcWpnaEZTeGxKZWFXTnBXcjdqN01mc1p6VWh6YlpMUDZINUxnLXItMXN4ZHJGZzNjeQ?oc=5",
+              "publication": "Business Today",
+              "published_date": "Tue, 31 Jan 2023 05:53:56 GMT"
+            },
+            {
+              "headline": "Hindalco Industries Share Price Today Live Updates: Hindalco Industries Closes at Rs 518.35 with 3-Month - The Economic Times",
+              "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxQQmZxMzVXdW5WemRvNG9ZZTBwekpramFRZWlSNFdBR2trNkZmWFplUXM2UXhTd3dqdE5OM0x1RmlBODhxREl3Q3VMM3kwMjdnWXFJTlZpQTQ0WEhySl9faUlqOVczbkJ1UDNWeGs3TDgwb1pLOXItdnZ6cEtNV2RfXzdCSU1Hdl80UFB4SUpLVURGR2tGc3hjWjlMMkZWckRrUHhJd0VHS0NOLWkzNzNsaUVRRGNJM0VpaUZiTnpIOVloN3YzWUJmdS1rYnhrTFhCcFVjT3c3Z0ppX3JuOThSaGhtQzZjZVVhSlNtYTh0ZUFybkRvLUdyR1NCOFg0NkJmdE1RNXZ4SEhVUndtb0tGc3VrMWE1TnJZYi1CVWlQOXhQbmxkdU5KWGxtSWtZMWtCbFRROWEtRlRza1lzREFnRnFZTHNDR2RiUmNEM3pzd19menkyT2xQUEo5ZmV4UzI0T0ViLUxDbW05My1qb3daUkE4ZHI3QlpHN1FKZ1d0S3lTSUXSAYMDQVVfeXFMUEJmcTM1V3VuVnpkbzRvWWUwcHpKa2phUWVpUjRXQUdrazZGZlhaZVFzNlF4U3d3anROTjNMdUZpQTg4cURJd0N1TDN5MDI3Z1lxSU5WaUE0NFhIckpfX2lJajlXM25CdVAzVnhrN0w4MG9aSzlyLXZ2enBLTVdkX183QklNR3ZfNFBQeElKS1VERkdrRnN4Y1o5TDJGVnJEa1B4SXdFR0tDTi1pMzczbGlFUURjSTNFaWlGYk56SDlZaDd2M1lCZnUta2J4a0xYQnBVY093N2dKaV9ybjk4UmhobUM2Y2VVYUpTbWE4dGVBcm5Eby1HckdTQjhYNDZCZnRNUTV2eEhIVVJ3bW9LRnN1azFhNU5yWWItQlVpUDl4UG5sZHVOSlhsbUlrWTFrQmxUUTlhLUZUc2tZc0RBZ0ZxWUxzQ0dkYlJjRDN6c3dfZnp5Mk9sUFBKOWZleFMyNE9FYi1MQ21tOTMtam93WlJBOGRyN0JaRzdRSmdXdEt5U0lF?oc=5",
+              "publication": "The Economic Times",
+              "published_date": "Mon, 26 Feb 2024 08:00:00 GMT"
+            },
+            {
+              "headline": "YES Bank Share Price Today, YES Bank Stock Price Live NSE/BSE Updates - The Economic Times",
+              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcmIyU1FLSVRWLVZTNElsME04UnN2Vk1weWVTRmh3VEQ1cjF5RVhBLW1HRFF5M0hRbjhYYlh0ZEhOQmdGNXN5UVRzQm5PZ21xZ0hCSGZKRngxcWJ1MVJLTXVCZGZ0cUpPMnU4eWZYWEl2U1k2aEQ0T1FGNm5aaUtaTkVB?oc=5",
+              "publication": "The Economic Times",
+              "published_date": "Thu, 23 Mar 2017 13:06:49 GMT"
+            },
+            {
+              "headline": "NSE bars Yes Securities from onboarding new clients for three months - Dailyhunt",
+              "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOM2R0czZjOFNUSldOZU5Kd0lrYkVxNWlkZ2EtaURSM01lbHQtdlVVdWx6N05WRVV4bkNPUUM5LWd3d0xCTTE0M2tGUEpXVVltZ245OER0dXdoblBmZm45eVdRQ1BhR1VYbVJlZ1FMcVRzbHh5a1VvdkVsT3dRX0gyWG5uREpvQ0xXUnBFUzMzTkJlVlk0ZXRqZFpPcmQ4QWVoRDEzdFUwR0VMVElQeEhHWmZxTWc2dGdKZktXRWdzSVZ3YjBMX241WjBOTXA4c2hDYUFpNVJlR3NwcU5vY05IZTlhS3NGdjVXdTc3ag?oc=5",
+              "publication": "Dailyhunt",
+              "published_date": "Tue, 26 May 2026 22:46:57 GMT"
+            },
+            {
+              "headline": "NSE restricts Yes Securities for 3-mths for fraudulent practices - BizzBuzz",
+              "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNLXpoSFFFajc5bU1VbmtERnNVdzNoX19ZUkQ0bFNCeHNPalJUV21RU3hGSXF5OWJZWGUxMEtQd0JOWDY3Nzl5LTEwQzRueUxyS2xFbm9rMVI2LTQ4M0FOZnM0TU4zTzEyVG1wdU80dGo2VVJlT0FoYXRQbU93clV2TEFRSUd4c2RfNXBYeTlPcTJyOTZWYkhUak01eHU0REV0ajhuQzVvNFF3Zw?oc=5",
+              "publication": "BizzBuzz",
+              "published_date": "Wed, 27 May 2026 22:05:05 GMT"
+            },
+            {
+              "headline": "Rajputana Stainless shares make a muted market debut; check listing price on BSE & NSE - Business Today",
+              "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNZ1NiNGg3MFRLTGZleW91ZVVYT1BlOVh4b1lvLTF5aWg1YWVMT0RZZ2NOUzBDbzhkUGUwUWtFcXRTQ2VHc2tKWGxxajlZV2NaUWIzYjE1T3F1VnNQMnBYUGRQVFNrSE45bmhPNnRPbkFpR09FTlNYeXJ6aUE5Ni11SFpCSDB1MkRkN2VvWWpfcXVkeGxWYS1TdVlxYTV3alZDZm1fNTVRSmdUSnozTHRnMnk5RjAxVmpFUzBzanhNLUgwalFfRXh5RHZGVTZuTUhkS21PWW5LYmZYaGJCRkRBY3V6WG9CUdIB6wFBVV95cUxQVHdOTlBvQVlLSHdwaHdHX3JyckE0N0M4Ym9CTG12NnVEOXlCQzFfdFFWZmV2VDROd0tJemh6REp4OFZkZmxBM1dJU1p5cWpxd3FONmtPRVlKZTZjdHBBMnZlcGN4WnBMNTVQN2JJS1MtaXBtUm91UHFuYWJta2hLaTJjc3RKc0pJc2F0Z1prNHlhYzhQRkFfUVpxT2s3Z1RZT0xha0lLZUVHMzdKT1U0VU9fVGYzbGFFUlY3ZnhDUEdTVkxmckRZQzF3QU1BQW9HdU9CbHpCNjdaS2pjSXpEYUlOU1ZEcHVnWHlv?oc=5",
+              "publication": "Business Today",
+              "published_date": "Thu, 19 Mar 2026 07:00:00 GMT"
+            }
+          ],
+          "completed_at": "2026-05-29T05:18:24.452710"
         },
         "cut_2": {
           "due": "2026-05-30T11:00:00.190779",
